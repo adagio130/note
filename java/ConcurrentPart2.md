@@ -57,8 +57,60 @@ race condition - is a flaw in the timing or ordering of a program's execution th
 
 # Barrier
 
+prevents a group of threads from proceeding until enough threads have reached the barrier.
+
+* CyclicBarrier
+* CountDownLatch
+
+# Computational graph
+
+1. Spawn label: can run at any time after the spawn operation.
+2. Sync: not be able to execute until the dependency tasks complete.
+3. Directed Acyclic Graph(DAG)
+4. Critical Path: represent the longer series of sequential operations through the diagram. It could indicate the shortest possible execution time if this program was parallelized as much as possible.
+5. Minimizing the Critical Path is important in designing parallel algorithms.
+
+# Thread pool
+1. Taking task from queue.
+2. The time it takes to execute the task is less than the time required to create a new thread.
+3. Executor Service (Java)
+
+# Future
+1. Placeholder for a result that will be available later.
+2. Mechanism to access the result of an asynchronous operation.
+3. It's read-only
+4. Resolving or Fulfilling, it means the Future is finished.
+5. Callable<V> class
+
+# ForkJoinPool
+1. ExecutorService that executes ForkJoinTasks
+2. fork() - Asynchronously execute task in ForkJoinPool
+3. join() - Return result of computation when it is done
+4. RecursiveTask<V> - Return a result
+5. RecursiveAction - Does not return a result
+
+# Parallel Reason
+## Weak Scaling
+1. Variable number of processors with fixed problem size per processor
+2. Accomplish more work in the same time
+## Strong Scaling
+1. Variable number of processors with fixed total problem size
+2. Accomplish same work in less time
+## Throughput
+tasks/per time
+## Latency
+time/per task
+## Speedup
+sequential execution time/parallel execution time with N workers
+## Amdahl's law
+Overall Speedup = 1/((1-P)+(1-P)/2)
+P is parallel percent in one program
 
 
+# Coarse-grained parallelism
+high computation-to-communication ratio
+# Fine-grained parallelism
+good load-balancing
 
 
 Java's Remote Method Invocation API
