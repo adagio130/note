@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "83915ccdd6e7ff6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "875851e7e255fc39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ed076db26bf4c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/AWS/SAA-C03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e566c557e8b9e518",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3d7e4dbe7406bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320826a8d723a7a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "231d7dda3cbe1b30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c4df84b401fd15f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c3717c252e998a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c151ec578264e02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature/AWS/SAA-C03.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fd87293d8765f0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff17d3ec1d50fedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32bcf734d9e59cf2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Literature/AWS/SAA-C03.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6730961834850175,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ba91a39d26cc832a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d793ba3a8b2ec8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d613b9dca5b1b2e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature/AWS/SAA-C03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b510479a0c63490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature/AWS/SAA-C03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "graph:查看關聯圖": false
+    }
+  },
+  "active": "320826a8d723a7a9",
+  "lastOpenFiles": [
+    "GraphQL.md",
+    "Literature/Cloud/AWS_Artitecture_Assistance.md",
+    "Permanent",
+    "Leetcode/未命名.md",
+    "test123.md",
+    "Literature/Cloud/img.png",
+    "Literature/java/ConcurrentPart2.md",
+    "Literature",
+    "未命名.canvas",
+    "2023-08-15.md",
+    "Fleeting",
+    "Literature/AWS/SAA-C03.md",
+    "Leetcode/readme.md"
+  ]
+}
