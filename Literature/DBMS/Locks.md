@@ -37,6 +37,7 @@ COMMIT;
 	 * conflict: Row Exclusive, Share Row Exclusive, Exclusive, Access Exclusive
 6. Share Update Exclusive
 	* for operations that require examining and possibly modifying the schema, other transactions can read the table but cannot modify the rows. 
+	* commands: `VACUUM`, `ANALYZE`, `CREATE INDEX CONCURRENTLY`
 	* conflict: 
 7. Share Row Exclusive
 8. Exclusive
