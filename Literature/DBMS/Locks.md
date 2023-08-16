@@ -1,6 +1,9 @@
 Table lock:
 1. Access Share Lock
-2. Row Exclusive Lock
-3. Share Lock
-4. Access Exclusive Lock
-5. Using Select For Update
+	* least restrictive lock
+	* allowing concurrent reads
+	* blocking operations that require an exclusive lock 
+1. Row Exclusive Lock
+2. Share Lock
+3. Access Exclusive Lock
+4. Using Select For Update
