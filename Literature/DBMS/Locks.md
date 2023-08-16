@@ -36,7 +36,7 @@ COMMIT;
 	 * allow concurrent read but block other transactions modify the table
 	 * conflict: Row Exclusive, Share Row Exclusive, Exclusive, Access Exclusive
 6. Share Update Exclusive
-	* for operations that require examining and possibly modifying the schema,can read the table bot cannot modify the rows. 
+	* for operations that require examining and possibly modifying the schema, other transactions can read the table but cannot modify the rows. 
 	* conflict: 
 7. Share Row Exclusive
 8. Exclusive
