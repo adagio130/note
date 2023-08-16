@@ -3,11 +3,15 @@ Table lock:
 	* least restrictive lock
 	* allowing concurrent reads
 	* blocking operations that require an exclusive lock 
-	* BEGIN;
+```
+BEGIN;
 SELECT * FROM my_table; -- ACCESS SHARE lock is acquired here
 COMMIT;
+```
 
-1. Row Exclusive Lock
-2. Share Lock
-3. Access Exclusive Lock
-4. Using Select For Update
+2. Access Exclusive Lock
+	* 
+3. Row Exclusive Lock
+4. Share Lock
+5. 
+6. Using Select For Update
