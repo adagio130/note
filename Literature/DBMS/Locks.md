@@ -33,7 +33,8 @@ COMMIT;
 	* conflict -> Share, Share Row Exclusive,   Access Exclusive
 	* not conflict -> Access Share, Row Share, Row Exclusive
 3. **Share Lock**
-	 * 
+	 * allow concurrent read but block other transactions modify the table
+	 * conflict: Row Exclusive, Share Row Exclusive, Exclusive, Access Exclusive
 1. Share Update Exclusive
 2. Share Row Exclusive
 3. Exclusive
