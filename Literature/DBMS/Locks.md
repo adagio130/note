@@ -41,3 +41,13 @@ COMMIT;
 	* conflict: 
 7. Share Row Exclusive
 8. Exclusive
+
+|                        | Access Share | Access Exclusive | Row Share | Row Exclusive | Share | Share Update Exclusive | Share Row Exclusive | Exclusive |
+| ---------------------- | ------------ | ---------------- | --------- | ------------- | ----- | ---------------------- | ------------------- | --------- |
+| Access Share           |              |                  |           |               |       |                        |                     |           |
+| Access Exclusive       |              |                  |           |               |       |                        |                     |           |
+| Row Share              |              |                  |           |               |       |                        |                     |           |
+| Row Exclusive          |              |                  |           |               |       |                        |                     |           |
+| Share Update Exclusive |              |                  |           |               |       |                        |                     |           |
+| Share Row Exclusive    |              |                  |           |               |       |                        |                     |           |
+| Exclusive              |             |                  |           |               |       |                        |                     |           |
