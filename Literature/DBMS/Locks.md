@@ -23,6 +23,7 @@ ALTER TABLE my_table ADD COLUMN new_column INTEGER; -- ACCESS EXCLUSIVE acquired
 COMMIT;
 ```
 3. Row Share Lock
+	* bit more restrict then Access Share. 
 4. Row Exclusive Lock
 5. Share Update Exclusive
 6. Share
