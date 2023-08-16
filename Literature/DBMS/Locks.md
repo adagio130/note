@@ -28,11 +28,11 @@ COMMIT;
 	* Conflict -> Exclusive, Access Exclusive
 	* Not Conflict -> Row Exclusive
 1. Row Exclusive Lock
-	* Make the 
+	* Make the modifications serialized but without prevent concurrent access to the table.
 	* Automatically acquired when perform `UPDATE`, `INSERT`, `DELETE`
 	* Conflict -> Share, Share Row Exclusive,   Access Exclusive
 	* Not Conflict -> Access Share, Row Share, Row Exclusive
-3. Share Update Exclusive
-4. Share
-5. Share Row Exclusive
-6. Exclusive
+3. Share
+4. Share Update Exclusive
+6. Share Row Exclusive
+7. Exclusive
