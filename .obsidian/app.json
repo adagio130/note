@@ -1,1 +1,4 @@
-{}
+{
+  "attachmentFolderPath": "./attachments",
+  "useMarkdownLinks": false
+}

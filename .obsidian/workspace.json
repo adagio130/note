@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "875851e7e255fc39",
+        "id": "0e3b048f05be12cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed076db26bf4c80",
+            "id": "072b76ac16890f03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/AWS/SAA-C03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -72,62 +68,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Literature/AWS/SAA-C03.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "fd87293d8765f0c3",
     "type": "split",
     "children": [
-      {
-        "id": "ff17d3ec1d50fedb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32bcf734d9e59cf2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Literature/AWS/SAA-C03.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.6730961834850175,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
       {
         "id": "ba91a39d26cc832a",
         "type": "tabs",
@@ -153,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/AWS/SAA-C03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,17 +122,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/AWS/SAA-C03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "12ae5cf329c836a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 550.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +148,25 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "graph:查看關聯圖": false
+      "graph:查看關聯圖": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "320826a8d723a7a9",
+  "active": "072b76ac16890f03",
   "lastOpenFiles": [
-    "GraphQL.md",
+    "Literature/DBMS/DBMS.md",
+    "Literature/DBMS/Transaction.md",
+    "Literature/DBMS/ACID.md",
     "Literature/Cloud/AWS_Artitecture_Assistance.md",
+    "Literature/Cloud/img_1.png",
+    "Literature/DBMS/Relational DB Transaction steps.md",
+    "Literature/AWS/SAA-C03.md",
+    "Leetcode/readme.md",
+    "HankTank/未命名.md",
+    "GraphQL.md",
+    "DBMS.md",
+    "RDBS/未命名.canvas",
+    "Literature/DBMS",
     "Permanent",
     "Leetcode/未命名.md",
     "test123.md",
@@ -204,8 +175,6 @@
     "Literature",
     "未命名.canvas",
     "2023-08-15.md",
-    "Fleeting",
-    "Literature/AWS/SAA-C03.md",
-    "Leetcode/readme.md"
+    "Fleeting"
   ]
 }
