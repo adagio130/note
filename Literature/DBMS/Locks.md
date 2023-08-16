@@ -13,7 +13,7 @@ COMMIT;
 ```
 
 2. Access Exclusive Lock
-	* Acquired when execute `ALTER`, `DROP`, `TRUNCATE`
+	* Acquired when execute `ALTER`, `DROP`, `TRUNCATE` (modify the table's structure)
 	* most restrictive lock
 	* complete lock the target table
 	* Conflict -> all locks
