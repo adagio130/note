@@ -27,14 +27,16 @@ COMMIT;
 	* bit more restrict then Access Share. 
 	* conflict -> Exclusive, Access Exclusive
 	* not conflict -> Row Exclusive
-1. Row Exclusive Lock
+4. Row Exclusive Lock
 	* Make the modifications serialized but without prevent concurrent access to the table.
 	* Automatically acquired when perform `UPDATE`, `INSERT`, `DELETE`
-	* conflict -> Share, Share Row Exclusive,   Access Exclusive
+	* conflict -> Share, Share Row Exclusive, Access Exclusive
 	* not conflict -> Access Share, Row Share, Row Exclusive
-3. **Share Lock**
+5. **Share Lock**
 	 * allow concurrent read but block other transactions modify the table
 	 * conflict: Row Exclusive, Share Row Exclusive, Exclusive, Access Exclusive
-1. Share Update Exclusive
-2. Share Row Exclusive
-3. Exclusive
+6. Share Update Exclusive
+	* for operations that require examining and possibly modifying the schema,can read the table bot cannot modify the rows. 
+	* conflict: 
+7. Share Row Exclusive
+8. Exclusive
