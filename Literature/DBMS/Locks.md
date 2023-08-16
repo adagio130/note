@@ -1,3 +1,5 @@
+[[Transaction]]
+[[ACID]]
 Table lock:
 1. Access Share Lock
 	*  Acquired when execute a regular `SELECT` query
