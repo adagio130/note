@@ -23,12 +23,13 @@ ALTER TABLE my_table ADD COLUMN new_column INTEGER; -- ACCESS EXCLUSIVE acquired
 COMMIT;
 ```
 3. Row Share Lock
-	* 
+	* Read from table but prevent structural changes to the table
 	* bit more restrict then Access Share. 
-	* Not Conflict -> Row Exclusive
 	* Conflict -> Exclusive, Access Exclusive
-5. Row Exclusive Lock
-6. Share Update Exclusive
-7. Share
-8. Share Row Exclusive
-9. Exclusive
+	* Not Conflict -> Row Exclusive
+1. Row Exclusive Lock
+	*   
+2. Share Update Exclusive
+3. Share
+4. Share Row Exclusive
+5. Exclusive
