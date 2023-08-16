@@ -11,8 +11,12 @@
             "id": "072b76ac16890f03",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Literature/DBMS/Locks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -68,7 +72,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literature/DBMS/Locks.md"
+              }
             }
           }
         ]
@@ -106,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/DBMS/Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature/DBMS/Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +162,7 @@
   },
   "active": "072b76ac16890f03",
   "lastOpenFiles": [
+    "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/ACID.md",
