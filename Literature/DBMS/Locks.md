@@ -10,8 +10,13 @@ COMMIT;
 ```
 
 2. Access Exclusive Lock
-	* 
-3. Row Exclusive Lock
-4. Share Lock
-5. 
-6. Using Select For Update
+	* most restrictive lock
+```
+BEGIN; 
+ALTER TABLE my_table ADD COLUMN new_column INTEGER; -- ACCESS EXCLUSIVE lock is acquired here 
+COMMIT;
+```
+1. Row Exclusive Lock
+2. Share Lock
+3. 
+4. Using Select For Update

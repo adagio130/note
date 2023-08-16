@@ -6,6 +6,7 @@
       {
         "id": "0e3b048f05be12cb",
         "type": "tabs",
+        "dimension": 86.3852961198094,
         "children": [
           {
             "id": "072b76ac16890f03",
@@ -25,6 +26,7 @@
       {
         "id": "79cbe779b3e06593",
         "type": "tabs",
+        "dimension": 13.614703880190607,
         "children": [
           {
             "id": "9a48f46a9d10cdbd",
@@ -101,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 200
   },
   "right": {
     "id": "fd87293d8765f0c3",
@@ -180,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "072b76ac16890f03",
+  "active": "9a48f46a9d10cdbd",
   "lastOpenFiles": [
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",
