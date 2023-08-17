@@ -40,7 +40,9 @@ COMMIT;
 	* commands: `VACUUM`, `ANALYZE`, `CREATE INDEX CONCURRENTLY`
 	* conflict: 
 7. Share Row Exclusive
-8. Exclusive
+	* need to lock the table for reading while preventing others from modifying it
+	* 
+1. Exclusive
 
 |                        | Access Share | Access Exclusive | Row Share | Row Exclusive | Share | Share Update Exclusive | Share Row Exclusive | Exclusive |
 | ---------------------- | ------------ | ---------------- | --------- | ------------- | ----- | ---------------------- | ------------------- | --------- |
