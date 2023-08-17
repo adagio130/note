@@ -62,7 +62,7 @@ COMMIT;
 
 |                   | FOR UPDATE | FOR NO KEY UPDATE | FOR SHARE | FOR KEY SHARE |
 | ----------------- | ---------- | ----------------- | --------- | ------------- |
-| FOR UPDATE        |      O      |         O          |    O       |               |
+| FOR UPDATE        |      O      |         O          |    O       |       O        |
 | FOR NO KEY UPDATE |      O      |         O          |    O       |               |
 | FOR SHARE         |      O      |         O          |           |               |
 | FOR KEY SHARE     |      O      |                   |           |               |
