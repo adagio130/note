@@ -43,10 +43,10 @@ COMMIT;
 | ---------------------- | ------------ |  --------- | ------------- | ----- | ---------------------- | ------------------- | --------- | --------- |
 | Access Share           |              |                   |               |       |                       |                     |           | O |
 | Row Share              |              |                  |               |       |                        |                     |       O    | O |
-| Row Exclusive          |              |                  |               |  O     |         O               |          O           |    O       | O |
+| Row Exclusive          |              |                  |               |  O     |                        |          O           |    O       | O |
 | Share Update Exclusive |              |                |               |  O     |         O               |          O           |     O      | O |
 | Share                  |              |                   |      O         |       |         O               |          O           |    O       | O |
-| Share Row Exclusive    |              |                 |      O         |   O    |                        |         O            |     O      | O |
+| Share Row Exclusive    |              |                 |      O         |   O    |          O              |         O            |     O      | O |
 | Exclusive              |              |           O      |     O          |  O     |        O                |          O           |   O        | O |
 | Access Exclusive       |     O         |            O       |      O         |  O     |       O                |          O           |   O        | O |
 
