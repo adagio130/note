@@ -47,7 +47,8 @@ COMMIT;
 | Access Share           |              |                  |           |               |       |                        |                     |           |
 | Access Exclusive       |              |                  |           |               |       |                        |                     |           |
 | Row Share              |              |                  |           |               |       |                        |                     |           |
-| Row Exclusive          |              |                  |           |               |       |                        |                     |           |
-| Share Update Exclusive |              |                  |           |               |       |                        |                     |           |
-| Share Row Exclusive    |              |                  |           |               |       |                        |                     |           |
-| Exclusive              |             |                  |           |               |       |                        |                     |           |
+|      Share     |              |                  |           |               |       |                        | o                   |           |
+| Row Exclusive |              |                  |           |               |       |                        |                     |           |
+| Share Update Exclusive    |              |                  |           |               |       |                        |                     |           |
+| Share Row Exclusive             |              |                  |           |               |       |                        |                     |           |
+|              Exclusive           |              |                  |           |               |       |                        |                     |           |
