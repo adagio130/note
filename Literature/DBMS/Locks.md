@@ -53,8 +53,9 @@ COMMIT;
 ## Row-level Lock:
 
 ### 1.  FOR Update
-* Locks the selected rows against concurrent updates. Other transactions cannot update, delete, or lock these rows until the current transaction ends.
+* Lock the row before updating, prevent other transactions update, delete, or lock these rows until the current transaction ends.
 ### 2. FOR NO KEY UPDATE
 * 
 ### 3. FOR SHARE
+* Lock the row for reading, 
 ### 4. FOR KEY SHARE
