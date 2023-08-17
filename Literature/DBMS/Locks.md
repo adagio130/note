@@ -41,7 +41,8 @@ COMMIT;
 	* conflict: 
 7. Share Row Exclusive
 	* need to lock the table for reading while preventing others from modifying it
-	* 
+	* more restrictive than the `SHARE` lock
+	* It guarantees that only one transaction at a time can hold the `SHARE ROW EXCLUSIVE` lock on the table
 1. Exclusive
 
 |                        | Access Share | Access Exclusive | Row Share | Row Exclusive | Share | Share Update Exclusive | Share Row Exclusive | Exclusive |
