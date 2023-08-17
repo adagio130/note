@@ -59,4 +59,10 @@ COMMIT;
 ### 3. FOR SHARE (share)
 * Lock the row for reading, other transactions can acquire the lock as well.
 ### 4. FOR KEY SHARE
-* Similar to `FOR SHARE`, 
+
+|                   | FOR UPDATE | FOR NO KEY UPDATE | FOR SHARE | FOR KEY SHARE |
+| ----------------- | ---------- | ----------------- | --------- | ------------- |
+| FOR UPDATE        |      O      |         O          |    O       |               |
+| FOR NO KEY UPDATE |      O      |         O          |    O       |               |
+| FOR SHARE         |      O      |         O          |           |               |
+| FOR KEY SHARE     |      O      |                   |           |               |
