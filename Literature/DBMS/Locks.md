@@ -12,7 +12,7 @@ COMMIT;
 ```
 
 ### 2. Access Exclusive Lock
-	* Automatically acquired when execute `ALTER`, `DROP`, `TRUNCATE` (modify the table's structure)
+	* Automatically acquired when execute `ALTER`, `DROP`, `TRUNCATE`, `REINDEX` (modify the table's structure)
 	* most restrictive lock
 	* complete lock the target table
 ```
@@ -28,7 +28,7 @@ COMMIT;
 	* Automatically acquired when perform `UPDATE`, `INSERT`, `DELETE`
 ### 5. **Share Lock**
 	 * allow concurrent read but block other transactions modify the table
-	 * command: `Create Index` concurrently
+	 * command: `Create Index`
 ### 6. Share Update Exclusive
 	* for operations that require examining and possibly modifying the schema, other transactions can read the table but cannot modify the rows. 
 	* commands: `VACUUM`, `ANALYZE`, `CREATE INDEX CONCURRENTLY`
@@ -52,10 +52,10 @@ COMMIT;
 
 ## Row-level Lock:
 
-### 1.  FOR Update
+### 1.  FOR Update (exclusive)
 * Lock the row before updating, prevent other transactions update, delete, or lock these rows until the current transaction ends.
 ### 2. FOR NO KEY UPDATE
 * 
-### 3. FOR SHARE
-* Lock the row for reading, 
+### 3. FOR SHARE (share)
+* Lock the row for reading, other transactions can acquire the lock as well.
 ### 4. FOR KEY SHARE
