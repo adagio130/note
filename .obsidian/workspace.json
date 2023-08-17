@@ -94,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Literature/DBMS/Locks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -112,6 +110,7 @@
       {
         "id": "ba91a39d26cc832a",
         "type": "tabs",
+        "dimension": 35.714285714285715,
         "children": [
           {
             "id": "5d793ba3a8b2ec8f",
@@ -134,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +170,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "34d8c104424d5401",
         "type": "tabs",
+        "dimension": 64.28571428571429,
         "children": [
           {
             "id": "072b76ac16890f03",
@@ -192,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 745.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a48f46a9d10cdbd",
+  "active": "072b76ac16890f03",
   "lastOpenFiles": [
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",

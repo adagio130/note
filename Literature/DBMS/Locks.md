@@ -56,11 +56,11 @@ COMMIT;
 * Lock the row before updating, prevent other transactions update, delete, or lock these rows until the current transaction ends.
 * block the rows and other tables which reference to the rows
 ### 2. FOR NO KEY UPDATE
-* just block the current rows
+* similar to `FOR UPDATE`. just block the current rows
 ### 3. FOR SHARE (share)
 * Lock the row for reading, other transactions can acquire the lock as well.
 ### 4. FOR KEY SHARE
-* similart to 
+* similar to `FOR SHARE`. but does not block the update for non-key fields.
 
 |                   | FOR UPDATE | FOR NO KEY UPDATE | FOR SHARE | FOR KEY SHARE |
 | ----------------- | ---------- | ----------------- | --------- | ------------- |
