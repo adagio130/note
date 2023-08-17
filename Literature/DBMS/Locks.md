@@ -28,7 +28,7 @@ COMMIT;
 	* Automatically acquired when perform `UPDATE`, `INSERT`, `DELETE`
 5. **Share Lock**
 	 * allow concurrent read but block other transactions modify the table
-	 * command: `Create Index`
+	 * command: `Create Index` concurrently
 1. Share Update Exclusive
 	* for operations that require examining and possibly modifying the schema, other transactions can read the table but cannot modify the rows. 
 	* commands: `VACUUM`, `ANALYZE`, `CREATE INDEX CONCURRENTLY`
