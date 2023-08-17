@@ -6,7 +6,7 @@
       {
         "id": "79cbe779b3e06593",
         "type": "tabs",
-        "dimension": 58.75402792696026,
+        "dimension": 46.36038186157518,
         "children": [
           {
             "id": "9a48f46a9d10cdbd",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "d5d7e16f77700342",
         "type": "tabs",
-        "dimension": 41.245972073039745,
+        "dimension": 53.639618138424815,
         "children": [
           {
             "id": "ca4e80dc8610b418",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Locks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/CAP.md"
+                "file": "Literature/DBMS/Locks.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 745.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +209,9 @@
   },
   "active": "9a48f46a9d10cdbd",
   "lastOpenFiles": [
+    "Literature/DBMS/DBMS.md",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/Locks.md",
-    "Literature/DBMS/DBMS.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/ACID.md",
     "Literature/Cloud/AWS_Artitecture_Assistance.md",

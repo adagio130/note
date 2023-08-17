@@ -41,14 +41,14 @@ COMMIT;
 
 |                        | Access Share | Access Exclusive | Row Share | Row Exclusive | Share | Share Update Exclusive | Share Row Exclusive | Exclusive |
 | ---------------------- | ------------ | ---------------- | --------- | ------------- | ----- | ---------------------- | ------------------- | --------- |
-| Access Share           |              |        O          |     O      |               |       |                       |                     |           |
-| Access Exclusive       |     O         |        O          |           |      O         |  O     |       O                |          O           |   O        |
+| Access Share           |              |        O          |           |               |       |                       |                     |           |
+| Access Exclusive       |     O         |        O          |    O       |      O         |  O     |       O                |          O           |   O        |
 | Row Share              |              |        O          |           |               |       |                        |                     |       O    |
 | Row Exclusive          |              |        O          |           |               |  O     |         O               |          O           |    O       |
 | Share                  |              |        O          |           |      O         |       |         O               |          O           |    O       |
-| Share Update Exclusive |              |        O          |           |               |  O     |                        |          O           |     O      |
-| Share Row Exclusive    |              |        O          |           |      O         |       |         O               |                     |     O      |
-| Exclusive              |              |        O          |     O      |               |  O     |        O                |          O           |   O        |
+| Share Update Exclusive |              |        O          |           |               |  O     |         O               |          O           |     O      |
+| Share Row Exclusive    |              |        O          |           |      O         |   O    |         O               |                     |     O      |
+| Exclusive              |              |        O          |     O      |     O          |  O     |        O                |          O           |   O        |
 
 ## Row-level Lock:
 
