@@ -44,12 +44,12 @@ COMMIT;
 
 |                        | Access Share | Access Exclusive | Row Share | Row Exclusive | Share | Share Update Exclusive | Share Row Exclusive | Exclusive |
 | ---------------------- | ------------ | ---------------- | --------- | ------------- | ----- | ---------------------- | ------------------- | --------- |
-| Access Share           |              |                  |           |               |       |                        |                     |           |
-| Access Exclusive       |              |                  |           |               |  O     |                        |          O           |           |
-| Row Share              |              |                  |           |               |       |                        |                     |           |
-| Row Exclusive          |              |                  |           |               |  O     |                        |          O           |           |
-| Share                  |              |                  |           |      O         |       |                        |          O           |           |
-| Share Update Exclusive |              |                  |           |               |  O     |                        |          O           |           |
-| Share Row Exclusive    |              |                  |           |      O         |       |                        |                     |           |
-| Exclusive              |              |                  |           |               |  O     |                        |          O           |           |
+| Access Share           |              |        O          |     O      |               |       |                       |                     |           |
+| Access Exclusive       |     O         |        O          |           |      O         |  O     |       O                |          O           |           |
+| Row Share              |              |        O          |           |               |       |                        |                     |           |
+| Row Exclusive          |              |        O          |           |               |  O     |         O               |          O           |           |
+| Share                  |              |        O          |           |      O         |       |         O               |          O           |           |
+| Share Update Exclusive |              |        O          |           |               |  O     |                        |          O           |           |
+| Share Row Exclusive    |              |        O          |           |      O         |       |         O               |                     |           |
+| Exclusive              |              |        O          |     O      |               |  O     |        O                |          O           |           |
 
