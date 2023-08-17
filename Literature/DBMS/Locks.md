@@ -47,7 +47,7 @@ COMMIT;
 | Row Exclusive          |              |        O          |           |               |  O     |         O               |          O           |    O       |
 | Share                  |              |        O          |           |      O         |       |         O               |          O           |    O       |
 | Share Update Exclusive |              |        O          |           |               |  O     |         O               |          O           |     O      |
-| Share Row Exclusive    |              |        O          |           |      O         |   O    |         O               |                     |     O      |
+| Share Row Exclusive    |              |        O          |           |      O         |   O    |                        |         O            |     O      |
 | Exclusive              |              |        O          |     O      |     O          |  O     |        O                |          O           |   O        |
 
 ## Row-level Lock:
