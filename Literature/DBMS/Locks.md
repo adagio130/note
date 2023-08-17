@@ -29,14 +29,14 @@ COMMIT;
 5. **Share Lock**
 	 * allow concurrent read but block other transactions modify the table
 	 * command: `Create Index` concurrently
-1. Share Update Exclusive
+6. Share Update Exclusive
 	* for operations that require examining and possibly modifying the schema, other transactions can read the table but cannot modify the rows. 
 	* commands: `VACUUM`, `ANALYZE`, `CREATE INDEX CONCURRENTLY`
-2. Share Row Exclusive
+7. Share Row Exclusive
 	* need to lock the table for reading while preventing others from modifying it
 	* more restrictive than the `SHARE` lock
 	* It guarantees that only one transaction at a time can hold the `SHARE ROW EXCLUSIVE` lock on the table
-3. Exclusive
+8. Exclusive
 
 |                        | Access Share | Access Exclusive | Row Share | Row Exclusive | Share | Share Update Exclusive | Share Row Exclusive | Exclusive |
 | ---------------------- | ------------ | ---------------- | --------- | ------------- | ----- | ---------------------- | ------------------- | --------- |
