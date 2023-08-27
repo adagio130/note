@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VocabularyBank/End up.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,11 +228,11 @@
   },
   "active": "73b3809bbff569c0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Literature/Distribute System/Consensus Algorithm.md",
+    "VocabularyBank/End up.md",
+    "conflict-files-obsidian-git.md",
     "Literature/Distribute System",
     "Literature/DBMS/Consistency.md",
-    "VocabularyBank/End up.md",
     "VocabularyBank",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/Transaction.md",
