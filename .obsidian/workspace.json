@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "881622d685510d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Distribute System/Consensus Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73b3809bbff569c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VocabularyBank/End up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Consistency.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           }
@@ -97,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "VocabularyBank/End up.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,15 +226,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b951f9849ce1a1b",
+  "active": "73b3809bbff569c0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Literature/Distribute System/Consensus Algorithm.md",
+    "Literature/Distribute System",
+    "Literature/DBMS/Consistency.md",
+    "VocabularyBank/End up.md",
+    "VocabularyBank",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/ACID.md",
-    "Literature/DBMS/Consistency.md",
     "Fleeting/RDBMS short note.md",
     "未命名.canvas",
     "Literature/AWS/SAA-C03.md",
