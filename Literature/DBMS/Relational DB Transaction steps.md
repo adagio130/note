@@ -1,4 +1,4 @@
-[[Transaction]]
+[Transaction](Transaction.md)
 1. Transaction Start
 2. Acquire Necessary Locks- depend on the isolation level
 3. Execute Operations

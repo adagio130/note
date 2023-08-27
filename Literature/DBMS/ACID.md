@@ -1,4 +1,4 @@
-[[Transaction]]
+[Transaction](Transaction.md)
 是指DBMS 在寫入或更新資料的過程中，為保證交易（transaction）是正確可靠的，所必須具備的四個特性：
 
 1. 原子性（atomicity，或稱不可分割性）

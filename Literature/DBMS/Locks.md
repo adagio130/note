@@ -1,5 +1,5 @@
-[[Transaction]]
-[[ACID]]
+[Transaction](Transaction.md)
+[ACID](ACID.md)
 ## Table-level lock:
 ### 1.  Access Share Lock
 	* Automatically acquired when execute a regular `SELECT` query
@@ -55,6 +55,7 @@ COMMIT;
 ### 1.  FOR Update (exclusive)
 * Lock the row before updating, prevent other transactions update, delete, or lock these rows until the current transaction ends.
 * block the rows and other tables which reference to the rows
+* [example](https://medium.com/gofreight_hq/mysql-deadlock-investigation-b938f926f977)
 ### 2. FOR NO KEY UPDATE
 * similar to `FOR UPDATE`. just block the current rows
 ### 3. FOR SHARE (share)
