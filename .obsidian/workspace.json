@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replica(Sharding).md",
+                "file": "Literature/DBMS/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Replica(Sharding).md"
+                "file": "Literature/DBMS/Replication.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Replica(Sharding).md",
+                "file": "Literature/DBMS/Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Replica(Sharding).md",
+                "file": "Literature/DBMS/Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,19 +184,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "320826a8d723a7a9",
+  "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
+    "Literature/DBMS/Partition(Sharding).md",
+    "Literature/DBMS/Replication.md",
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/Relational DB Transaction steps.md",
-    "Literature/DBMS/Partition.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/BASE.md",
     "Literature/DBMS/ACID.md",
-    "Literature/DBMS/Replica(Sharding).md",
     "Fleeting/RDBMS short note.md",
     "Literature/DBMS/Consistency.md",
     "().md",

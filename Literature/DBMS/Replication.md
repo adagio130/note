@@ -1,4 +1,5 @@
 [DBMS](DBMS.md)
+[CAP](CAP.md)
 
 # Reason
 
@@ -7,4 +8,4 @@
 - Fault tolerance (higher available)
 	- avoid single point failure
 - Scale (higher throughput)
-	- scale the read request 
+	- increase the number of machines to manage a higher volume of read requests.
