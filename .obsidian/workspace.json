@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "Literature/DBMS/CAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "Literature/DBMS/CAP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VocabularyBank/End up.md"
+                "file": "Literature/DBMS/CAP.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "Literature/DBMS/CAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "Literature/DBMS/CAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,22 +209,22 @@
   },
   "active": "9a48f46a9d10cdbd",
   "lastOpenFiles": [
+    "Literature/DBMS/ACID.md",
+    "Literature/DBMS/CAP.md",
+    "Literature/DBMS/Consistency.md",
+    "Literature/DBMS/DBMS.md",
+    "Literature/DBMS/Locks.md",
+    "Literature/DBMS/Relational DB Transaction steps.md",
+    "Literature/DBMS/Transaction.md",
+    "VocabularyBank/End up.md",
     "未命名.canvas",
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/Distribute System",
-    "Literature/DBMS/Consistency.md",
     "Fleeting/RDBMS short note.md",
     "Fleeting",
-    "Literature/DBMS/CAP.md",
-    "VocabularyBank/End up.md",
     "VocabularyBank",
-    "Literature/DBMS/ACID.md",
-    "Literature/DBMS/Locks.md",
-    "Literature/DBMS/DBMS.md",
-    "Literature/DBMS/Transaction.md",
     "Literature/Cloud/AWS_Artitecture_Assistance.md",
     "Literature/Cloud/img_1.png",
-    "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/AWS/SAA-C03.md",
     "Leetcode/readme.md",
     "HankTank/未命名.md",
