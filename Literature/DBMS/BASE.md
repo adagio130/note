@@ -1,7 +1,7 @@
 [DBMS](DBMS.md)
 Distribute System:
 *  Basic Available: 
-	* should be available to respond with some acknowledgment(even it's failure acknowledge)(same as the [CAP' A](CAP.md#))
+	* should be available to respond with some acknowledgment(even it's failure acknowledge)(same as the [CAP' A](CAP.md))
 * Soft state: 
 	* The state of the system can be known after some time when it has converged but without consistency guarantees.
 * Eventually consistency: 
