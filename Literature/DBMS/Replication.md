@@ -1,5 +1,6 @@
 [DBMS](DBMS.md)
 [CAP](CAP.md)
+
 # Reason
 
 - Reduce the latency
