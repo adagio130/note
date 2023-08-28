@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/BASE.md",
+                "file": "Literature/DBMS/Saga Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/BASE.md",
+                "file": "Literature/DBMS/Saga Pattern.md",
                 "mode": "preview",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/BASE.md"
+                "file": "Literature/DBMS/Saga Pattern.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/BASE.md",
+                "file": "Literature/DBMS/Saga Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/BASE.md",
+                "file": "Literature/DBMS/Saga Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +209,8 @@
   },
   "active": "9a48f46a9d10cdbd",
   "lastOpenFiles": [
-    "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/BASE.md",
+    "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/ACID.md",
     "Literature/DBMS/Consistency.md",
