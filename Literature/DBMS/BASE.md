@@ -5,4 +5,4 @@ Distribute System:
 * Soft state: 
 	* The state of the system can be known after some time when it has converged but without consistency guarantees.
 * Eventually consistency: 
-	* It's become consistent(data/state) between systems after a period of time.
+	* It's become consistent(data/state) between systems after a period of time. (same as the  [CAP' C](CAP.md))
