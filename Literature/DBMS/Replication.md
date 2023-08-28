@@ -15,5 +15,6 @@
 Primary
 Read replicas
 
-Synchronize
-Asynchronized
+Synchronously
+Semi-synchronous
+Asynchronously
