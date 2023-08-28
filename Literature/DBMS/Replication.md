@@ -12,3 +12,8 @@
 # Replica
 - the node store the replication data
 
+Primary
+Read replicas
+
+Synchronize
+Asynchronized
