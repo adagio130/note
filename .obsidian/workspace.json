@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "Literature/DBMS/CAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "Literature/DBMS/CAP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Consistency.md"
+                "file": "Literature/DBMS/CAP.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "Literature/DBMS/CAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "Literature/DBMS/CAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +221,8 @@
   },
   "active": "733d63f84477f2a8",
   "lastOpenFiles": [
-    "Literature/DBMS/CAP.md",
     "Literature/DBMS/Consistency.md",
+    "Literature/DBMS/CAP.md",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/Distribute System/Consensus Algorithm.md",
