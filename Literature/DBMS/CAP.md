@@ -1,5 +1,6 @@
 [DBMS](DBMS.md)
-# **Consistency**: 
+
+## <a name="consistency"/>**Consistency**: 
 All nodes in the system see the same data at the same time. In other words, every read receives the most recent write.
 * Serializability: 
 * Linearizability:

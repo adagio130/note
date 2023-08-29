@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Literature/DBMS/Consistency.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,8 +44,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
-                "mode": "source",
+                "file": "Literature/DBMS/Consistency.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Replication.md"
+                "file": "Literature/DBMS/Consistency.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Literature/DBMS/Consistency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Literature/DBMS/Consistency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,6 +221,8 @@
   },
   "active": "733d63f84477f2a8",
   "lastOpenFiles": [
+    "Literature/DBMS/CAP.md",
+    "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/Distribute System/Consensus Algorithm.md",
@@ -229,11 +231,9 @@
     "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",
-    "Literature/DBMS/CAP.md",
     "Literature/DBMS/BASE.md",
     "Literature/DBMS/ACID.md",
     "Fleeting/RDBMS short note.md",
-    "Literature/DBMS/Consistency.md",
     "().md",
     "VocabularyBank/End up.md",
     "未命名.canvas",
