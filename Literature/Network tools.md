@@ -1,5 +1,5 @@
 
-Check the port status
+# Check the port status
 
 ## host file
 `grep -w '80/tcp' /etc/services`
@@ -8,4 +8,7 @@ Check the port status
 ## netstat
 `sudo netstat -tulpn | grep LISTEN`
 `cat /etc/services`
+
+
+# tcpdump
 
