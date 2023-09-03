@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
+                "file": "VocabularyBank/End up.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,8 +44,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
-                "mode": "preview",
+                "file": "VocabularyBank/End up.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,16 +221,21 @@
   },
   "active": "733d63f84477f2a8",
   "lastOpenFiles": [
-    "Leetcode/heap-sort/cmd/__debug_bin1019631671",
-    "Leetcode/heap-sort/cmd/__debug_bin2679038539",
     "Leetcode/heap-sort/cmd/HeapSort.go",
-    "Leetcode/heap-sort/cmd/HeapSort",
-    "Leetcode/heap-sort/cmd",
     "Leetcode/heap-sort/go.mod",
+    "Leetcode/heap-sort/cmd",
     "Leetcode/heap-sort",
+    "Leetcode/LRU/cmd/lru_cache.go",
+    "Leetcode/LRU/go.sum",
+    "Leetcode/LRU/cmd",
+    "Leetcode/LRU/go.mod",
+    "Leetcode/LRU",
+    "VocabularyBank/Turn out.md",
+    "VocabularyBank/End up.md",
+    "End.md",
+    "文法班/第一週 現在簡單式 現在進行.md",
     "Literature/Network tools.md",
     "Literature/DBMS/CAP.md",
-    "文法班/第一週 現在簡單式 現在進行.md",
     "文法班",
     "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Replication.md",
@@ -245,11 +250,8 @@
     "Literature/DBMS/ACID.md",
     "Fleeting/RDBMS short note.md",
     "().md",
-    "VocabularyBank/End up.md",
     "未命名.canvas",
     "Literature/Distribute System",
-    "Fleeting",
-    "VocabularyBank",
     "Literature/Cloud/AWS_Artitecture_Assistance.md",
     "Literature/Cloud/img_1.png",
     "Literature/AWS/SAA-C03.md",
@@ -258,8 +260,6 @@
     "GraphQL.md",
     "DBMS.md",
     "RDBS/未命名.canvas",
-    "Leetcode/未命名.md",
-    "test123.md",
     "Literature/Cloud/img.png"
   ]
 }
