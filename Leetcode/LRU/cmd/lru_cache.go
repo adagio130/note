@@ -17,7 +17,6 @@ func main() {
 	cache.Put("D", "D")
 	cache.Put("E", "E")
 	cache.Put("A", "A")
-	cache.Get("C")
 	cache.Put("F", "F")
 	cache.Put("B", "B")
 	cache.Put("T", "T")
@@ -27,7 +26,7 @@ func main() {
 	node := cache.Head
 	for node.Next != nil {
 		node = node.Next
-		fmt.Printf("%d,%s\n", node.Key, node.Val)
+		fmt.Printf("%s,%s\n", node.Key, node.Val)
 	}
 }
 
