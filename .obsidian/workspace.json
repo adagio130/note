@@ -221,6 +221,11 @@
   },
   "active": "733d63f84477f2a8",
   "lastOpenFiles": [
+    "Leetcode/LRU/cmd/lru_cache.go",
+    "Leetcode/LRU/go.sum",
+    "Leetcode/LRU/cmd",
+    "Leetcode/LRU/go.mod",
+    "Leetcode/LRU",
     "VocabularyBank/Turn out.md",
     "VocabularyBank/End up.md",
     "End.md",
@@ -255,8 +260,6 @@
     "RDBS/未命名.canvas",
     "Literature/DBMS",
     "Permanent",
-    "Leetcode/未命名.md",
-    "Literature/Cloud/img.png",
-    "Literature"
+    "Literature/Cloud/img.png"
   ]
 }
