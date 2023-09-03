@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,8 +44,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
-                "mode": "preview",
+                "file": "Literature/java/ConcurrentPart2.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md"
+                "file": "Literature/java/ConcurrentPart2.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文法班/第一週 現在簡單式 現在進行.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,6 +221,17 @@
   },
   "active": "733d63f84477f2a8",
   "lastOpenFiles": [
+    "Literature/Distribute System/Consensus Algorithm.md",
+    "Literature/AWS/SAA-C03.md",
+    "Literature/Cloud/img_6.png",
+    "Literature/Cloud/img_5.png",
+    "Literature/Cloud/img_4.png",
+    "Literature/Cloud/img_3.png",
+    "Literature/Cloud/img_1.png",
+    "Literature/Cloud/img.png",
+    "Literature/Cloud/AWS_Artitecture_Assistance.md",
+    "Fleeting/RDBMS short note.md",
+    "文法班/第一週 現在簡單式 現在進行.md",
     "Leetcode/heap-sort/cmd/__debug_bin1019631671",
     "Leetcode/heap-sort/cmd/__debug_bin2679038539",
     "Leetcode/heap-sort/cmd/HeapSort.go",
@@ -230,12 +241,10 @@
     "Leetcode/heap-sort",
     "Literature/Network tools.md",
     "Literature/DBMS/CAP.md",
-    "文法班/第一週 現在簡單式 現在進行.md",
     "文法班",
     "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/Partition(Sharding).md",
-    "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/Relational DB Transaction steps.md",
@@ -243,23 +252,17 @@
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/BASE.md",
     "Literature/DBMS/ACID.md",
-    "Fleeting/RDBMS short note.md",
     "().md",
     "VocabularyBank/End up.md",
     "未命名.canvas",
     "Literature/Distribute System",
     "Fleeting",
-    "VocabularyBank",
-    "Literature/Cloud/AWS_Artitecture_Assistance.md",
-    "Literature/Cloud/img_1.png",
-    "Literature/AWS/SAA-C03.md",
     "Leetcode/readme.md",
     "HankTank/未命名.md",
     "GraphQL.md",
     "DBMS.md",
     "RDBS/未命名.canvas",
     "Leetcode/未命名.md",
-    "test123.md",
-    "Literature/Cloud/img.png"
+    "test123.md"
   ]
 }
