@@ -13,12 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "55c42b958e2160ed"
+          },
+          {
+            "id": "fa95cd37febc1b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/java/ArrayList-v.s.-Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a5f51475f47a9ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/java/ArrayList-v.s.-Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74ed450fbffbf0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/java/ArrayList-v.s.-Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "ca4e80dc8610b418",
@@ -32,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "fb53416059f7416b",
@@ -44,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Replication.md"
+                "file": "Literature/java/ArrayList-v.s.-Vector.md"
               }
             }
           },
@@ -148,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Literature/java/ArrayList-v.s.-Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Literature/java/ArrayList-v.s.-Vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,47 +256,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "733d63f84477f2a8",
+  "active": "74ed450fbffbf0ae",
   "lastOpenFiles": [
-    "Literature/DBMS/Partition(Sharding).md",
+    "Literature/Data structure/Heap.md",
+    "Literature/Data structure",
+    "conflict-files-obsidian-git.md",
+    "Literature/java/ArrayList-v.s.-Vector.md",
+    "Literature/Network tools.md",
+    "Literature/java/ConcurrentPart2.md",
+    "Literature/Distribute System/Consensus Algorithm.md",
+    "Literature/AWS/SAA-C03.md",
+    "Literature/Cloud/img_6.png",
+    "Literature/Cloud/img_5.png",
+    "Literature/Cloud/img_4.png",
+    "Literature/Cloud/img_3.png",
+    "Literature/Cloud/img_1.png",
+    "Literature/Cloud/img.png",
+    "Literature/Cloud/AWS_Artitecture_Assistance.md",
+    "Fleeting/RDBMS short note.md",
+    "文法班/第一週 現在簡單式 現在進行.md",
+    "Leetcode/heap-sort/cmd/__debug_bin1019631671",
+    "Leetcode/heap-sort/cmd/__debug_bin2679038539",
+    "Leetcode/heap-sort/cmd/HeapSort.go",
+    "Leetcode/heap-sort/cmd/HeapSort",
+    "Leetcode/heap-sort/cmd",
+    "Leetcode/heap-sort/go.mod",
+    "Leetcode/heap-sort",
+    "Literature/DBMS/CAP.md",
+    "文法班",
+    "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Replication.md",
-    "Literature/DBMS/Relational DB Transaction steps.md",
+    "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
-    "Literature/Data structure/Heap.md",
-    "VocabularyBank/End up.md",
-    "Literature/Data structure",
-    "Literature/未命名.md",
-    "Literature/Java/ArrayList-v.s.-Vector.md",
-    "Leetcode/heap-sort/cmd/HeapSort.go",
-    "Leetcode/heap-sort/go.mod",
-    "Leetcode/heap-sort/cmd",
-    "Leetcode/heap-sort",
-    "Leetcode/LRU/cmd/lru_cache.go",
-    "Leetcode/LRU/go.sum",
-    "Leetcode/LRU/cmd",
-    "Leetcode/LRU/go.mod",
-    "Leetcode/LRU",
-    "VocabularyBank/Turn out.md",
-    "End.md",
-    "文法班/第一週 現在簡單式 現在進行.md",
-    "Literature/Network tools.md",
-    "Literature/DBMS/CAP.md",
-    "Literature/DBMS/Consistency.md",
-    "Literature/Distribute System/Consensus Algorithm.md",
+    "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/BASE.md",
     "Literature/DBMS/ACID.md",
-    "Fleeting/RDBMS short note.md",
     "().md",
+    "VocabularyBank/End up.md",
     "未命名.canvas",
-    "Literature/Cloud/AWS_Artitecture_Assistance.md",
-    "Literature/Cloud/img_1.png",
-    "Literature/AWS/SAA-C03.md",
+    "Literature/Distribute System",
     "Leetcode/readme.md",
     "HankTank/未命名.md",
-    "RDBS/未命名.canvas",
-    "Literature/Cloud/img.png"
+    "GraphQL.md",
+    "RDBS/未命名.canvas"
   ]
 }
