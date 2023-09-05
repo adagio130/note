@@ -13,8 +13,11 @@
 # Replica
 - the node store the replication data
 
-Primary
-Read replicas
+
+- Master (leader) - for write and pass data to replicas
+- Slave(read replicas) - for read
+
+
 
 Synchronously
 Semi-synchronous
