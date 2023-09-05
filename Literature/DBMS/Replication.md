@@ -32,5 +32,5 @@
 - Slave failed:
 - Master failed
 	- fail over: choose a slave to become master
-	- if system is asynchronously, the
+	- if a system is asynchronously, the new master may not have received the last write operation before the the old master went down.
 	- split brain: two nodes think respectively they are master
