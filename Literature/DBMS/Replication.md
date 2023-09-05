@@ -51,6 +51,5 @@
 	- Solve:
 		- 確保有因果相關的寫入都寫入到相同的slave
 
-
 ### Multiple Master:
 	
