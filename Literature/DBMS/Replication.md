@@ -45,4 +45,5 @@
 	- 兩個slave的latency不一樣，一個比較小，一個比較大，使用者從兩個slaves讀取相同資料時，latency較大的slave會取到較舊的資料
 	- Solve:
 		- 限制使用者只能向同一個slave讀取資料
-3. 
+3. **Consistent Prefix Read**:
+	- 
