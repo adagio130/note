@@ -23,7 +23,7 @@
 - data always consistency
 - if slave fail, the master need to wait to the slave until slave recover
 Semi-synchronous
-- one synchronously slave, multiple asynchronously slaves
-- when synchronously slave fails, choose one asynchronously to be synchronously
+- one synchronously slave, multiple asynchronous slaves
+- when synchronously slave fails, choose one asynchronously to be synchronous
 Asynchronously
-- 
+- all slaves are asynchronous
