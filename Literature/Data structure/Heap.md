@@ -8,5 +8,7 @@
  * The maximum/minimum value in the Heap can be obtained with O(1) time complexity.
 
 ## Heap's Type
- * Max Heap: Each node in the Heap has a value **no less than** its child nodes. Therefore, the top element (root node) has the **largest** value in the Heap.
+ * Max Heap: 
+	 * Each node in the Heap has a value **no less than** its child nodes. Therefore, the top element (root node) has the **largest** value in the Heap.
  * Min Heap
+	 * Each node in the Heap has a value **no larger than** its child nodes. Therefore, the top element (root node) has the **smallest** value in the Heap.
