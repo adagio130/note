@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Data structure/Heap.md",
+                "file": "Literature/DBMS/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Data structure/Heap.md",
+                "file": "Literature/DBMS/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Data structure/Heap.md"
+                "file": "Literature/DBMS/Replication.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Data structure/Heap.md",
+                "file": "Literature/DBMS/Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Data structure/Heap.md",
+                "file": "Literature/DBMS/Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +221,13 @@
   },
   "active": "733d63f84477f2a8",
   "lastOpenFiles": [
-    "VocabularyBank/End up.md",
+    "Literature/DBMS/Partition(Sharding).md",
+    "Literature/DBMS/Replication.md",
+    "Literature/DBMS/Relational DB Transaction steps.md",
+    "Literature/DBMS/Transaction.md",
+    "Literature/DBMS/Saga Pattern.md",
     "Literature/Data structure/Heap.md",
+    "VocabularyBank/End up.md",
     "Literature/Data structure",
     "Literature/未命名.md",
     "Literature/Java/ArrayList-v.s.-Vector.md",
@@ -241,12 +246,7 @@
     "Literature/Network tools.md",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/Consistency.md",
-    "Literature/DBMS/Replication.md",
-    "Literature/DBMS/Partition(Sharding).md",
     "Literature/Distribute System/Consensus Algorithm.md",
-    "Literature/DBMS/Transaction.md",
-    "Literature/DBMS/Saga Pattern.md",
-    "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/BASE.md",
