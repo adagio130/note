@@ -19,6 +19,11 @@
 
 
 
-Synchronously
+### Synchronously
+- data always consistency
+- if slave fail, the master need to wait to the slave until slave recover
 Semi-synchronous
+- one synchronously slave, multiple asynchronously slaves
+- when synchronously slave fails, pick up one asynchronously to be synchronously
 Asynchronously
+- 
