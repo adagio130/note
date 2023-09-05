@@ -36,6 +36,8 @@
 ### Eventually Consistency:
 - in the asynchronous system
 - which also replica lag
-1. Read-your-writes 
+1. Read-your-writes (**Read-after-write**)
 	- someone wants to immediately read the data which is written by himself.
-	- 
+	- Solve:
+		- read the data which is modified by himself  from the master (only for the most read system)
+		- If it's not most read system, maybe it can determine by the update time. for example, within 1 minutes, read from master, otherwise from the slave.
