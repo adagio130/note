@@ -22,8 +22,14 @@
 ### Synchronously
 - data always consistency
 - if slave fail, the master need to wait to the slave until slave recover
-Semi-synchronous
+### Semi-synchronous
 - one synchronously slave, multiple asynchronous slaves
 - when synchronously slave fails, choose one asynchronously to be synchronous
-Asynchronously
+### Asynchronously
 - all slaves are asynchronous
+
+### Failure Scenario
+- Slave failed:
+- Master failed
+	- fail over: choose a slave to become master
+	- 
