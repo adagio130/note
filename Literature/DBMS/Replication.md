@@ -23,6 +23,7 @@
 - when synchronously slave fails, choose one asynchronously to be synchronous
 ### Asynchronously
 - all slaves are asynchronous
+- for most read, less write system (Web ap)
 
 ### Failure Scenario
 - Slave failed: Catch-up recovery
@@ -32,4 +33,6 @@
 	- how does the old master know there is a new master after recovery
 	- split brain: two nodes think respectively they are master
 
-
+Eventually Consistency:
+- in the asynchronous system
+- which also replica lag
