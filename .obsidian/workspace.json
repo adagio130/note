@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/CAP.md"
+                "file": "Literature/DBMS/Replication.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/CAP.md",
+                "file": "Literature/DBMS/Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,13 +222,13 @@
   },
   "active": "a516549d62443374",
   "lastOpenFiles": [
+    "Literature/DBMS/Partition(Sharding).md",
+    "Literature/DBMS/CAP.md",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/Consistency.md",
-    "Literature/DBMS/CAP.md",
-    "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/Data structure/Heap.md",
     "VocabularyBank/End up.md",
