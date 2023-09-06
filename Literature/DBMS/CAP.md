@@ -10,7 +10,7 @@ Every request (read or write) receives a response, without guarantee that it con
 The system continues to operate even when network partitions occur (i.e., communication between nodes in the system is lost or delayed).
 
 Tips:
-1. **Avoid** using **distributed transactions** across microservices if possible. Working with distributed transactions brings more complex problems.
+1. **Avoid** using **distributed transactions** across microservices if possible. Working with distributed transactions brings more complex problems.
 2. Design your system that doesn’t require distributed consistency as much as possible. To achieve this, identify **transaction boundaries** as following;
 	- Identify the operations that have to work in same unit of work. Use strong consistency for this type of operations
 	- Identify the operations that can able to tolerate possible latencies in terms of consistency. Use eventual consistency for this type of operations
