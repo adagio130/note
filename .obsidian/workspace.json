@@ -223,8 +223,8 @@
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
     "Literature/DBMS/Consistency.md",
-    "Literature/DBMS/CAP.md",
     "Literature/DBMS/Replication.md",
+    "Literature/DBMS/CAP.md",
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/DBMS/Transaction.md",

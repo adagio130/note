@@ -36,7 +36,7 @@
 
 ### Eventually Consistency:
 - in the asynchronous system
-- which also replica lag
+- which also called replica lag
 1. **Read-your-writes (Read-after-write**)
 	- 使用者更新完資料後馬上讀更新的資料
 	- Solve:
