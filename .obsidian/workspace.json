@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "Literature/DBMS/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Consistency.md",
+                "file": "Literature/DBMS/Replication.md",
                 "mode": "source",
                 "source": false
               }
@@ -220,15 +220,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca4e80dc8610b418",
+  "active": "a516549d62443374",
   "lastOpenFiles": [
+    "Literature/DBMS/Transaction.md",
+    "Literature/DBMS/Saga Pattern.md",
+    "Literature/DBMS/DBMS.md",
     "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/Relational DB Transaction steps.md",
-    "Literature/DBMS/Transaction.md",
-    "Literature/DBMS/Saga Pattern.md",
     "Literature/Data structure/Heap.md",
     "VocabularyBank/End up.md",
     "Literature/Data structure",
@@ -249,7 +250,6 @@
     "Literature/Network tools.md",
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/DBMS/Locks.md",
-    "Literature/DBMS/DBMS.md",
     "Literature/DBMS/BASE.md",
     "Literature/DBMS/ACID.md",
     "Fleeting/RDBMS short note.md",
