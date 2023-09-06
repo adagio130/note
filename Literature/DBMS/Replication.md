@@ -37,10 +37,10 @@
 - in the asynchronous system
 - which also replica lag
 1. **Read-your-writes (Read-after-write**)
-	- someone wants to immediately read the data which is written by himself.
+	- 使用者更新完資料後馬上讀更新的資料
 	- Solve:
 		- read the data which is modified by himself  from the master (only for the most read system)
-		- If it's not the most read system, maybe it can be determined by the update time. for example, within 1 minute, read from master, otherwise from the slave.
+		- If it's not the most read system, maybe it can be determined by the update time. for example, within 1 minute, read from the master, otherwise from the slave.
 2. **Monotonic reads**:
 	- 兩個slave的latency不一樣，一個比較小，一個比較大，使用者從兩個slaves讀取相同資料時，latency較大的slave會取到較舊的資料
 	- Solve:
