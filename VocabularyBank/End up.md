@@ -2,10 +2,10 @@
 #flashcards/VocabularyBank 
 [Dictionary](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/end-up)
 
-IPA:
-Part of speech:
-Level:
-Definition:
+IPA: phrasal verb (I or T)
+Part of speech: /end/
+Level: #B1
+Definition: to finally be in a particular place or situation
 
 Synonyms: [[Turn out]]
 Antonyms:
