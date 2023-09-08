@@ -1,5 +1,6 @@
 {{date}} {{time}}
 #flashcards/VocabularyBank
+[Dictionary](Link)
 
 IPA:
 Part of speech:
