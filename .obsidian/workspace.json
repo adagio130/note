@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "VocabularyBank/End up.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Replication.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,8 +172,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b260d5add4c8e708",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "34d8c104424d5401",
@@ -202,13 +211,19 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "graph:查看關聯圖": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:復習卡片": false
     }
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "Literature/DBMS/DBMS.md",
+    "VocabularyBank/Turn out.md",
+    "templates",
+    "VocabularyBank/End up.md",
+    "Turn on.md",
     "Literature/DBMS/Replication.md",
+    "Literature/DBMS/DBMS.md",
     "2023-09-08.md",
     "Literature/Data structure/Heap.md",
     "Literature/Data structure/Data Structure.md",
@@ -219,7 +234,6 @@
     "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Relational DB Transaction steps.md",
-    "VocabularyBank/End up.md",
     "Literature/Data structure",
     "Literature/未命名.md",
     "Literature/Java/ArrayList-v.s.-Vector.md",
@@ -231,8 +245,6 @@
     "Leetcode/LRU/go.sum",
     "Leetcode/LRU/cmd",
     "Leetcode/LRU/go.mod",
-    "Leetcode/LRU",
-    "VocabularyBank/Turn out.md",
     "End.md",
     "文法班/第一週 現在簡單式 現在進行.md",
     "Literature/Network tools.md",
@@ -242,9 +254,7 @@
     "Literature/DBMS/ACID.md",
     "().md",
     "未命名.canvas",
-    "Literature/Cloud/AWS_Artitecture_Assistance.md",
     "Literature/Cloud/img_1.png",
-    "Literature/AWS/SAA-C03.md",
     "RDBS/未命名.canvas",
     "Literature/Cloud/img.png"
   ]
