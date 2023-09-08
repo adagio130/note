@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "733d63f84477f2a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/DBMS/Replication.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "55c42b958e2160ed"
-          },
-          {
             "id": "ca4e80dc8610b418",
             "type": "leaf",
             "state": {
@@ -32,25 +19,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "fb53416059f7416b",
+        "id": "575b47e9eeb001e5",
         "type": "tabs",
         "children": [
           {
-            "id": "a516549d62443374",
+            "id": "48dba869c6bf7790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Literature/DBMS/Replication.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
-            },
-            "group": "55c42b958e2160ed"
+            }
           }
         ]
       }
@@ -207,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 489.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,17 +205,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a516549d62443374",
+  "active": "48dba869c6bf7790",
   "lastOpenFiles": [
+    "2023-09-08.md",
+    "Literature/Data structure/Heap.md",
+    "Literature/DBMS/Replication.md",
+    "Literature/Data structure/Data Structure.md",
+    "Fleeting/RDBMS short note.md",
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/CAP.md",
-    "Literature/DBMS/Replication.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Relational DB Transaction steps.md",
-    "Literature/Data structure/Heap.md",
     "VocabularyBank/End up.md",
     "Literature/Data structure",
     "Literature/未命名.md",
@@ -252,14 +240,11 @@
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/BASE.md",
     "Literature/DBMS/ACID.md",
-    "Fleeting/RDBMS short note.md",
     "().md",
     "未命名.canvas",
     "Literature/Cloud/AWS_Artitecture_Assistance.md",
     "Literature/Cloud/img_1.png",
     "Literature/AWS/SAA-C03.md",
-    "Leetcode/readme.md",
-    "HankTank/未命名.md",
     "RDBS/未命名.canvas",
     "Literature/Cloud/img.png"
   ]
