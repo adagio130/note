@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "VocabularyBank/End up.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -233,8 +233,9 @@
   },
   "active": "f988196d13d35968",
   "lastOpenFiles": [
-    "templates/{{title}}.md",
+    "VocabularyBank/Tag and Code.md",
     "VocabularyBank/End up.md",
+    "templates/{{title}}.md",
     "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
     "Literature/DBMS/DBMS.md",
@@ -268,7 +269,6 @@
     "Literature/Network tools.md",
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/DBMS/Locks.md",
-    "Literature/DBMS/BASE.md",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
