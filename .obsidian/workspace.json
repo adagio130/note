@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "templates/{{title}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VocabularyBank/End up.md"
+                "file": "templates/{{title}}.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "templates/{{title}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "templates/{{title}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,9 +218,10 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
+    "VocabularyBank/End up.md",
+    "templates/{{title}}.md",
     "VocabularyBank/Turn out.md",
     "templates",
-    "VocabularyBank/End up.md",
     "Turn on.md",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/DBMS.md",
