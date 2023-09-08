@@ -1,9 +1,9 @@
 {{date}} {{time}}
-#flashcards
+#flashcards/VocabularyBank
 
 IPA:
 Part of speech:
-L:evel:
+Level:
 Definition:
 
 Synonyms:

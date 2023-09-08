@@ -1,36 +1,29 @@
-[[Turn on]]
-End up + V-ing
+2023-09-08 11:05
+#flashcards/VocabularyBank 
 
+IPA:
+Part of speech:
+Level:
+Definition:
+
+Synonyms: [[Turn out]]
+Antonyms:
+
+Note: End up + V-ing
+
+Sentences:
 * The couple **ended up** getting divorced.
 * The restaurant was full, so we **ended up** ordering pizza.
 * When post-it get bumped they flutter away in the breeze and end up labeling the bottom of people's shoes.
 * The restaurant ended up closing because of the pandemic 
 
-
-
-2023-09-08 11:05
-#flashcards
-
-IPA:
-Part of speech:
-L:evel:
-Definition:
-
-Synonyms:
-Antonyms:
-
-Note:
-
-Sentences:
-
-
 Questions:
 
-中文翻譯::English sentence
+他們最後還是分手了::They ended up getting broken up
 
 Cloz:
-this ===is=== a apple
+The couple ===ended up=== getting divorced
 
-Synonyms: ===word===
+Synonyms: ===turn out===
 Antonyms: ===word===
 
