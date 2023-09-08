@@ -6,6 +6,7 @@
       {
         "id": "d5d7e16f77700342",
         "type": "tabs",
+        "dimension": 77.04778156996586,
         "children": [
           {
             "id": "ca4e80dc8610b418",
@@ -18,12 +19,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f988196d13d35968",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "575b47e9eeb001e5",
         "type": "tabs",
+        "dimension": 22.95221843003413,
         "children": [
           {
             "id": "48dba869c6bf7790",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VocabularyBank/End up.md"
+                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md"
               }
             }
           },
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,14 +229,15 @@
       "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "ca4e80dc8610b418",
+  "active": "f988196d13d35968",
   "lastOpenFiles": [
-    "Turn on.md",
     "VocabularyBank/End up.md",
-    "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
-    "Excalidraw",
+    "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
     "VocabularyBank/Turn out.md",
     "templates/{{title}}.md",
+    "Turn on.md",
+    "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
+    "Excalidraw",
     "templates",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/DBMS.md",
@@ -253,7 +267,6 @@
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/BASE.md",
-    "Literature/DBMS/ACID.md",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",

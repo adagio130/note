@@ -9,7 +9,8 @@ Definition:
 Synonyms: [[Turn out]]
 Antonyms:
 
-Note: End up + V-ing
+Note: 
+End up + V-ing
 
 Sentences:
 * The couple **ended up** getting divorced.
@@ -19,11 +20,15 @@ Sentences:
 
 Questions:
 
-他們最後還是分手了::They ended up getting broken up
+Synonyms: ==turn out==
 
-Cloz:
-The couple ===ended up=== getting divorced
+Antonyms: ==testing==
 
-Synonyms: ===turn out===
-Antonyms: ===word===
+The couple ==ended up== getting divorced
+
+他們最後還是分手了:::They ended up getting broken up
+
+
+
+
 
