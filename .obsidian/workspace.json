@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/{{title}}.md",
+                "file": "VocabularyBank/End up.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/{{title}}.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/{{title}}.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/{{title}}.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,8 +218,8 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "VocabularyBank/End up.md",
     "templates/{{title}}.md",
+    "VocabularyBank/End up.md",
     "VocabularyBank/Turn out.md",
     "templates",
     "Turn on.md",

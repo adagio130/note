@@ -1,11 +1,26 @@
 {{date}} {{time}}
 #flashcards
 
-part of speech:
-level:
-definition:
+IPA:
+Part of speech:
+L:evel:
+Definition:
 
-sentences:
+Synonyms:
+Antonyms:
+
+Note:
+
+Sentences:
 
 
-英文:::
+Questions:
+
+中文翻譯::English sentence
+
+Cloz:
+this ===is=== a apple
+
+Synonyms: ===word===
+Antonyms: ===word===
+
