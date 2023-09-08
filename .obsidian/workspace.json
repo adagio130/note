@@ -24,9 +24,11 @@
             "id": "f988196d13d35968",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md"
+                "file": "VocabularyBank/End up.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,16 +233,16 @@
   },
   "active": "f988196d13d35968",
   "lastOpenFiles": [
-    "VocabularyBank/End up.md",
     "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
+    "Literature/DBMS/DBMS.md",
+    "VocabularyBank/End up.md",
     "VocabularyBank/Turn out.md",
     "templates/{{title}}.md",
     "Turn on.md",
-    "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
     "Excalidraw",
     "templates",
     "Literature/DBMS/Replication.md",
-    "Literature/DBMS/DBMS.md",
     "2023-09-08.md",
     "Literature/Data structure/Heap.md",
     "Literature/Data structure/Data Structure.md",
