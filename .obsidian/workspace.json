@@ -51,19 +51,8 @@
               }
             },
             "group": "55c42b958e2160ed"
-          },
-          {
-            "id": "b1d2a3172086052b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +220,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1d2a3172086052b",
+  "active": "a516549d62443374",
   "lastOpenFiles": [
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/CAP.md",
