@@ -19,6 +19,9 @@ Sentences:
 * When post-it get bumped they flutter away in the breeze and end up labeling the bottom of people's shoes.
 * The restaurant ended up closing because of the pandemic 
 
+Practice:
+- 
+
 Questions:
 
 Synonyms: ==turn out==

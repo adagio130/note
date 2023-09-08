@@ -6,7 +6,7 @@
       {
         "id": "d5d7e16f77700342",
         "type": "tabs",
-        "dimension": 77.04778156996586,
+        "dimension": 58.66780529461998,
         "children": [
           {
             "id": "ca4e80dc8610b418",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/{{title}}.md",
+                "file": "VocabularyBank/End up.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "575b47e9eeb001e5",
         "type": "tabs",
-        "dimension": 22.95221843003413,
+        "dimension": 41.33219470538002,
         "children": [
           {
             "id": "48dba869c6bf7790",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/{{title}}.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/{{title}}.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/{{title}}.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -220,10 +220,10 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "VocabularyBank/End up.md",
-    "VocabularyBank/Turn out.md",
     "VocabularyBank/Tag and Code.md",
+    "VocabularyBank/Turn out.md",
     "templates/{{title}}.md",
+    "VocabularyBank/End up.md",
     "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
     "Literature/DBMS/DBMS.md",
