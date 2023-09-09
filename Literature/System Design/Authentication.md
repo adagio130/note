@@ -29,3 +29,5 @@ decoded:
 		- To make the application more secure, you need to store the access token in the memory of the client application, not in LocalStorage or any other place where a hacker can easily steal our token.**
 	- Refresh token
 		- issued by the server upon successful authentication and used to obtain a new pair of **access** and/or **refresh** tokens.
+		- Since we are trying to protect our application as much as possible from hacking, we must store our refresh token exclusively in an HttpOnly Cookie.
+		- Each token has its own lifetime, for example access: 30 min, refresh: 14 days. This means that after 30 minutes the access token will expire and the client will try to renew the token, but if the user does not interact with our application within 14 days, the user will be automatically logged out.
