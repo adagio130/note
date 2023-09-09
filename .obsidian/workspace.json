@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Ｓ.md",
+                "file": "Literature/System Design/Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Ｓ.md"
+                "file": "Literature/System Design/Authentication.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Ｓ.md",
+                "file": "Literature/System Design/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Ｓ.md",
+                "file": "Literature/System Design/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,11 +256,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "320826a8d723a7a9",
+  "active": "74ed450fbffbf0ae",
   "lastOpenFiles": [
+    "Literature/Network tools.md",
+    "Literature/System Design/Authentication.md",
+    "Literature/Ｓ.md",
     "Literature/System Design",
     "VocabularyBank/End up.md",
-    "Literature/Ｓ.md",
     "VocabularyBank/Turn out.md",
     "VocabularyBank/Tag and Code.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
@@ -271,7 +273,6 @@
     "Literature/Data structure/Heap.md",
     "Literature/Data structure",
     "conflict-files-obsidian-git.md",
-    "Literature/Network tools.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/AWS/SAA-C03.md",
@@ -292,7 +293,6 @@
     "Leetcode/heap-sort/go.mod",
     "Leetcode/heap-sort",
     "Literature/DBMS/CAP.md",
-    "文法班",
     "Literature/DBMS/Consistency.md",
     "Literature/DBMS/Replication.md",
     "Literature/DBMS/Partition(Sharding).md",
