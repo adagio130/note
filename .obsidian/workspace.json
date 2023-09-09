@@ -6,87 +6,38 @@
       {
         "id": "d5d7e16f77700342",
         "type": "tabs",
+        "dimension": 58.66780529461998,
         "children": [
-          {
-            "id": "733d63f84477f2a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/java/ConcurrentPart2.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "55c42b958e2160ed"
-          },
-          {
-            "id": "fa95cd37febc1b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/java/ArrayList-v.s.-Vector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a5f51475f47a9ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/java/ArrayList-v.s.-Vector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74ed450fbffbf0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/Data structure/Generate All combination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "ca4e80dc8610b418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "VocabularyBank/End up.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "fb53416059f7416b",
+        "id": "575b47e9eeb001e5",
         "type": "tabs",
+        "dimension": 41.33219470538002,
         "children": [
           {
-            "id": "a516549d62443374",
+            "id": "48dba869c6bf7790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/java/ConcurrentPart2.md",
-                "mode": "source",
+                "file": "Literature/DBMS/DBMS.md",
+                "mode": "preview",
                 "source": false
               }
-            },
-            "group": "55c42b958e2160ed"
+            }
           }
         ]
       }
@@ -100,7 +51,7 @@
       {
         "id": "4a3d7e4dbe7406bf",
         "type": "tabs",
-        "dimension": 62.46376811594203,
+        "dimension": 37.95103092783505,
         "children": [
           {
             "id": "320826a8d723a7a9",
@@ -136,7 +87,7 @@
       {
         "id": "0c3717c252e998a8",
         "type": "tabs",
-        "dimension": 37.53623188405797,
+        "dimension": 62.04896907216495,
         "children": [
           {
             "id": "4c151ec578264e02",
@@ -144,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Data structure/Generate All combination.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -154,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:()",
+                "query": "tag:#flashcards/VocabularyBank",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Data structure/Generate All combination.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,18 +153,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Data structure/Generate All combination.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "12ae5cf329c836a0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -223,8 +166,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "cb435b1ac8c43b04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b260d5add4c8e708",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "34d8c104424d5401",
@@ -243,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 489.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,54 +213,52 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "graph:查看關聯圖": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "74ed450fbffbf0ae",
+  "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
     "Literature/System Design/Authentication.md",
-    "Literature/Data structure/Generate All combination.md",
     "Literature/System Design/HttpOnly.md",
-    "Literature/Network tools.md",
-    "Literature/Ｓ.md",
     "Literature/System Design",
-    "VocabularyBank/End up.md",
-    "VocabularyBank/Turn out.md",
+    "Literature/Data structure/Generate All combination.md",
     "VocabularyBank/Tag and Code.md",
-    "Literature/java/ArrayList-v.s.-Vector.md",
+    "VocabularyBank/Turn out.md",
     "templates/{{title}}.md",
+    "VocabularyBank/End up.md",
+    "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
+    "Literature/DBMS/DBMS.md",
+    "Turn on.md",
+    "Excalidraw",
     "templates",
-    "Literature/Data structure/Data Structure.md",
+    "Literature/DBMS/Replication.md",
     "2023-09-08.md",
     "Literature/Data structure/Heap.md",
-    "Literature/Data structure",
-    "conflict-files-obsidian-git.md",
-    "Literature/java/ConcurrentPart2.md",
-    "Literature/Distribute System/Consensus Algorithm.md",
-    "Literature/AWS/SAA-C03.md",
-    "Literature/Cloud/img_6.png",
-    "Literature/Cloud/img_5.png",
-    "Literature/Cloud/img_4.png",
-    "Literature/Cloud/img_3.png",
-    "Literature/Cloud/img_1.png",
-    "Literature/Cloud/img.png",
-    "Literature/Cloud/AWS_Artitecture_Assistance.md",
+    "Literature/Data structure/Data Structure.md",
     "Fleeting/RDBMS short note.md",
-    "文法班/第一週 現在簡單式 現在進行.md",
-    "Leetcode/heap-sort/cmd/__debug_bin1019631671",
-    "Leetcode/heap-sort/cmd/__debug_bin2679038539",
-    "Leetcode/heap-sort/cmd/HeapSort.go",
-    "Leetcode/heap-sort/cmd/HeapSort",
-    "Leetcode/heap-sort/cmd",
-    "Leetcode/heap-sort/go.mod",
-    "Leetcode/heap-sort",
-    "Literature/DBMS/CAP.md",
-    "Literature/DBMS/Consistency.md",
-    "Literature/DBMS/Replication.md",
     "Literature/DBMS/Partition(Sharding).md",
+    "Literature/DBMS/CAP.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
+    "Literature/DBMS/Consistency.md",
+    "Literature/DBMS/Relational DB Transaction steps.md",
+    "Literature/Data structure",
+    "Literature/未命名.md",
+    "Literature/Java/ArrayList-v.s.-Vector.md",
+    "Leetcode/heap-sort/cmd/HeapSort.go",
+    "Leetcode/heap-sort/go.mod",
+    "Leetcode/heap-sort/cmd",
+    "Leetcode/heap-sort",
+    "Leetcode/LRU/cmd/lru_cache.go",
+    "Leetcode/LRU/go.sum",
+    "End.md",
+    "文法班/第一週 現在簡單式 現在進行.md",
     "未命名.canvas",
-    "RDBS/未命名.canvas"
+    "Literature/Cloud/img_1.png",
+    "RDBS/未命名.canvas",
+    "Literature/Cloud/img.png"
   ]
 }
