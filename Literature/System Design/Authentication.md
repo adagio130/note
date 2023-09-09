@@ -1,5 +1,5 @@
 
-JWT Token
+JWT(Json Web Token)
 [RFC7519](https://datatracker.ietf.org/doc/html/rfc7519)
 
 ### mainly used:
@@ -18,7 +18,13 @@ decoded:
 		1. the type of the token, which is JWT, 
 		2. signing algorithm being used.
 	2. Payload(**Base64** format, also called Access token):
-		1. ## Signature
-		2. 
+		1. user defined
+		2. Do not put secret information in a JWT payload unless it is encrypted
 	3. Signature
-- 
+		1. can be generated using both symmetric encryption algorithms and asymmetric ones.
+		2. is used to verify the message wasn’t changed along the way, and, in the case of tokens signed with a private key, it can also verify that the sender of the JWT is who it says it is.
+- Types:
+	- Access token
+		- is used to authorize requests and store additional information about the user
+		- 
+	- Refresh token
