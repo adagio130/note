@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/System Design/Authentication.md",
+                "file": "Literature/System Design/HttpOnly.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/System Design/Authentication.md"
+                "file": "Literature/System Design/HttpOnly.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/System Design/Authentication.md",
+                "file": "Literature/System Design/HttpOnly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/System Design/Authentication.md",
+                "file": "Literature/System Design/HttpOnly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,8 +258,9 @@
   },
   "active": "74ed450fbffbf0ae",
   "lastOpenFiles": [
-    "Literature/Network tools.md",
     "Literature/System Design/Authentication.md",
+    "Literature/System Design/HttpOnly.md",
+    "Literature/Network tools.md",
     "Literature/Ｓ.md",
     "Literature/System Design",
     "VocabularyBank/End up.md",
@@ -299,7 +300,6 @@
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/Relational DB Transaction steps.md",
-    "Literature/DBMS/Locks.md",
     "未命名.canvas",
     "RDBS/未命名.canvas"
   ]

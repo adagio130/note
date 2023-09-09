@@ -26,5 +26,6 @@ decoded:
 - Types:
 	- Access token
 		- is used to authorize requests and store additional information about the user
-		- 
+		- To make the application more secure, you need to store the access token in the memory of the client application, not in LocalStorage or any other place where a hacker can easily steal our token.**
 	- Refresh token
+		- issued by the server upon successful authentication and used to obtain a new pair of **access** and/or **refresh** tokens.
