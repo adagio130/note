@@ -17,6 +17,8 @@ decoded:
 	1. Header(**Base64** format)
 		1. the type of the token, which is JWT, 
 		2. signing algorithm being used.
-	2. Payload(**Base64** format)
+	2. Payload(**Base64** format, also called Access token):
+		1. ## Signature
+		2. 
 	3. Signature
 - 
