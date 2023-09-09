@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/System Design/Authentication.md",
+                "file": "Literature/Data structure/Generate All combination.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/System Design/Authentication.md"
+                "file": "Literature/Data structure/Generate All combination.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/System Design/Authentication.md",
+                "file": "Literature/Data structure/Generate All combination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/System Design/Authentication.md",
+                "file": "Literature/Data structure/Generate All combination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,8 +258,9 @@
   },
   "active": "74ed450fbffbf0ae",
   "lastOpenFiles": [
-    "Literature/System Design/HttpOnly.md",
     "Literature/System Design/Authentication.md",
+    "Literature/Data structure/Generate All combination.md",
+    "Literature/System Design/HttpOnly.md",
     "Literature/Network tools.md",
     "Literature/Ｓ.md",
     "Literature/System Design",
@@ -299,7 +300,6 @@
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
-    "Literature/DBMS/Relational DB Transaction steps.md",
     "未命名.canvas",
     "RDBS/未命名.canvas"
   ]
