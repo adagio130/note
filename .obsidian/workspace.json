@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/java/ArrayList-v.s.-Vector.md",
+                "file": "Literature/Ｓ.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/java/ArrayList-v.s.-Vector.md"
+                "file": "Literature/Ｓ.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/java/ArrayList-v.s.-Vector.md",
+                "file": "Literature/Ｓ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/java/ArrayList-v.s.-Vector.md",
+                "file": "Literature/Ｓ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,16 +258,19 @@
   },
   "active": "320826a8d723a7a9",
   "lastOpenFiles": [
-    "templates/{{title}}.md",
-    "templates",
+    "Literature/System Design",
+    "VocabularyBank/End up.md",
+    "Literature/Ｓ.md",
     "VocabularyBank/Turn out.md",
     "VocabularyBank/Tag and Code.md",
+    "Literature/java/ArrayList-v.s.-Vector.md",
+    "templates/{{title}}.md",
+    "templates",
     "Literature/Data structure/Data Structure.md",
     "2023-09-08.md",
     "Literature/Data structure/Heap.md",
     "Literature/Data structure",
     "conflict-files-obsidian-git.md",
-    "Literature/java/ArrayList-v.s.-Vector.md",
     "Literature/Network tools.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/Distribute System/Consensus Algorithm.md",
@@ -297,9 +300,6 @@
     "Literature/DBMS/Saga Pattern.md",
     "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/DBMS/Locks.md",
-    "Literature/DBMS/DBMS.md",
-    "Literature/DBMS/BASE.md",
-    "Literature/DBMS/ACID.md",
     "未命名.canvas",
     "RDBS/未命名.canvas"
   ]
