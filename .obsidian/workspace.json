@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4fd90af18712052",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "575b47e9eeb001e5",
@@ -87,7 +98,7 @@
       {
         "id": "0c3717c252e998a8",
         "type": "tabs",
-        "dimension": 62.04896907216495,
+        "dimension": 62.04896907216496,
         "children": [
           {
             "id": "4c151ec578264e02",
@@ -218,7 +229,7 @@
       "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "ca4e80dc8610b418",
+  "active": "a4fd90af18712052",
   "lastOpenFiles": [
     "Literature/System Design/Authentication.md",
     "Literature/System Design/HttpOnly.md",
