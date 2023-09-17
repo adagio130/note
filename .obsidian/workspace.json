@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "VocabularyBank/End up.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
       {
         "id": "0c3717c252e998a8",
         "type": "tabs",
-        "dimension": 62.04896907216496,
+        "dimension": 62.04896907216495,
         "children": [
           {
             "id": "4c151ec578264e02",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Golang.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 489.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,9 +220,7 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "Fleeting/RDBMS short note.md",
     "Fleeting/Golang.md",
-    "VocabularyBank/End up.md",
     "Literature/System Design/Authentication.md",
     "Literature/System Design/HttpOnly.md",
     "Literature/System Design",
@@ -230,6 +228,7 @@
     "VocabularyBank/Tag and Code.md",
     "VocabularyBank/Turn out.md",
     "templates/{{title}}.md",
+    "VocabularyBank/End up.md",
     "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
     "Literature/DBMS/DBMS.md",
@@ -240,6 +239,7 @@
     "2023-09-08.md",
     "Literature/Data structure/Heap.md",
     "Literature/Data structure/Data Structure.md",
+    "Fleeting/RDBMS short note.md",
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/Transaction.md",
