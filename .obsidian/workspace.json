@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/{{title}}-structure.md",
+                "file": "VocabularyBank/End up.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/{{title}}-structure.md"
+                "file": "VocabularyBank/End up.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/{{title}}-structure.md",
+                "file": "VocabularyBank/End up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/{{title}}-structure.md",
+                "file": "VocabularyBank/End up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,14 +222,21 @@
   "lastOpenFiles": [
     "templates/{{title}}.md",
     "templates/{{title}}-structure.md",
+    "README.md",
+    "url.md",
+    "2023-09-08.md",
+    "文法班/第一週 現在簡單式 現在進行.md",
+    "VocabularyBank/Turn out.md",
+    "VocabularyBank/Tag and Code.md",
     "VocabularyBank/End up.md",
     "Fleeting/Golang.md",
     "Literature/System Design/Authentication.md",
     "Literature/System Design/HttpOnly.md",
-    "Literature/System Design",
+    "Literature/Network tools.md",
+    "Literature/Data structure/Heap.md",
     "Literature/Data structure/Generate All combination.md",
-    "VocabularyBank/Tag and Code.md",
-    "VocabularyBank/Turn out.md",
+    "Literature/Data structure/Data Structure.md",
+    "Literature/System Design",
     "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
     "Literature/DBMS/DBMS.md",
@@ -237,19 +244,12 @@
     "Excalidraw",
     "templates",
     "Literature/DBMS/Replication.md",
-    "2023-09-08.md",
-    "Literature/Data structure/Heap.md",
-    "Literature/Data structure/Data Structure.md",
     "Fleeting/RDBMS short note.md",
     "Literature/DBMS/Partition(Sharding).md",
     "Literature/DBMS/CAP.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
-    "Literature/DBMS/Consistency.md",
-    "Literature/DBMS/Relational DB Transaction steps.md",
     "Literature/Data structure",
-    "Literature/未命名.md",
-    "Literature/Java/ArrayList-v.s.-Vector.md",
     "Leetcode/heap-sort/cmd/HeapSort.go",
     "Leetcode/heap-sort/go.mod",
     "Leetcode/heap-sort/cmd",

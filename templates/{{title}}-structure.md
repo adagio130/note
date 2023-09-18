@@ -1,7 +1,8 @@
 {{date}} {{time}}
 #flashcards/DataStructure
 
-Question: [#number](url)
+Question: 
+- [#number](url) - level
 
 Structure:
 ` code snippet`
