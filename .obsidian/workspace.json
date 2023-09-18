@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "templates/{{title}}-structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VocabularyBank/End up.md"
+                "file": "templates/{{title}}-structure.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "templates/{{title}}-structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VocabularyBank/End up.md",
+                "file": "templates/{{title}}-structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -220,6 +220,9 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
+    "templates/{{title}}.md",
+    "templates/{{title}}-structure.md",
+    "VocabularyBank/End up.md",
     "Fleeting/Golang.md",
     "Literature/System Design/Authentication.md",
     "Literature/System Design/HttpOnly.md",
@@ -227,8 +230,6 @@
     "Literature/Data structure/Generate All combination.md",
     "VocabularyBank/Tag and Code.md",
     "VocabularyBank/Turn out.md",
-    "templates/{{title}}.md",
-    "VocabularyBank/End up.md",
     "Excalidraw/Drawing 2023-09-08 11.15.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-08 11.09.16.excalidraw.md",
     "Literature/DBMS/DBMS.md",
@@ -255,7 +256,6 @@
     "Leetcode/heap-sort",
     "Leetcode/LRU/cmd/lru_cache.go",
     "Leetcode/LRU/go.sum",
-    "End.md",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
