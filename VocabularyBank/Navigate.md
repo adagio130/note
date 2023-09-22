@@ -3,10 +3,11 @@
 [Cambridge Dictionary](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/navigate)
 
 
-IPA:
-Part of speech:
-Level:
-Definition:
+IPA: verb
+Part of speech: /ˈnæv.ə.ɡeɪt/
+Level: #NoLevel
+Definition: 
+	to direct the way that a ship, aircraft, etc. will travel, or to find a direction across, along, or over an area of water or land, often by using a map
 
 Synonyms:
 Antonyms:

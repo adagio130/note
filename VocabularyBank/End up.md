@@ -5,7 +5,9 @@
 IPA: phrasal verb (I or T)
 Part of speech: /end/
 Level: #B1
-Definition: to finally be in a particular place or situation
+Definition: 
+
+	to finally be in a particular place or situation
 
 Synonyms: [[Turn out]]
 Antonyms:
