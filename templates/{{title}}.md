@@ -1,6 +1,6 @@
 {{date}} {{time}}
 #flashcards/VocabularyBank
-[Cambridge Dictionary](Link)
+[Cambridge Dictionary]()
 
 
 IPA:
