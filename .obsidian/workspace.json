@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "575b47e9eeb001e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48dba869c6bf7790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/DBMS/DBMS.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

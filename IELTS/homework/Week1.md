@@ -4,9 +4,9 @@
 1. What's your favorite room
 	 - I don't have many options since my flat only has one room. 
 2. Is there anything you want to change about your home
-	- The major part that I'd like to change is the space of it. But I think it's impossible. Maybe moving to a new one is better than changing it.
+	- The main thing I'd like to change is the amount of space. However, that's not really possible, so moving to a new place might be a better solution.
 1. Would you like to move to a different home in the future
-	- The answer is definitely yes, the flat that I currently live in is too small. I want to move to a new one as soon as possible.
+	- Absolutely, yes. The flat I'm in now is too small, and I'd like to move to a more spacious one as soon as I can.
 
 Home town
 
