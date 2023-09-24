@@ -9,23 +9,19 @@ Level: #NoLevel
 Definition: 
 	to direct the way that a ship, aircraft, etc. will travel, or to find a direction across, along, or over an area of water or land, often by using a map
 
-Synonyms:
-Antonyms:
-
 Note:
 
 Sentences:
-
+- Sailors have special equipment to help them nagvigate
+- Some migrating birds can navigate by the moon
+- We had to navigate several flights of stairs to find his office.
+- At sea, sailors used the stars and Sun to navigate
+- Navigating on land was almost impossible without a compass
 
 Questions:
+在海上，過去的水手們利用星星及太陽來移動:::At sea, sailors used the stars and Sun to navigate
+<!--SR:!2023-09-25,3,250!2023-09-25,3,250-->
 
-Synonyms: ==word==
-
-Antonyms: ==word==
-
-The couple ==ended up== getting divorced
-
-他們最後還是分手了:::They ended up getting broken up
 
 
 
