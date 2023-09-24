@@ -2,9 +2,11 @@
 1. Do you live in a house or a flat
 	- I live in flat right now. Living in a flat is cheaper than a house in Taipei.
 1. What's your favorite room
-	 - 
+	 - I don't have too much choice because there is only one room in my flat.
 2. Is there anything you want to change about your home
-3. Would you like to move to a different home in the future
+	- The major part that I'd like to change is to buy a new bigger flat.
+1. Would you like to move to a different home in the future
+	- The answer is definitely yes, the flat that I currently lived is too small. I want to move to a new flat as soon as possible.
 
 Home town
 
