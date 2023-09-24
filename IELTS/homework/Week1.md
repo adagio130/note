@@ -1,7 +1,8 @@
 
 1. Do you live in a house or a flat
-	- I live in flat right now. Living in flat is s
+	- I live in flat right now. Living in a flat is cheaper than a house in Taipei.
 1. What's your favorite room
+	 - 
 2. Is there anything you want to change about your home
 3. Would you like to move to a different home in the future
 
