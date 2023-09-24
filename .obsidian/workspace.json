@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b614ceef45940c41",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "c1205391e9238cfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "575b47e9eeb001e5",
@@ -116,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "IELTS/homework/Week1.md"
               }
             }
           },
@@ -157,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "IELTS/homework/Week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "IELTS/homework/Week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +226,7 @@
       "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "c1205391e9238cfe",
+  "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "README.md",
