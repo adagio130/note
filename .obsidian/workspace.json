@@ -9,18 +9,55 @@
         "dimension": 58.66780529461998,
         "children": [
           {
-            "id": "ca4e80dc8610b418",
+            "id": "2d5cd9aa6d75c1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Network tools.md",
+                "file": "IELTS/homework/Week1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09f3dc33313f76d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/homework/Week1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a374cf0aba5567e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/homework/Week1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "980d38818796c58e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "575b47e9eeb001e5",
@@ -95,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Network tools.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -136,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Network tools.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Network tools.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,16 +255,22 @@
       "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "320826a8d723a7a9",
+  "active": "980d38818796c58e",
   "lastOpenFiles": [
-    "VocabularyBank/Navigate.md",
+    "IELTS/homework/Week1.md",
+    "conflict-files-obsidian-git.md",
     "Link.md",
+    "IELTS/homework",
+    "IELTS/未命名.md",
+    "README.md",
+    "url.md",
+    "Literature/Network tools.md",
+    "VocabularyBank/Navigate.md",
     "IELTS/6min/Finding your way in space.md",
     "IELTS/6min",
     "IELTS",
     "Fleeting/投資.md",
     "Fleeting/Golang.md",
-    "url.md",
     "templates/{{title}}-structure.md",
     "Fleeting/RDBMS short note.md",
     "VocabularyBank/End up.md",
@@ -246,16 +289,10 @@
     "templates",
     "Literature/DBMS/Replication.md",
     "2023-09-08.md",
-    "Literature/Data structure/Heap.md",
-    "Literature/Data structure/Data Structure.md",
-    "Literature/DBMS/Partition(Sharding).md",
-    "Literature/DBMS/CAP.md",
-    "Literature/DBMS/Transaction.md",
     "Literature/Data structure",
     "Leetcode/heap-sort/cmd/HeapSort.go",
     "Leetcode/heap-sort/go.mod",
     "Leetcode/heap-sort/cmd",
-    "Leetcode/heap-sort",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
