@@ -6,7 +6,7 @@
 2. Is there anything you want to change about your home
 	- The part that I'd like to change is to make it bigger. However, that's not really possible, so moving to a new place might be a better solution.
 1. Would you like to move to a different home in the future
-	- Absolutely, yes. The flat I'm living now is too small, and I'd like to move to a more spacious one as soon as I can.
+	- Absolutely, yes. The flat I'm living in now is too small, and I'd like to move to a more spacious one as soon as I can.
 
 Home town
 
