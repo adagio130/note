@@ -1,5 +1,6 @@
 
 Do you have a favorite flower or plant?
+The cherry blossoms come to my mind immediately. I still remember the 
 
 What kind of flowers and plants grow near where you live?
 
