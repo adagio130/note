@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/筆記/IELTS-week2.md",
+                "file": "IELTS/homework/Week2.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/筆記/IELTS-week2.md"
+                "file": "IELTS/homework/Week2.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/筆記/IELTS-week2.md",
+                "file": "IELTS/homework/Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/筆記/IELTS-week2.md",
+                "file": "IELTS/homework/Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,12 +210,13 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "IELTS/homework/Hank中文.pdf",
+    "IELTS/homework/Week1.md",
+    "IELTS/homework/Week2.md",
     "IELTS/homework/Hank.pdf",
+    "IELTS/homework/Hank中文.pdf",
+    "IELTS/筆記/IELTS-week2.md",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
-    "IELTS/homework/Week1.md",
-    "IELTS/筆記/IELTS-week2.md",
     "IELTS/筆記",
     "conflict-files-obsidian-git.md",
     "README.md",
@@ -245,7 +246,6 @@
     "Fleeting/投資.md",
     "Fleeting/Golang.md",
     "Literature/System Design",
-    "Excalidraw",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
