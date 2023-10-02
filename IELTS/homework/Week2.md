@@ -9,4 +9,4 @@ Is it important to you to have flowers and plants in your home?
 Not really, it's hard enough taking care of myself, let alone being responsible for another life—even if it's just a plant.
 
 Have you ever bought flowers for someone else?
-Sure, considering the period of preserve, I bought the forever flowers for my girlfriend.
+Sure, considering they last longer, I bought the forever flowers for my girlfriend.
