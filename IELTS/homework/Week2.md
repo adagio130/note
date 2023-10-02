@@ -6,5 +6,6 @@ What kind of flowers and plants grow near where you live?
 I don't really know what they are. 
 
 Is it important to you to have flowers and plants in your home?
+Not really, it's so difficult to take myself well, not mention to raise another life.
 
 Have you ever bought flowers for someone else?
