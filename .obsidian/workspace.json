@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "fa6396033a837efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d1740ce19b51d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IELTS/homework/Hank.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +226,11 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "IELTS/homework/Week2.md",
-    "IELTS/homework/passion map.md",
-    "IELTS/homework/Week1.md",
-    "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
+    "IELTS/homework/Hank中文.pdf",
+    "IELTS/homework/passion map.md",
+    "IELTS/homework/Week2.md",
+    "IELTS/homework/Week1.md",
     "IELTS/筆記/IELTS-week2.md",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
@@ -244,7 +260,6 @@
     "VocabularyBank/Navigate.md",
     "IELTS/6min",
     "IELTS",
-    "Fleeting/投資.md",
     "Literature/System Design",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",

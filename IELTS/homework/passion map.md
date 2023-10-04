@@ -1,2 +1,2 @@
 
-I'm Hank, 
+I'm Hank, a scuba diving enthusiast. 
