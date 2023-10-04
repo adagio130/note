@@ -6,5 +6,4 @@ I work as a software engineer at Vertiv. For me, coding isn't just a job—it's 
 
 Regarding my family background, I was raised in a traditional Asian household where compliments were seldom given which is contributing to my lack of self-confidence. In my attempts to gain recognition, I engaged in various unconventional activities just to get adults to notice me. Eventually, I realized that I couldn't get the affirmation I needed from my home environment, so I turned to external networks to build my self-esteem. After taking amount of time in rebuilding my confidence, I can say that I'm doing okay now.
 
-
-I really enjoy experiencing things that I've never done before. I've planned a snowboarding trip for next year and started going to the ski school in Taipei to just to learn how to properly wear the equipment. Another skill I'd like to acquire is technical diving. Once I is also a skill that I'd like to possess. If I got the certification, 
+I really enjoy experiencing things that I've never done before. I've planned a snowboarding trip for next year and started going to the ski school in Taipei just to learn how to properly wear the equipment. Another skill I'd like to acquire is technical diving. Once I get the certification, I can dive deeper and explore more underwater locations.
