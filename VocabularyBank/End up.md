@@ -26,13 +26,13 @@ Practice:
 Questions:
 
 Synonyms: ==turn out==
-<!--SR:!2023-09-24,2,230-->
+<!--SR:!2023-10-20,16,230-->
 
 The couple ==ended up== getting divorced
 <!--SR:!2023-10-05,13,250-->
 
 他們最後還是分手了:::They ended up getting broken up
-<!--SR:!2023-10-01,9,230!2023-10-18,26,290-->
+<!--SR:!2023-10-28,24,230!2023-10-18,26,290-->
 
 
 

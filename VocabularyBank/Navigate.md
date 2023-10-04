@@ -20,7 +20,7 @@ Sentences:
 
 Questions:
 在海上，過去的水手們利用星星及太陽來移動:::At sea, sailors used the stars and Sun to navigate
-<!--SR:!2023-09-25,3,250!2023-09-25,3,250-->
+<!--SR:!2023-10-23,19,250!2023-10-22,18,250-->
 
 
 
