@@ -4,4 +4,4 @@ the adorable marine animals, especially the clownfish. When you are approaching 
 
 I work as a software engineer at Vertiv. For me, coding isn't just a job—it's like solving a complex puzzle. I'm fascinated by how software design can tackle real-world problems. However, like many in this field, I sometimes struggle with impostor syndrome. The ever-evolving nature of technology keeps me on my toes, and there's always something new to learn. It's both a challenge and a motivator for me. Although I've made progress, I consider myself to be on a continual journey toward becoming extraordinary in my field.
 
-About my family, I raise up in a traditional Asian family. 
+About my family, I was raised in a traditional Asian family where compliments are rare
