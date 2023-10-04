@@ -1,2 +1,2 @@
 
-I'm Hank, a scuba diving enthusiast. To be honest, I used to struggle with seasickness until I reached around the 30th tank. The reason  I keep diving are not only the sink ships but also the adorable marine animals, especially the clownfish, when you approach them, they will 
+I'm Hank, a scuba diving enthusiast. To be honest, I used to struggle with seasickness until I reached around the 30th tank. I think the reason  I still keep diving are not only the sink ships but also the adorable marine animals, especially the clownfish, when you are approaching them, they will retreat back into their sea anemone. 
