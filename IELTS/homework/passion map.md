@@ -1,2 +1,2 @@
 
-I'm Hank, a scuba diving enthusiast. To be honest, I used to struggle with seasickness until I reached around the 30th tank. The reason why I keep diving are the adorable creatures and sink ships. 
+I'm Hank, a scuba diving enthusiast. To be honest, I used to struggle with seasickness until I reached around the 30th tank. The reason  I keep diving are not only the sink ships but also the adorable creatures under the sea, especially the clownfish, when you approach them, they will 
