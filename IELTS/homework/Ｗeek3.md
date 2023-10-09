@@ -1,6 +1,6 @@
 
 Do you live a house or apartment?
-I live in a aart
+definitely apartment. In Taipei, you need to have money to burn
 
 Do you prefer to drink coffee or tea?
 Considering the delicate stomach, tea would be my first choice.
