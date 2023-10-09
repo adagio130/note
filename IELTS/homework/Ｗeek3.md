@@ -1,8 +1,9 @@
 
 Do you live a house or apartment?
+I live in a aart
 
 Do you prefer to drink coffee or tea?
-Considering the 
+Considering the delicate stomach, tea would be my first choice.
 
 What's your favorite scientist subject in school?
 I believe math is the subject that I pay my full passion to. 
