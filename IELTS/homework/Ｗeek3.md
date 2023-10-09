@@ -9,7 +9,7 @@ What's your favorite scientist subject in school?
 I believe math is the subject to which I pay my full passion. Solving math problem can calm me down.
 
 Are you the kind of person who love making people laugh?
-Yes, absolutely. I aim to leave the impression of being a humorous person. Making people laugh gives me a great sense of accomplishment.
+Yes, absolutely. I aim to leave the impression of being a humorous person. Entertaining people gives me a great sense of accomplishment.
 
 Do you like busy social life?
-No, I'm not a high energy person. Too many social activities would make me exhausted.
+No, I'm not a high-energy person. Too many social activities would make me exhausted. I prefer to stay alone.
