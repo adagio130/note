@@ -6,7 +6,7 @@ Do you prefer to drink coffee or tea?
 Considering the delicate stomach, tea would be my first choice. 
 
 What's your favorite scientist subject in school?
-I believe math is the subject that I pay my full passion to. Solving math problem can make my calm.
+I believe math is the subject to which I pay my full passion. Solving math problem can calm me down.
 
 Are you the kind of person who love making people laugh?
 Yes, absolutely. To be a humorous person is the impression that I'd like to give. 
