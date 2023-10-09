@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/homework/passion map.md",
+                "file": "IELTS/homework/Ｗeek3.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2edbc46813eee8c6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa6396033a837efb",
@@ -102,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/homework/passion map.md"
+                "file": "IELTS/homework/Ｗeek3.md"
               }
             }
           },
@@ -143,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/homework/passion map.md",
+                "file": "IELTS/homework/Ｗeek3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/homework/passion map.md",
+                "file": "IELTS/homework/Ｗeek3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,14 +224,15 @@
       "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "2edbc46813eee8c6",
+  "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "IELTS/homework/Hank.pdf",
+    "IELTS/homework/Week2.md",
+    "IELTS/homework/Ｗeek3.md",
+    "IELTS/homework/Week1.md",
     "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf",
-    "IELTS/homework/Week2.md",
-    "IELTS/homework/Week1.md",
     "IELTS/筆記/IELTS-week2.md",
+    "IELTS/homework/Hank.pdf",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
     "IELTS/筆記",
