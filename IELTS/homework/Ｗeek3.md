@@ -5,8 +5,9 @@ Do you prefer to drink coffee or tea?
 
 What's your favorite scientist subject in school?
 
+
 Are you the kind of person who love making people laugh?
-Yes, absolutely. To be a humorous person is a  
+Yes, absolutely. To be a humorous person is the impression that I'd like to be. 
 
 Do you like busy social life?
 I'm not a high energy person. Too many social activities would make me exhausted.
