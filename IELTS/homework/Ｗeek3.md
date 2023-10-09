@@ -1,6 +1,6 @@
 
 Do you live a house or apartment?
-definitely apartment. In Taipei, you need to have money to burn
+Actually, I live in a studio. In Taipei, you need to have money to burn to live in a house.
 
 Do you prefer to drink coffee or tea?
 Considering the delicate stomach, tea would be my first choice.
