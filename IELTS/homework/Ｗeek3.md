@@ -1,12 +1,12 @@
 
 Do you live a house or apartment?
-Actually, I live in a studio. In Taipei, you need to have money to burn to live in a house.
+Actually, I live in a studio. In Taipei, you need to have money to burn to live in a house. 
 
 Do you prefer to drink coffee or tea?
-Considering the delicate stomach, tea would be my first choice.
+Considering the delicate stomach, tea would be my first choice. 
 
 What's your favorite scientist subject in school?
-I believe math is the subject that I pay my full passion to. 
+I believe math is the subject that I pay my full passion to. Solving math problem can make my calm.
 
 Are you the kind of person who love making people laugh?
 Yes, absolutely. To be a humorous person is the impression that I'd like to give. 
