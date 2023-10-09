@@ -3,7 +3,7 @@ Do you live a house or apartment?
 Actually, I live in a studio. In Taipei, you need to have money to burn to live in a house. 
 
 Do you prefer to drink coffee or tea?
-Considering the delicate stomach, tea would be my first choice. 
+Considering my delicate stomach, tea is my go-to choice. Its fragrant aroma is also quite appealing to me.
 
 What's your favorite scientist subject in school?
 I believe math is the subject to which I pay my full passion. Solving math problem can calm me down.
