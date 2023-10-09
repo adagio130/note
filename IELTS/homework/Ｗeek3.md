@@ -18,7 +18,7 @@ Actually, I live in a studio. In Taipei, you need to have money to burn to live 
 
 Considering my delicate stomach, tea is my first(go-to) choice. Its fragrance is also attractive.
 
-I believe math is the subject which I pay my full passion to. Solving math problems can calm me down.
+I believe math was the subject which I paid my full passion to. Solving math problems could calm me down.
 
 Absolutely. I aim to be a humorous person. Making people giggle gives me a great sense of accomplishment.
 
