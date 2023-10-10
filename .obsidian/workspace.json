@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/homework/Ｗeek3.md",
+                "file": "VocabularyBank/Cope With.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/homework/Ｗeek3.md"
+                "file": "VocabularyBank/Cope With.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/homework/Ｗeek3.md",
+                "file": "VocabularyBank/Cope With.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/homework/Ｗeek3.md",
+                "file": "VocabularyBank/Cope With.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,8 +226,9 @@
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "IELTS/homework/Week2.md",
+    "VocabularyBank/Cope With.md",
     "IELTS/homework/Ｗeek3.md",
+    "IELTS/homework/Week2.md",
     "IELTS/homework/Week1.md",
     "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf",
@@ -258,7 +259,6 @@
     "IELTS/未命名.md",
     "url.md",
     "Literature/Network tools.md",
-    "VocabularyBank/Navigate.md",
     "IELTS/6min",
     "IELTS",
     "Literature/System Design",
