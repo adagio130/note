@@ -5,13 +5,10 @@
 
 
 IPA: /koʊp/
-Part of speech:
+Part of speech: verb
 Level: #B2
 Definition:
 - to deal successfully with a difficult situation: 
-
-Synonyms:
-Antonyms:
 
 Note:
 
@@ -22,8 +19,11 @@ Sentences:
 Questions:
 
 Synonyms: ==deal with==
+<!--SR:!2023-10-13,3,250-->
 
-The couple ==ended up== getting divorced
+You need to learn how to ==cope with== anxiety.
+<!--SR:!2023-10-13,3,250-->
 
-他們最後還是分手了:::They ended up getting broken up
+他們需要解決的這問題:::They need to cope with this problem.
+<!--SR:!2023-10-13,3,250!2023-10-13,3,250-->
 
