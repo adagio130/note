@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/VocabularyBank",
+                "query": "tag:#B2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,7 +224,7 @@
       "obsidian-spaced-repetition:復習卡片": false
     }
   },
-  "active": "ca4e80dc8610b418",
+  "active": "5d793ba3a8b2ec8f",
   "lastOpenFiles": [
     "VocabularyBank/Cope With.md",
     "IELTS/homework/Ｗeek3.md",
