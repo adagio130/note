@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Link.md",
+                "file": "VocabularyBank/Cope With.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Link.md"
+                "file": "VocabularyBank/Cope With.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Link.md",
+                "file": "VocabularyBank/Cope With.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Link.md",
+                "file": "VocabularyBank/Cope With.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -213,22 +213,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:復習卡片": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
+    "Link.md",
     "README.md",
     "url.md",
-    "Link.md",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/passion map.md",
