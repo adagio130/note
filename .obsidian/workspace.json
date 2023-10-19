@@ -6,6 +6,7 @@
       {
         "id": "2a43b72283c3b80b",
         "type": "tabs",
+        "dimension": 70.53231939163499,
         "children": [
           {
             "id": "ca4e80dc8610b418",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文法班/文法雜記.md",
+                "file": "Literature/OpenBMC/OpenBMC Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "fa6396033a837efb",
         "type": "tabs",
+        "dimension": 29.467680608365022,
         "children": [
           {
             "id": "e4d1740ce19b51d5",
@@ -91,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文法班/文法雜記.md"
+                "file": "Literature/OpenBMC/OpenBMC Note.md"
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文法班/文法雜記.md",
+                "file": "Literature/OpenBMC/OpenBMC Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文法班/文法雜記.md",
+                "file": "Literature/OpenBMC/OpenBMC Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -213,36 +215,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:復習卡片": false,
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "ca4e80dc8610b418",
   "lastOpenFiles": [
-    "IELTS/homework/Hank-Imap.pdf",
-    "文法班/第一週 現在簡單式 現在進行.md",
-    "文法班/文法雜記.md",
-    "IELTS/筆記/IELTS-week2.md",
-    "Fleeting/投資.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Golang.md",
-    "VocabularyBank/Cope With.md",
     "Link.md",
-    "README.md",
+    "Literature/OpenBMC/OpenBMC Note.md",
+    "Literature/OpenBMC",
     "url.md",
+    "README.md",
+    "IELTS/homework/Hank-Imap.pdf",
+    "文法班/文法雜記.md",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/passion map.md",
     "IELTS/homework/Ｗeek3.md",
     "IELTS/homework/Week2.md",
     "IELTS/homework/Week1.md",
+    "VocabularyBank/Cope With.md",
+    "IELTS/筆記/IELTS-week2.md",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
     "IELTS/筆記",
@@ -257,11 +257,10 @@
     "VocabularyBank/Turn out.md",
     "Literature/Cloud/AWS_Artitecture_Assistance.md",
     "IELTS/6min/Finding your way in space.md",
+    "文法班/第一週 現在簡單式 現在進行.md",
     "IELTS/homework",
     "IELTS/未命名.md",
     "IELTS/6min",
-    "IELTS",
-    "Literature/System Design",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
