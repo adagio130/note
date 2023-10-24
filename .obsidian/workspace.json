@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c92f93c22dfa15e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa6396033a837efb",
@@ -92,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IELTS/homework/passion map.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/homework/passion map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/homework/passion map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,8 +231,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ca4e80dc8610b418",
+  "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
+    "IELTS/homework/passion map.md",
     "IELTS/homework/Week2.md",
     "IELTS/homework/Ｗeek3.md",
     "IELTS/homework/Week1.md",
@@ -241,7 +247,6 @@
     "文法班/文法雜記.md",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank中文.pdf",
-    "IELTS/homework/passion map.md",
     "VocabularyBank/Cope With.md",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
