@@ -20,6 +20,7 @@ word:
 - stink
 - seem to + V
 - get rid of something
+- spin it around
 ----------------------------------
 ## 1. default bridge
 - copy the host's /etc/resolv.conf into container to make the same DNS as the host
@@ -45,7 +46,10 @@ word:
 
 ## 6. IPVlan(L3)
 - make the host as a router
-- 
+- no brocast traffic
+- cons:
+	- remote machine can't talk to containers, and containers can't talk to each other which are, also can't go to network.
+
 
 
 
