@@ -94,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fleeting/Docker network.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Docker network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Docker network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,10 +224,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c92f93c22dfa15e",
+  "active": "072b76ac16890f03",
   "lastOpenFiles": [
-    "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Docker network.md",
+    "Fleeting/Manacher's Algorithm.md",
     "Fleeting/投資.md",
     "Literature/Algorithm/Manacher's Algorith.md",
     "Fleeting/Golang.md",
