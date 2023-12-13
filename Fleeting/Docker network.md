@@ -30,5 +30,7 @@ word:
 - the container would run as an regular application on the host
 
 ## 4. Mac-VLAN
+- if there are too many mac address use the same port, you need to enable the Promisucous Mode.
+- 
 
 
