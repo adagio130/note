@@ -40,15 +40,19 @@ word:
 	- if there are too many mac address use the same port, you need to enable the Promisucous Mode.
 	- no DHCP
 ## 5. IPVlan(L2)
+- ``` docker network create -d ipvlan```
 - they can get the ip address but they allow the host to share its Mac address with the containers
 -  it would create a switch to dispatch the traffic.
--  docker network create -d ipvlan
+
+
 
 ## 6. IPVlan(L3)
+- ```docker network create -d ipvlan --  ```
 - make the host as a router
 - no brocast traffic
 - cons:
-	- remote machine can't talk to containers, and containers can't talk to each other which are, also can't go to network.
+	- remote machine can't talk to containers, and containers can't talk to each other which is outside the network, also can't go to network
+	- all exposed port dones't happen
 
 
 
