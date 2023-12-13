@@ -19,6 +19,7 @@ word:
 - spunky
 - stink
 - seem to + V
+- get rid of something
 ----------------------------------
 ## 1. default bridge
 - copy the host's /etc/resolv.conf into container to make the same DNS as the host
@@ -39,6 +40,12 @@ word:
 	- no DHCP
 ## 5. IPVlan(L2)
 - they can get the ip address but they allow the host to share its Mac address with the containers
+-  it would create a switch to dispatch the traffic.
+-  docker network create -d ipvlan
+
+## 6. IPVlan(L3)
+- make the host as a router
 - 
+
 
 
