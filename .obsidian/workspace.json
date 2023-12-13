@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Algorithm/Manacher's Algorith.md",
+                "file": "Fleeting/Manacher's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/6min/Finding your way in space.md",
+                "file": "Fleeting/Finding your way in space.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
       {
         "id": "4a3d7e4dbe7406bf",
         "type": "tabs",
-        "dimension": 38.030560271646856,
+        "dimension": 49.853801169590646,
         "children": [
           {
             "id": "320826a8d723a7a9",
@@ -87,7 +87,7 @@
       {
         "id": "0c3717c252e998a8",
         "type": "tabs",
-        "dimension": 61.96943972835314,
+        "dimension": 50.14619883040936,
         "children": [
           {
             "id": "4c151ec578264e02",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Algorithm/Manacher's Algorith.md"
+                "file": "Fleeting/Manacher's Algorithm.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Algorithm/Manacher's Algorith.md",
+                "file": "Fleeting/Manacher's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Algorithm/Manacher's Algorith.md",
+                "file": "Fleeting/Manacher's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,13 +230,18 @@
   },
   "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Literature/Network/Network tools.md",
+    "Fleeting/投資.md",
+    "Fleeting/Manacher's Algorithm.md",
     "Literature/Algorithm/Manacher's Algorith.md",
+    "Fleeting/Golang.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/筆記/IELTS-week2.md",
+    "Literature/Network/Network tools.md",
     "Literature/Algorithm",
     "Literature/Network",
     "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/System Design/HttpOnly.md",
-    "IELTS/6min/Finding your way in space.md",
+    "Fleeting/Finding your way in space.md",
     "Literature/DBMS/Transaction.md",
     "Literature/Distribute System/Consensus Algorithm.md",
     "IELTS/homework/Hank.pdf",
@@ -250,7 +255,6 @@
     "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
-    "IELTS/筆記/IELTS-week2.md",
     "VocabularyBank/Turn out.md",
     "VocabularyBank/Cope With.md",
     "VocabularyBank/Navigate.md",
@@ -258,14 +262,10 @@
     "Link.md",
     "Literature/OpenBMC",
     "url.md",
-    "README.md",
-    "文法班/文法雜記.md",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
-    "IELTS/筆記",
-    "conflict-files-obsidian-git.md",
+    "Fleeting/筆記",
     "IELTS/homework",
-    "IELTS/未命名.md",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
