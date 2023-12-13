@@ -29,8 +29,10 @@ word:
 - the container's network would use the host, you don't have to expose any ports
 - the container would run as an regular application on the host
 
-## 4. Mac-VLAN
-- if there are too many mac address use the same port, you need to enable the Promisucous Mode.
-- 
+## 4. Mac-VLAN (bridge mode)
+- cons:
+	- if there are too many mac address use the same port, you need to enable the Promisucous Mode.
+	- no DHCP
+## 5. Mac-VLAN(802.lq)
 
 
