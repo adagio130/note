@@ -15,6 +15,10 @@ word:
 - essentially
 - "even though" he is a container
 - the "downside" is there's really no isolation
+- funky
+- spunky
+- stink
+- seem to + V
 ----------------------------------
 ## 1. default bridge
 - copy the host's /etc/resolv.conf into container to make the same DNS as the host
@@ -33,6 +37,8 @@ word:
 - cons:
 	- if there are too many mac address use the same port, you need to enable the Promisucous Mode.
 	- no DHCP
-## 5. Mac-VLAN(802.lq)
+## 5. IPVlan(L2)
+- they can get the ip address but they allow the host to share its Mac address with the containers
+- 
 
 
