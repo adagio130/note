@@ -6,7 +6,7 @@
       {
         "id": "2a43b72283c3b80b",
         "type": "tabs",
-        "dimension": 70.53231939163499,
+        "dimension": 57.7922077922078,
         "children": [
           {
             "id": "0c92f93c22dfa15e",
@@ -14,39 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/OpenBMC/OpenBMC Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b49fd604e70527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/System Design/HttpOnly.md",
+                "file": "Literature/Algorithm/Manacher's Algorith.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa6396033a837efb",
         "type": "tabs",
-        "dimension": 29.467680608365022,
+        "dimension": 42.2077922077922,
         "children": [
           {
             "id": "e4d1740ce19b51d5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IELTS/homework/Hank.pdf"
+                "file": "IELTS/6min/Finding your way in space.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/homework/Hank.pdf"
+                "file": "Literature/Algorithm/Manacher's Algorith.md"
               }
             }
           },
@@ -147,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/homework/Hank.pdf",
+                "file": "Literature/Algorithm/Manacher's Algorith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/homework/Hank.pdf",
+                "file": "Literature/Algorithm/Manacher's Algorith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,23 +228,28 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e4d1740ce19b51d5",
+  "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Literature/System Design/HttpOnly.md",
-    "Literature/System Design/Authentication.md",
+    "Literature/Network/Network tools.md",
+    "Literature/Algorithm/Manacher's Algorith.md",
+    "Literature/Algorithm",
+    "Literature/Network",
     "Literature/OpenBMC/OpenBMC Note.md",
+    "Literature/System Design/HttpOnly.md",
+    "IELTS/6min/Finding your way in space.md",
+    "Literature/DBMS/Transaction.md",
+    "Literature/Distribute System/Consensus Algorithm.md",
+    "IELTS/homework/Hank.pdf",
+    "Literature/System Design/Authentication.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/Network tools.md",
     "Literature/AWS/SAA-C03.md",
-    "IELTS/6min/Finding your way in space.md",
     "IELTS/homework/Ｗeek3.md",
     "IELTS/homework/Week2.md",
     "IELTS/homework/Week1.md",
     "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
-    "IELTS/homework/Hank.pdf",
     "IELTS/筆記/IELTS-week2.md",
     "VocabularyBank/Turn out.md",
     "VocabularyBank/Cope With.md",
@@ -272,11 +266,6 @@
     "conflict-files-obsidian-git.md",
     "IELTS/homework",
     "IELTS/未命名.md",
-    "templates/{{title}}.md",
-    "VocabularyBank/Tag and Code.md",
-    "Literature/Cloud/AWS_Artitecture_Assistance.md",
-    "IELTS/homework",
-    "IELTS/6min",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
