@@ -2,6 +2,8 @@
 ----------------------------------
 word:
 - get handed
+- I'll power through
+- Ransomware Remediation
 
 ----------------------------------
 ## the default bridge
