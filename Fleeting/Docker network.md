@@ -21,6 +21,7 @@ word:
 - seem to + V
 - get rid of something
 - spin it around
+- neat
 ----------------------------------
 ## 1. default bridge
 - copy the host's /etc/resolv.conf into container to make the same DNS as the host
@@ -47,7 +48,9 @@ word:
 
 
 ## 6. IPVlan(L3)
-- ```docker network create -d ipvlan --  ```
+- ```docker network create -d ipvlan \
+--subnet 192.168.94.0/24 \
+-o parent=enp0s3 -o ipvlan_mode=l3 ```
 - make the host as a router
 - no brocast traffic
 - cons:
