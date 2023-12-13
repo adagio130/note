@@ -16,16 +16,19 @@ word:
 - "even though" he is a container
 - the "downside" is there's really no isolation
 ----------------------------------
-## 1. the default bridge
+## 1. default bridge
 - copy the host's /etc/resolv.conf into container to make the same DNS as the host
 - docker0 network interface act as a switch
 - the containers on the bridge can use docker0 as the default gateway so that they can go to the internert
 
-## 2. the user defined bridge
+## 2. user defined bridge
 - you can ping other containers which on the same bridge wich their DNS name
 - To make the user defined bridge is a recommended way to deploy your container for the better isolation
 
-## 3. the host
+## 3. host
 - the container's network would use the host, you don't have to expose any ports
 - the container would run as an regular application on the host
-- 
+
+## 4. Mac-VLAN
+
+
