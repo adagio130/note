@@ -56,7 +56,13 @@ word:
 - cons:
 	- remote machine can't talk to containers, and containers can't talk to each other which is outside the network, also can't go to network
 	- all exposed port dones't happen
+- if you want to conqer these problem, you need to create static route into you router
 
+## 7. overlay network
+- it's for multiple hosts (dockerswarm, kubernetes...)
+
+## 8. None
+- for security, no one can access it
 
 
 
