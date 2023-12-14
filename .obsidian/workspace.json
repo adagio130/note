@@ -6,7 +6,7 @@
       {
         "id": "2a43b72283c3b80b",
         "type": "tabs",
-        "dimension": 70.53231939163499,
+        "dimension": 73.2032365540219,
         "children": [
           {
             "id": "0c92f93c22dfa15e",
@@ -14,39 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/OpenBMC/OpenBMC Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b49fd604e70527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/System Design/HttpOnly.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa6396033a837efb",
         "type": "tabs",
-        "dimension": 29.467680608365022,
+        "dimension": 26.796763445978105,
         "children": [
           {
             "id": "e4d1740ce19b51d5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IELTS/homework/Hank.pdf"
+                "file": "Fleeting/Finding your way in space.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -62,7 +51,7 @@
       {
         "id": "4a3d7e4dbe7406bf",
         "type": "tabs",
-        "dimension": 38.030560271646856,
+        "dimension": 49.85380116959064,
         "children": [
           {
             "id": "320826a8d723a7a9",
@@ -98,7 +87,7 @@
       {
         "id": "0c3717c252e998a8",
         "type": "tabs",
-        "dimension": 61.96943972835314,
+        "dimension": 50.14619883040936,
         "children": [
           {
             "id": "4c151ec578264e02",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/homework/Hank.pdf"
+                "file": "Fleeting/Kadane's Algorithm.md"
               }
             }
           },
@@ -147,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/homework/Hank.pdf",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/homework/Hank.pdf",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -239,43 +228,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e4d1740ce19b51d5",
+  "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Literature/Network/Network tools.md",
-    "Literature/Network",
+    "Fleeting/投資.md",
+    "Fleeting/Kadane's Algorithm.md",
     "Fleeting/Manacher's Algorithm.md",
+    "Fleeting/Leetcode.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Golang.md",
     "Fleeting/Finding your way in space.md",
     "Fleeting/Docker network.md",
-    "Literature/System Design/HttpOnly.md",
-    "Literature/System Design/Authentication.md",
+    "Literature/Algorithm/Manacher's Algorith.md",
+    "Fleeting/筆記/IELTS-week2.md",
+    "Literature/Network/Network tools.md",
+    "Literature/Algorithm",
+    "Literature/Network",
     "Literature/OpenBMC/OpenBMC Note.md",
+    "Literature/System Design/HttpOnly.md",
+    "Literature/DBMS/Transaction.md",
+    "Literature/Distribute System/Consensus Algorithm.md",
+    "IELTS/homework/Hank.pdf",
+    "Literature/System Design/Authentication.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/Network tools.md",
     "Literature/AWS/SAA-C03.md",
-    "IELTS/6min/Finding your way in space.md",
     "IELTS/homework/Ｗeek3.md",
     "IELTS/homework/Week2.md",
     "IELTS/homework/Week1.md",
     "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
-    "IELTS/homework/Hank.pdf",
-    "IELTS/筆記/IELTS-week2.md",
     "VocabularyBank/Turn out.md",
     "VocabularyBank/Cope With.md",
     "VocabularyBank/Navigate.md",
-    "VocabularyBank/End up.md",
-    "Link.md",
     "Literature/OpenBMC",
-    "url.md",
-    "README.md",
-    "文法班/文法雜記.md",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
-    "IELTS/筆記",
-    "conflict-files-obsidian-git.md",
-    "IELTS/homework",
+    "Fleeting/筆記",
     "IELTS/homework",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
