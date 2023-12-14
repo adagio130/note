@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Kadane's Algorithm.md",
+                "file": "Fleeting/分詞構句.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Kadane's Algorithm.md"
+                "file": "Fleeting/分詞構句.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Kadane's Algorithm.md",
+                "file": "Fleeting/分詞構句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Kadane's Algorithm.md",
+                "file": "Fleeting/分詞構句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,8 +230,10 @@
   },
   "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Fleeting/投資.md",
+    "Fleeting/Negative inversion.md",
+    "Fleeting/分詞構句.md",
     "Fleeting/Kadane's Algorithm.md",
+    "Fleeting/投資.md",
     "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Leetcode.md",
     "Fleeting/RDBMS short note.md",
@@ -259,8 +261,6 @@
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "VocabularyBank/Turn out.md",
-    "VocabularyBank/Cope With.md",
-    "VocabularyBank/Navigate.md",
     "Literature/OpenBMC",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
