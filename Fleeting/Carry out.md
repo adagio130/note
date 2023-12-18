@@ -23,7 +23,7 @@ Synonyms: ==word==
 
 Antonyms: ==word==
 
-The couple ==ended up== getting divorced
+The hospital is ==carrying out== tests to find out what's wrong with her.
 
-他們最後還是分手了:::They ended up getting broken up
+醫院正在進行檢查，看看她得了甚麼病:::The hospital is carrying out tests to find out what's wrong with her.
 
