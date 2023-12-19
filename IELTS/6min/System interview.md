@@ -23,4 +23,5 @@ Steps:
 	4. replication
 5. Firstly, give a rough and simple conponents
 6. Secondly, design you database
-	1. explain your des
+	1. explain your decision-making proactivetly
+7. 
