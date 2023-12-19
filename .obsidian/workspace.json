@@ -6,7 +6,6 @@
       {
         "id": "2a43b72283c3b80b",
         "type": "tabs",
-        "dimension": 73.2032365540219,
         "children": [
           {
             "id": "0c92f93c22dfa15e",
@@ -14,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Socekts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa6396033a837efb",
-        "type": "tabs",
-        "dimension": 26.796763445978105,
-        "children": [
-          {
-            "id": "e4d1740ce19b51d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting/Carry out.md",
+                "file": "IELTS/6min/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Carry out.md"
+                "file": "IELTS/6min/Untitled.md"
               }
             }
           },
@@ -105,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#B2",
+                "query": "tag:#B1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Carry out.md",
+                "file": "IELTS/6min/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Carry out.md",
+                "file": "IELTS/6min/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,13 +208,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e4d1740ce19b51d5",
+  "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Fleeting/Socekts.md",
+    "VocabularyBank/End up.md",
+    "IELTS/6min/Untitled.md",
     "Fleeting/Carry out.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Negative inversion.md",
-    "Fleeting/Manacher's Algorithm.md",
+    "VocabularyBank/Cope With.md",
+    "Fleeting/Socket.md",
+    "IELTS/homework/Untitled.md",
+    "IELTS/homework/Ｗeek3.md",
+    "IELTS/homework/Week2.md",
+    "IELTS/homework/Week1.md",
+    "IELTS/homework/passion map.md",
+    "IELTS/homework/Hank中文.pdf",
+    "IELTS/homework/Hank.pdf",
+    "IELTS/homework/Hank-Imap.pdf",
     "Fleeting/Leetcode.md",
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/Golang.md",
@@ -242,6 +230,9 @@
     "Fleeting/Docker network.md",
     "Fleeting/投資.md",
     "Fleeting/分詞構句.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Negative inversion.md",
+    "Fleeting/Manacher's Algorithm.md",
     "Literature/Algorithm/Manacher's Algorith.md",
     "Fleeting/筆記/IELTS-week2.md",
     "Literature/Network/Network tools.md",
@@ -250,17 +241,6 @@
     "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/System Design/HttpOnly.md",
     "Literature/DBMS/Transaction.md",
-    "Literature/Distribute System/Consensus Algorithm.md",
-    "IELTS/homework/Hank.pdf",
-    "Literature/System Design/Authentication.md",
-    "Literature/java/ConcurrentPart2.md",
-    "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/AWS/SAA-C03.md",
-    "IELTS/homework/Ｗeek3.md",
-    "IELTS/homework/Week2.md",
-    "IELTS/homework/Week1.md",
-    "IELTS/homework/Hank中文.pdf",
-    "IELTS/homework/Hank-Imap.pdf",
     "Literature/OpenBMC",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
