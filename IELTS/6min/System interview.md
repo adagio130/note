@@ -21,4 +21,5 @@ Steps:
 	2. number of songs
 	3. storage capacity( the size of  songs)
 	4. replication
-5. 
+5. Firstly, give a rough and simple conponents
+6. Secondly, 
