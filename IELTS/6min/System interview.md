@@ -7,6 +7,8 @@ fill you in the knowledge gaps
 
 quick drilling down some numbers here
 
+does it make sense so far
+
 
 Steps:
 
@@ -14,7 +16,9 @@ Steps:
 1. descript the system's function
 2. ask interviewer which part is the most concern
 3. list the use cases
-4. clarifying the numbers
+4. specify some key metrics
 	1. how many users
 	2. number of songs
-	3. 
+	3. storage capacity( the size of  songs)
+	4. replication
+5. 
