@@ -5,6 +5,9 @@ carry on
 in order to
 fit in memory
 eliminate
+consider + Ving
+obviously
+so on
 
 Can we constrain this a littble bit so that we can actually go through 
 fill you in the knowledge gaps
@@ -28,4 +31,7 @@ Steps:
 5. Firstly, give a rough and simple conponents
 6. Secondly, design you database
 	1. explain your decision-making proactivetly
-7. 
+7. explain your system how to mach the use case
+8. identify the bottleneck
+	1. cache
+	2. 
