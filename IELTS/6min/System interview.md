@@ -1,6 +1,10 @@
 
 scale system
 in tems of
+carry on
+in order to
+fit in memory
+eliminate
 
 Can we constrain this a littble bit so that we can actually go through 
 fill you in the knowledge gaps
