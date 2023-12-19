@@ -11,6 +11,9 @@ so on
 result in
 utilization
 purpose
+that's getting what you are asking
+wrap up ...
+outlining
 
 make sure the  web servers are not overloaded
 
@@ -42,3 +45,4 @@ Steps:
 9. load balancing
 	1. identify the  tight resources(cpu, network bandwidth...)
 	2. measure the tighten resources
+10. think it big
