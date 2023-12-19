@@ -8,6 +8,9 @@ eliminate
 consider + Ving
 obviously
 so on
+result in
+utilization
+purpose
 
 make sure the  web servers are not overloaded
 
@@ -36,4 +39,6 @@ Steps:
 7. explain your system how to mach the use case
 8. identify the bottlenecks
 	1. cache
-	2. 
+9. load balancing
+	1. identify the  tight resources(cpu, network bandwidth...)
+	2. measure the tighten resources
