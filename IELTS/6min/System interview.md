@@ -9,6 +9,8 @@ consider + Ving
 obviously
 so on
 
+make sure the  web servers are not overloaded
+
 Can we constrain this a littble bit so that we can actually go through 
 fill you in the knowledge gaps
 
@@ -32,6 +34,6 @@ Steps:
 6. Secondly, design you database
 	1. explain your decision-making proactivetly
 7. explain your system how to mach the use case
-8. identify the bottleneck
+8. identify the bottlenecks
 	1. cache
 	2. 
