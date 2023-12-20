@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/6min/System interview.md",
+                "file": "Fleeting/Downgrade.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/6min/System interview.md"
+                "file": "Fleeting/Downgrade.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/6min/System interview.md",
+                "file": "Fleeting/Downgrade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/6min/System interview.md",
+                "file": "Fleeting/Downgrade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +210,9 @@
   },
   "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Fleeting/Socket.md",
     "IELTS/6min/System interview.md",
+    "Fleeting/Downgrade.md",
+    "Fleeting/Socket.md",
     "VocabularyBank/End up.md",
     "Fleeting/Carry out.md",
     "VocabularyBank/Cope With.md",
@@ -240,7 +241,6 @@
     "Literature/Network",
     "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/System Design/HttpOnly.md",
-    "Literature/DBMS/Transaction.md",
     "Literature/OpenBMC",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
