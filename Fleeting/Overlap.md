@@ -1,6 +1,6 @@
-{{date}} {{time}}
-#flashcards/VocabularyBank
+2023-12-21 14:49
 #unfinished
+#flashcards/VocabularyBank
 [Cambridge Dictionary]()
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/refer to sb,sth.md",
+                "file": "Fleeting/Strip out.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/refer to sb,sth.md"
+                "file": "Fleeting/Strip out.md"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#B1",
+                "query": "tag:#unfinished",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/refer to sb,sth.md",
+                "file": "Fleeting/Strip out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/refer to sb,sth.md",
+                "file": "Fleeting/Strip out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,12 +210,22 @@
   },
   "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Fleeting/Downgrade.md",
-    "Fleeting/refer to sb,sth.md",
-    "IELTS/6min/System interview.md",
     "Fleeting/Socket.md",
-    "VocabularyBank/End up.md",
+    "Fleeting/refer to sb,sth.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Overlap.md",
+    "Fleeting/Negative inversion.md",
+    "Fleeting/Manacher's Algorithm.md",
+    "Fleeting/Leetcode.md",
+    "Fleeting/From scratch.md",
+    "Fleeting/Finding your way in space.md",
+    "Fleeting/Downgrade.md",
     "Fleeting/Carry out.md",
+    "templates/{{title}}.md",
+    "templates/{{title}}-structure.md",
+    "Fleeting/Strip out.md",
+    "IELTS/6min/System interview.md",
+    "VocabularyBank/End up.md",
     "VocabularyBank/Cope With.md",
     "IELTS/homework/Untitled.md",
     "IELTS/homework/Ｗeek3.md",
@@ -225,22 +235,12 @@
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank-Imap.pdf",
-    "Fleeting/Leetcode.md",
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/Golang.md",
-    "Fleeting/Finding your way in space.md",
     "Fleeting/Docker network.md",
     "Fleeting/投資.md",
-    "Fleeting/分詞構句.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Negative inversion.md",
-    "Fleeting/Manacher's Algorithm.md",
-    "Literature/Algorithm/Manacher's Algorith.md",
-    "Fleeting/筆記/IELTS-week2.md",
-    "Literature/Network/Network tools.md",
     "Literature/Algorithm",
     "Literature/Network",
-    "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/OpenBMC",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
