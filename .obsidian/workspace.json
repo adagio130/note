@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/java/ConcurrentPart2.md",
+                "file": "Fleeting/Cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/java/ConcurrentPart2.md"
+                "file": "Fleeting/Cache.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/java/ConcurrentPart2.md",
+                "file": "Fleeting/Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/java/ConcurrentPart2.md",
+                "file": "Fleeting/Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +210,12 @@
   },
   "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
-    "Literature/java/ArrayList-v.s.-Vector.md",
+    "Fleeting/attachments/Pasted image 20231221214544.png",
+    "Fleeting/attachments",
+    "Literature/Distribute System/Consensus Algorithm.md",
+    "Fleeting/Cache.md",
     "Literature/java/ConcurrentPart2.md",
+    "Literature/java/ArrayList-v.s.-Vector.md",
     "Literature/Network/Network tools.md",
     "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/System Design/System interview.md",
@@ -233,9 +237,6 @@
     "Fleeting/From scratch.md",
     "Fleeting/Finding your way in space.md",
     "Fleeting/Downgrade.md",
-    "Fleeting/Docker network.md",
-    "Fleeting/Carry out.md",
-    "Literature/Data structure/Heap.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank-Imap.pdf",
@@ -245,7 +246,6 @@
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
     "Fleeting/筆記",
-    "IELTS/homework",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
