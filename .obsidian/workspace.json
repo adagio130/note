@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Strip out.md",
+                "file": "Fleeting/Small talk with chatgpt.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Strip out.md"
+                "file": "Fleeting/Small talk with chatgpt.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Strip out.md",
+                "file": "Fleeting/Small talk with chatgpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Strip out.md",
+                "file": "Fleeting/Small talk with chatgpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,6 +210,8 @@
   },
   "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
+    "Fleeting/Strip out.md",
+    "Fleeting/Small talk with chatgpt.md",
     "Fleeting/Socket.md",
     "Fleeting/refer to sb,sth.md",
     "Fleeting/RDBMS short note.md",
@@ -223,7 +225,6 @@
     "Fleeting/Carry out.md",
     "templates/{{title}}.md",
     "templates/{{title}}-structure.md",
-    "Fleeting/Strip out.md",
     "IELTS/6min/System interview.md",
     "VocabularyBank/End up.md",
     "VocabularyBank/Cope With.md",
@@ -238,7 +239,6 @@
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/Golang.md",
     "Fleeting/Docker network.md",
-    "Fleeting/投資.md",
     "Literature/Algorithm",
     "Literature/Network",
     "Literature/OpenBMC",
