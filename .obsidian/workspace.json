@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Small talk with chatgpt.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Small talk with chatgpt.md"
+                "file": "Literature/java/ConcurrentPart2.md"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#unfinished",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Small talk with chatgpt.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Small talk with chatgpt.md",
+                "file": "Literature/java/ConcurrentPart2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,35 +210,35 @@
   },
   "active": "0c92f93c22dfa15e",
   "lastOpenFiles": [
+    "Literature/java/ArrayList-v.s.-Vector.md",
+    "Literature/java/ConcurrentPart2.md",
+    "Literature/Network/Network tools.md",
+    "Literature/OpenBMC/OpenBMC Note.md",
+    "Literature/System Design/System interview.md",
+    "Literature/System Design/HttpOnly.md",
+    "Literature/System Design/Authentication.md",
+    "Fleeting/分詞構句.md",
+    "Fleeting/投資.md",
     "Fleeting/Strip out.md",
-    "Fleeting/Small talk with chatgpt.md",
     "Fleeting/Socket.md",
+    "Fleeting/Small talk with chatgpt.md",
     "Fleeting/refer to sb,sth.md",
     "Fleeting/RDBMS short note.md",
     "Fleeting/Overlap.md",
     "Fleeting/Negative inversion.md",
     "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Leetcode.md",
+    "Fleeting/Kadane's Algorithm.md",
+    "Fleeting/Golang.md",
     "Fleeting/From scratch.md",
     "Fleeting/Finding your way in space.md",
     "Fleeting/Downgrade.md",
+    "Fleeting/Docker network.md",
     "Fleeting/Carry out.md",
-    "templates/{{title}}.md",
-    "templates/{{title}}-structure.md",
-    "IELTS/6min/System interview.md",
-    "VocabularyBank/End up.md",
-    "VocabularyBank/Cope With.md",
-    "IELTS/homework/Untitled.md",
-    "IELTS/homework/Ｗeek3.md",
-    "IELTS/homework/Week2.md",
-    "IELTS/homework/Week1.md",
-    "IELTS/homework/passion map.md",
+    "Literature/Data structure/Heap.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank-Imap.pdf",
-    "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/Golang.md",
-    "Fleeting/Docker network.md",
     "Literature/Algorithm",
     "Literature/Network",
     "Literature/OpenBMC",
