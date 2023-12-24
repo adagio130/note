@@ -1,6 +1,7 @@
 
+![[Pasted image 20231221214544.png]]
+
 - Client-side cache
-	- 
 - CDN
 	- static content
 - Load Balance
@@ -8,5 +9,6 @@
 - Relational Database
 - Elastic search
 - Redis
+	- in-memory database
+	- 
 
-![[Pasted image 20231221214544.png]]
