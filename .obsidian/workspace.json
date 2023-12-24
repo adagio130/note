@@ -6,6 +6,7 @@
       {
         "id": "2a43b72283c3b80b",
         "type": "tabs",
+        "dimension": 70.53231939163499,
         "children": [
           {
             "id": "0c92f93c22dfa15e",
@@ -13,7 +14,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Literature/OpenBMC/OpenBMC Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5b49fd604e70527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fa6396033a837efb",
+        "type": "tabs",
+        "dimension": 29.467680608365022,
+        "children": [
+          {
+            "id": "e4d1740ce19b51d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/AWS/SAA-C03.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +64,7 @@
       {
         "id": "4a3d7e4dbe7406bf",
         "type": "tabs",
-        "dimension": 49.85380116959064,
+        "dimension": 38.030560271646856,
         "children": [
           {
             "id": "320826a8d723a7a9",
@@ -67,7 +100,7 @@
       {
         "id": "0c3717c252e998a8",
         "type": "tabs",
-        "dimension": 50.14619883040936,
+        "dimension": 61.96943972835314,
         "children": [
           {
             "id": "4c151ec578264e02",
@@ -75,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Cache.md"
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md"
               }
             }
           },
@@ -85,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#B2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,44 +241,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0c92f93c22dfa15e",
+  "active": "c5b49fd604e70527",
   "lastOpenFiles": [
+    "Literature/System Design/System interview.md",
+    "Fleeting/refer to sb,sth.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
     "Fleeting/attachments",
-    "Literature/Distribute System/Consensus Algorithm.md",
-    "Fleeting/Cache.md",
-    "Literature/java/ConcurrentPart2.md",
-    "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/Network/Network tools.md",
-    "Literature/OpenBMC/OpenBMC Note.md",
-    "Literature/System Design/System interview.md",
-    "Literature/System Design/HttpOnly.md",
-    "Literature/System Design/Authentication.md",
-    "Fleeting/分詞構句.md",
-    "Fleeting/投資.md",
     "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
     "Fleeting/Small talk with chatgpt.md",
-    "Fleeting/refer to sb,sth.md",
-    "Fleeting/RDBMS short note.md",
     "Fleeting/Overlap.md",
+    "Fleeting/From scratch.md",
+    "Fleeting/Downgrade.md",
+    "Fleeting/Carry out.md",
+    "Fleeting/Cache.md",
+    "Literature/AWS/SAA-C03.md",
+    "Literature/System Design/HttpOnly.md",
+    "IELTS/homework/Hank.pdf",
+    "Fleeting/Socekts.md",
+    "Fleeting/分詞構句.md",
     "Fleeting/Negative inversion.md",
-    "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Leetcode.md",
     "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/Golang.md",
-    "Fleeting/From scratch.md",
-    "Fleeting/Finding your way in space.md",
-    "Fleeting/Downgrade.md",
-    "IELTS/homework/Hank中文.pdf",
-    "IELTS/homework/Hank.pdf",
-    "IELTS/homework/Hank-Imap.pdf",
-    "Literature/Algorithm",
+    "Literature/Network/Network tools.md",
     "Literature/Network",
+    "Fleeting/Manacher's Algorithm.md",
+    "Fleeting/Finding your way in space.md",
+    "Fleeting/Docker network.md",
+    "Literature/System Design/Authentication.md",
+    "Literature/OpenBMC/OpenBMC Note.md",
+    "Literature/java/ConcurrentPart2.md",
+    "Literature/java/ArrayList-v.s.-Vector.md",
+    "Literature/Network tools.md",
+    "IELTS/homework/Hank中文.pdf",
+    "IELTS/homework/Hank-Imap.pdf",
     "Literature/OpenBMC",
     "IELTS/homework/mindmap.xmind",
     "IELTS/homework/熱情地圖.xmind",
-    "Fleeting/筆記",
+    "IELTS/筆記",
+    "IELTS/homework",
     "未命名.canvas",
     "Literature/Cloud/img_1.png",
     "RDBS/未命名.canvas",
