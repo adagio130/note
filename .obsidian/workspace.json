@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Network/Network tools.md",
                 "mode": "preview",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md"
+                "file": "Literature/Network/Network tools.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Network/Network tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Network/Network tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,6 +243,7 @@
   },
   "active": "c5b49fd604e70527",
   "lastOpenFiles": [
+    "Literature/Cloud/AWS_Artitecture_Assistance.md",
     "Literature/System Design/System interview.md",
     "Fleeting/refer to sb,sth.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
@@ -272,7 +273,6 @@
     "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/Network tools.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "Literature/OpenBMC",
