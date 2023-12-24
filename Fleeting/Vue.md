@@ -12,4 +12,5 @@
 - `<button @click="increment">{{ count }}</button>`
 
 # Form Bindings
-- 
+- `<input :value="text" @input="onInput">`
+- two-way bindings  `<input v-model="text">` 
