@@ -24,6 +24,7 @@ Synonyms: ==word==
 <!--SR:!2023-12-25,1,230-->
 
 Antonyms: ==word==
+<!--SR:!2023-12-25,1,230-->
 
 The hospital is ==carrying out== tests to find out what's wrong with her.
 <!--SR:!2023-12-25,1,230-->
