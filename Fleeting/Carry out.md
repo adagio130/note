@@ -21,10 +21,13 @@ Sentences:
 Questions:
 
 Synonyms: ==word==
+<!--SR:!2023-12-25,1,230-->
 
 Antonyms: ==word==
 
 The hospital is ==carrying out== tests to find out what's wrong with her.
+<!--SR:!2023-12-25,1,230-->
 
 醫院正在進行檢查，看看她得了甚麼病:::The hospital is carrying out tests to find out what's wrong with her.
+<!--SR:!2023-12-25,1,230!2023-12-25,1,230-->
 

@@ -19,11 +19,11 @@ Sentences:
 Questions:
 
 Synonyms: ==deal with==
-<!--SR:!2023-10-13,3,250-->
+<!--SR:!2024-03-30,97,250-->
 
 You need to learn how to ==cope with== anxiety.
-<!--SR:!2023-10-13,3,250-->
+<!--SR:!2024-01-04,11,230-->
 
 他們需要解決的這問題:::They need to cope with this problem.
-<!--SR:!2023-10-13,3,250!2023-10-13,3,250-->
+<!--SR:!2024-03-31,98,250!2024-04-01,99,250-->
 

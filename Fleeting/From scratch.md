@@ -22,8 +22,10 @@ Questions:
 Synonyms: ==word==
 
 Antonyms: ==word==
+<!--SR:!2023-12-25,1,230-->
 
 The couple ==ended up== getting divorced
 
 他們最後還是分手了:::They ended up getting broken up
+<!--SR:!2023-12-25,1,230-->
 
