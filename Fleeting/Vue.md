@@ -4,8 +4,10 @@
 - `ref()` can take any value type and create an object that exposes the inner value under a `.value` property
 
 # Attribute Bindings
-- `v-bind` directive
+- `v-bind` 
 - `<div :id="dynamicId"></div>`
 
 # Event Listeners
-- 
+- `v-on`
+- `<button @click="increment">{{ count }}</button>`
+
