@@ -2,7 +2,8 @@
 
 -----------
 habitas
-abuzz
+sprining out of bed abuzz with energy
+As the day goes on
 stumbling
 groggily
 stride
@@ -15,3 +16,12 @@ dicates
 flow of hormones
 conductor
 organs functioning in time with on another
+body's transitions
+be awake
+be asleep
+knock you out
+accordingly
+sleep-inducing melatonin
+
+----------------------
+However, by tracking how much light you typically get and when in your waking hours you usually get it, the system can make predictions about when you’re likely to need sleep and prepare your body accordingly.
