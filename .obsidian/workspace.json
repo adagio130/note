@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Redis.md",
-                "mode": "source",
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Redis.md"
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Redis.md",
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Redis.md",
+                "file": "Literature/Cloud/AWS_Artitecture_Assistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +210,9 @@
   },
   "active": "8a114750d48fb7e5",
   "lastOpenFiles": [
-    "Fleeting/Cache.md",
+    "Literature/AWS/SAA-C03.md",
     "Fleeting/Redis.md",
+    "Fleeting/Cache.md",
     "Fleeting/Vue.md",
     "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
@@ -237,7 +238,6 @@
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/Network/Network tools.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank-Imap.pdf",
