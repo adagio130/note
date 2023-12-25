@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/6min/Can you change your sleep schedule.md",
+                "file": "IELTS/6min/Habitat.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/6min/Can you change your sleep schedule.md"
+                "file": "IELTS/6min/Habitat.md"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#C1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/6min/Can you change your sleep schedule.md",
+                "file": "IELTS/6min/Habitat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/6min/Can you change your sleep schedule.md",
+                "file": "IELTS/6min/Habitat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,10 +208,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8a114750d48fb7e5",
+  "active": "5d793ba3a8b2ec8f",
   "lastOpenFiles": [
-    "Fleeting/Strip out.md",
     "IELTS/6min/Can you change your sleep schedule.md",
+    "IELTS/6min/Habitat.md",
+    "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
     "Fleeting/Small talk with chatgpt.md",
     "Fleeting/refer to sb,sth.md",
@@ -237,7 +238,6 @@
     "Fleeting/attachments/Pasted image 20231221214544.png",
     "conflict-files-obsidian-git.md",
     "Fleeting/attachments",
-    "Literature/Distribute System/Consensus Algorithm.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank-Imap.pdf",

@@ -24,4 +24,6 @@ accordingly
 sleep-inducing melatonin
 
 ----------------------
+As the day goes on, they slowly get more and more exhausted  until finally crashing around sunset.
+
 However, by tracking how much light you typically get and when in your waking hours you usually get it, the system can make predictions about when you’re likely to need sleep and prepare your body accordingly.
