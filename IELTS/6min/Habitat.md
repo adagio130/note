@@ -12,11 +12,11 @@ Definition:
 
 Sentences:
 - Here we see an early bird and a night owl in their natural habitats.
-- More and more wildlife has been loosing their habitat
+- More and more wildlife has been losing  their habitat because of human activities.
 
 Questions:
 
-The couple ==ended up== getting divorced
+Here we see an early bird and a night owl in their ==natural habitats==.
 
-他們最後還是分手了:::They ended up getting broken up
+由於人類的活動，越來越多的野生動物5失去牠們的棲地:::More and more wildlife has been losing their ==habitats== because of human activities.
 
