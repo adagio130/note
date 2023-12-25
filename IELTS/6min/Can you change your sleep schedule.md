@@ -2,7 +2,8 @@
 
 -----------
 habitas
-sprining out of bed abuzz with energy
+sprining out of bed 
+abuzz with energy
 As the day goes on
 stumbling
 groggily
