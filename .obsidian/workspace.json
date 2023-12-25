@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Docker network.md",
+                "file": "Fleeting/Strip out.md",
                 "mode": "preview",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Docker network.md"
+                "file": "Fleeting/Strip out.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Docker network.md",
+                "file": "Fleeting/Strip out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Docker network.md",
+                "file": "Fleeting/Strip out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,15 +210,10 @@
   },
   "active": "8a114750d48fb7e5",
   "lastOpenFiles": [
-    "Literature/Cloud/AWS_Artitecture_Assistance.md",
-    "Literature/AWS/SAA-C03.md",
-    "Fleeting/Redis.md",
-    "Fleeting/Cache.md",
-    "Fleeting/Vue.md",
-    "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
     "Fleeting/Small talk with chatgpt.md",
     "Fleeting/refer to sb,sth.md",
+    "Fleeting/Redis.md",
     "Fleeting/RDBMS short note.md",
     "Fleeting/Overlap.md",
     "Fleeting/Negative inversion.md",
@@ -231,6 +226,11 @@
     "Fleeting/Downgrade.md",
     "Fleeting/Docker network.md",
     "Fleeting/Carry out.md",
+    "Fleeting/Cache.md",
+    "Literature/Cloud/AWS_Artitecture_Assistance.md",
+    "Literature/AWS/SAA-C03.md",
+    "Fleeting/Vue.md",
+    "Fleeting/Strip out.md",
     "Fleeting/投資.md",
     "Fleeting/分詞構句.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
