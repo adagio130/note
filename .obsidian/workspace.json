@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Strip out.md",
-                "mode": "preview",
+                "file": "IELTS/6min/Can you change your sleep schedule.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Strip out.md"
+                "file": "IELTS/6min/Can you change your sleep schedule.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Strip out.md",
+                "file": "IELTS/6min/Can you change your sleep schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Strip out.md",
+                "file": "IELTS/6min/Can you change your sleep schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,6 +210,8 @@
   },
   "active": "8a114750d48fb7e5",
   "lastOpenFiles": [
+    "Fleeting/Strip out.md",
+    "IELTS/6min/Can you change your sleep schedule.md",
     "Fleeting/Socket.md",
     "Fleeting/Small talk with chatgpt.md",
     "Fleeting/refer to sb,sth.md",
@@ -230,14 +232,12 @@
     "Literature/Cloud/AWS_Artitecture_Assistance.md",
     "Literature/AWS/SAA-C03.md",
     "Fleeting/Vue.md",
-    "Fleeting/Strip out.md",
     "Fleeting/投資.md",
     "Fleeting/分詞構句.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
     "conflict-files-obsidian-git.md",
     "Fleeting/attachments",
     "Literature/Distribute System/Consensus Algorithm.md",
-    "Literature/java/ConcurrentPart2.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
     "IELTS/homework/Hank-Imap.pdf",
