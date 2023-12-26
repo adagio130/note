@@ -31,7 +31,7 @@ in the early hours of the morning
 
 ---------------------------
 
-Although I woke up at 10 a.m., I stumble out of my bed until later in the day, maybe about  2 p.m.
+Although I wake up at 10 a.m., I don't get out of bed until later in the day.
 
 ----------------------
 As the day goes on, they slowly get more and more exhausted  until finally crashing around sunset.
