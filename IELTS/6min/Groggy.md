@@ -13,11 +13,11 @@ Note:
 
 Sentences:
 - Have you ever woken up groggy after your first night in a new place?
-- She usually stumbles groggily from her bed.
+- She usually groggily wakes up  on the first night  in a new place.
 
 Questions:
 
 The couple ==ended up== getting divorced
 
-他們最後還是分手了:::They ended up getting broken up
+你是否曾在外宿第一晚時半夜頭腦昏昏沉沉地醒來?:::Have you ever woken up groggy after your first night in a new place?
 
