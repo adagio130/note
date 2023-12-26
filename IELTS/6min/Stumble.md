@@ -11,13 +11,14 @@ Definition:
 to step awkwardly while walking or running and fall or begin to fall
 
 Note:
-stumble out of bed
+stumble out of... 跌跌撞撞地離開...
 
 Sentences:
-
+- 
 
 Questions:
 
+verb form: stumble, ==stumbled==, ==stumbled==
 
 The couple ==ended up== getting divorced
 
