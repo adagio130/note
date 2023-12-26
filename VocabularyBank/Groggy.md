@@ -1,6 +1,6 @@
 2023-12-26 22:12
 #flashcards/VocabularyBank
-[Cambridge Dictionary]()
+[Cambridge Dictionary](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/groggy)
 
 
 IPA: /ˈɡrɑː.ɡi/
@@ -13,11 +13,11 @@ Note:
 
 Sentences:
 - Have you ever woken up groggy after your first night in a new place?
-- She usually groggily wakes up  on the first night  in a new place.
+- She usually would groggily wake up on the first night in a new place.
 
 Questions:
 
-The couple ==ended up== getting divorced
+She usually would ==groggily== wake up on the first night in a new place.
 
 你是否曾在外宿第一晚時半夜頭腦昏昏沉沉地醒來?:::Have you ever woken up groggy after your first night in a new place?
 

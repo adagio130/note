@@ -1,17 +1,14 @@
 [url](https://www.ted.com/talks/ted_ed_can_you_change_your_sleep_schedule/transcript)
 
 -----------
-habitas
-sprining out of bed 
-abuzz with energy
-As the day goes on
-stumbling
-groggily
+~~habitas~~
+~~sprining out of bed ~~
+~~abuzz with energy~~
+~~stumbling~~
+~~groggily~~
 hit their stride
-at which point
+at which point = and at the moment
 coast
-head to bed
-in the early hours of the morning
 predetermined
 circadian
 anterior hypothalamus
@@ -26,6 +23,15 @@ be asleep
 knock you out
 accordingly
 sleep-inducing melatonin
+
+-----------
+As the day goes on
+head to bed
+in the early hours of the morning
+
+---------------------------
+
+Although I woke up at 10 a.m., I stumble out of my bed until later in the day, maybe about  2 p.m.
 
 ----------------------
 As the day goes on, they slowly get more and more exhausted  until finally crashing around sunset.
