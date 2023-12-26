@@ -9,6 +9,7 @@
 hit their stride
 at which point = and at the moment
 coast
+cast yourself in
 predetermined
 circadian
 anterior hypothalamus
