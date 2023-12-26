@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +208,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8a114750d48fb7e5",
+  "active": "5d793ba3a8b2ec8f",
   "lastOpenFiles": [
     "IELTS/6min/Can you change your sleep schedule.md",
     "IELTS/6min/Stumble.md",

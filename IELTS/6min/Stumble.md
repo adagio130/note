@@ -14,6 +14,7 @@ Note:
 stumble out of... 跌跌撞撞地離開...
 
 Sentences:
+- Running along the beach, she stumbled on a log and fell on the sand
 - 
 
 Questions:
