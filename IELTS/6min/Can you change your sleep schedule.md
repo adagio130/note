@@ -2,12 +2,16 @@
 
 -----------
 habitas
-sprining out of bed abuzz with energy
+sprining out of bed 
+abuzz with energy
 As the day goes on
 stumbling
 groggily
-stride
+hit their stride
+at which point
 coast
+head to bed
+in the early hours of the morning
 predetermined
 circadian
 anterior hypothalamus
