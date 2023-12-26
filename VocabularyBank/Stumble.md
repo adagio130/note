@@ -15,13 +15,13 @@ stumble out of... 跌跌撞撞地離開...
 
 Sentences:
 - Running along the beach, she stumbled on a log and fell on the sand
-- 
+- I got up in the middle of the night and stumbled out of bed to get some water.
 
 Questions:
 
 verb form: stumble, ==stumbled==, ==stumbled==
 
-The couple ==ended up== getting divorced
+I got up in the middle of the night and ==stumbled out of bed== to get some water.
 
-他們最後還是分手了:::They ended up getting broken up
+我半夜起床，跌跌撞撞地下床去拿水。:::I got up in the middle of the night and stumbled out of bed to get some water.
 
