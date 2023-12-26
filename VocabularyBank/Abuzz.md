@@ -8,7 +8,7 @@ Part of speech:
 Level #NoLevel 
 Definition:
 filled with a continuous humming sound
-充滿吵雜聲的; ㄖㄜ
+充滿吵雜聲的; 熱鬧的
 
 Note:
 abuzz with sth. 對...充滿
@@ -18,10 +18,11 @@ Sentences:
 - When we arrived, the party was in full swing and the room was abuzz.
 - The air was abuzz with military helicopters.
 - Since December, the university has been abuzz with talks of layoffs
+- The market was abuzz with rumors of recession due to the pandemic.
 
 Questions:
 
-The couple ==ended up== getting divorced
+The early bird rises with the sun, springing out of bed ==abuzz with== energy.
 
-他們最後還是分手了:::They ended up getting broken up
+由於疾病的大流行，市場充斥著衰退的傳聞:::The market was abuzz with rumors of recession due to the pandemic.
 
