@@ -18,7 +18,7 @@ dicates
 body's internal clock or circadiam rhythm
 flow of hormones
 conductor
-organs functioning in time with on another
+functioning in time with one another
 body's transitions
 be awake
 be asleep
