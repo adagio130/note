@@ -3,24 +3,21 @@
 [Cambridge Dictionary]()
 
 
-IPA: 
-Part of speech:
-Level:
+IPA: /kæst/
+Part of speech: #verb 
+Level: #c2 
 Definition:
 
-Synonyms:
-Antonyms:
-
 Note:
+(n.) 全體演員
 
 Sentences:
-
+- Her story is easy to cast yourself in.
+- 
 
 Questions:
 
-Synonyms: ==word==
-
-Antonyms: ==word==
+verb form: cast, ==cast==, ==cast==
 
 The couple ==ended up== getting divorced
 
