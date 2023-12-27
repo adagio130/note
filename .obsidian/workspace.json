@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Carry out.md",
+                "file": "VocabularyBank/Abuzz.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Carry out.md"
+                "file": "VocabularyBank/Abuzz.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Carry out.md",
+                "file": "VocabularyBank/Abuzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Carry out.md",
+                "file": "VocabularyBank/Abuzz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,6 +210,8 @@
   },
   "active": "8a114750d48fb7e5",
   "lastOpenFiles": [
+    "Fleeting/From scratch.md",
+    "Fleeting/Carry out.md",
     "Fleeting/Vue.md",
     "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
@@ -223,11 +225,9 @@
     "Fleeting/Leetcode.md",
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/Golang.md",
-    "Fleeting/From scratch.md",
     "Fleeting/Finding your way in space.md",
     "Fleeting/Downgrade.md",
     "Fleeting/Docker network.md",
-    "Fleeting/Carry out.md",
     "VocabularyBank/Cast.md",
     "VocabularyBank/Stumble.md",
     "VocabularyBank/Navigate.md",

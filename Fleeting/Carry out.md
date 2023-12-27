@@ -23,14 +23,16 @@ Questions:
 Synonyms: 
 ==execute==
 ==perform==
-<!--SR:!2023-12-25,1,230-->
+<!--SR:!2024-01-02,5,230!2023-12-30,2,242-->
 
-Antonyms: ==word==
-<!--SR:!2023-12-25,1,230-->
+Antonyms: 
+==stop==
+==abandon==
+<!--SR:!2024-01-04,7,230-->
 
 The hospital is ==carrying out== tests to find out what's wrong with her.
-<!--SR:!2023-12-25,1,230-->
+<!--SR:!2024-01-03,6,230-->
 
 醫院正在進行檢查，看看她得了甚麼病:::The hospital is carrying out tests to find out what's wrong with her.
-<!--SR:!2023-12-25,1,230!2023-12-25,1,230-->
+<!--SR:!2024-01-02,5,230!2024-01-03,6,230-->
 
