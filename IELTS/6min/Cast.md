@@ -3,7 +3,7 @@
 [Cambridge Dictionary]()
 
 
-IPA:
+IPA: 
 Part of speech:
 Level:
 Definition:
