@@ -21,5 +21,5 @@ verb form: cast, ==cast==, ==cast==
 
 The couple ==ended up== getting divorced
 
-他們最後還是分手了:::They ended up getting broken up
+她的故事很容易讓你投射其中:::Her story is easy to cast yourself in.
 

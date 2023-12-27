@@ -20,7 +20,9 @@ Sentences:
 
 Questions:
 
-Synonyms: ==word==
+Synonyms: 
+==execute==
+==perform==
 <!--SR:!2023-12-25,1,230-->
 
 Antonyms: ==word==
