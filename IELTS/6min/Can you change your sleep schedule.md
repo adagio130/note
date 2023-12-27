@@ -13,8 +13,9 @@ cast yourself in
 predetermined
 circadian
 anterior hypothalamus
-exposure
+light exposure
 dicates
+body's internal clock or circadiam rhythm
 flow of hormones
 conductor
 organs functioning in time with on another
