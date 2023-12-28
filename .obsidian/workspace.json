@@ -11,9 +11,11 @@
             "id": "8a114750d48fb7e5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Fleeting/attachments/Pasted image 20231221214544.png"
+                "file": "Fleeting/Process vs Thread.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,7 +75,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/attachments/Pasted image 20231221214544.png"
+                "file": "Fleeting/Process vs Thread.md"
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/attachments/Pasted image 20231221214544.png",
+                "file": "Fleeting/Process vs Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/attachments/Pasted image 20231221214544.png",
+                "file": "Fleeting/Process vs Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,8 +210,9 @@
   },
   "active": "8a114750d48fb7e5",
   "lastOpenFiles": [
-    "Fleeting/Runway.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
+    "Fleeting/Process vs Thread.md",
+    "Fleeting/Runway.md",
     "IELTS/6min/Can you change your sleep schedule.md",
     "VocabularyBank/Abuzz.md",
     "Fleeting/From scratch.md",
@@ -233,7 +236,6 @@
     "VocabularyBank/Cast.md",
     "VocabularyBank/Stumble.md",
     "VocabularyBank/Navigate.md",
-    "VocabularyBank/Habitat.md",
     "Fleeting/attachments",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank.pdf",
