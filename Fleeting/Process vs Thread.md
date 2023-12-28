@@ -1,9 +1,9 @@
 
 -  Process (CPU allocate resource unit) 
-	- Also called Main thread
+	- also called Main thread
 	- own the mm_sturct
-	- mm_struct describe the virtual address space the process own.
+	- mm_struct describes the virtual address space owned by the process.
 - Thread 
-	- Also called child thread
+	- also called child thread
 	- share the mm_struct
-	- 
+	- It will create a sta
