@@ -1,73 +1,48 @@
 {
   "main": {
-    "id": "83915ccdd6e7ff6a",
+    "id": "15c68c91de12bb8c",
     "type": "split",
     "children": [
       {
-        "id": "2a43b72283c3b80b",
+        "id": "e5a2c40bc4c7094a",
         "type": "tabs",
-        "dimension": 70.53231939163499,
         "children": [
           {
-            "id": "0c92f93c22dfa15e",
+            "id": "1133a41af1bcc25b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/OpenBMC/OpenBMC Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c5b49fd604e70527",
+            "id": "0738c18fed4902c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Network/Network tools.md",
-                "mode": "preview",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "fa6396033a837efb",
-        "type": "tabs",
-        "dimension": 29.467680608365022,
-        "children": [
-          {
-            "id": "e4d1740ce19b51d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/AWS/SAA-C03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e566c557e8b9e518",
+    "id": "a447fb844b6370e2",
     "type": "split",
     "children": [
       {
-        "id": "4a3d7e4dbe7406bf",
+        "id": "ce2873c754524d42",
         "type": "tabs",
-        "dimension": 38.030560271646856,
         "children": [
           {
-            "id": "320826a8d723a7a9",
+            "id": "29b3ce9d5b45e0f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +52,81 @@
             }
           },
           {
-            "id": "231d7dda3cbe1b30",
+            "id": "031e23533bac9261",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6fd5da198f96294",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98286ee58c63722b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f4363fa781fdddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ebb5b36e341966",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ddf1a20ef43066f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d68ada98027fc26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fca2aa5f9f2d7ebd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -88,116 +137,7 @@
             }
           },
           {
-            "id": "8c4df84b401fd15f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "0c3717c252e998a8",
-        "type": "tabs",
-        "dimension": 61.96943972835314,
-        "children": [
-          {
-            "id": "4c151ec578264e02",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Literature/Network/Network tools.md"
-              }
-            }
-          },
-          {
-            "id": "5d793ba3a8b2ec8f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#B2",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 215.5
-  },
-  "right": {
-    "id": "fd87293d8765f0c3",
-    "type": "split",
-    "children": [
-      {
-        "id": "ba91a39d26cc832a",
-        "type": "tabs",
-        "dimension": 41.23711340206185,
-        "children": [
-          {
-            "id": "d613b9dca5b1b2e5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Literature/Network/Network tools.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "9b510479a0c63490",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Literature/Network/Network tools.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ae260365c6183299",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb435b1ac8c43b04",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b260d5add4c8e708",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c174b51aa453a6f",
+            "id": "0d0e12c014ca2c85",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -205,84 +145,55 @@
                 "sortOrder": "frequency"
               }
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "34d8c104424d5401",
-        "type": "tabs",
-        "dimension": 58.76288659793814,
-        "children": [
+          },
           {
-            "id": "072b76ac16890f03",
+            "id": "9af177687d1add24",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
+            "id": "c41621c6c21e8b13",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "537aba2e02de0b67",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c5b49fd604e70527",
+  "active": "0738c18fed4902c3",
   "lastOpenFiles": [
-    "VocabularyBank/Habitat.md",
-    "VocabularyBank/Abuzz.md",
-    "IELTS/6min/Can you change your sleep schedule.md",
-    "IELTS/6min",
-    "Fleeting/Vue.md",
-    "Fleeting/Redis.md",
-    "Literature/Cloud/AWS_Artitecture_Assistance.md",
-    "Literature/System Design/System interview.md",
-    "Fleeting/refer to sb,sth.md",
-    "Fleeting/attachments/Pasted image 20231221214544.png",
-    "Fleeting/attachments",
-    "Fleeting/Strip out.md",
-    "Fleeting/Socket.md",
-    "Fleeting/Small talk with chatgpt.md",
-    "Fleeting/Overlap.md",
-    "Fleeting/From scratch.md",
-    "Fleeting/Downgrade.md",
-    "Fleeting/Carry out.md",
-    "Fleeting/Cache.md",
-    "Literature/AWS/SAA-C03.md",
-    "Literature/System Design/HttpOnly.md",
-    "IELTS/homework/Hank.pdf",
-    "Fleeting/Socekts.md",
-    "Fleeting/分詞構句.md",
-    "Fleeting/Negative inversion.md",
-    "Fleeting/Leetcode.md",
-    "Fleeting/Kadane's Algorithm.md",
-    "Literature/Network/Network tools.md",
-    "Literature/Network",
-    "Fleeting/Manacher's Algorithm.md",
-    "Fleeting/Finding your way in space.md",
-    "IELTS/homework/Hank中文.pdf",
-    "IELTS/homework/Hank-Imap.pdf",
-    "Literature/OpenBMC",
-    "IELTS/homework/mindmap.xmind",
-    "IELTS/homework/熱情地圖.xmind",
-    "IELTS/筆記",
-    "未命名.canvas",
-    "Literature/Cloud/img_1.png",
-    "RDBS/未命名.canvas",
-    "Literature/Cloud/img.png"
+    "conflict-files-obsidian-git.md"
   ]
 }
