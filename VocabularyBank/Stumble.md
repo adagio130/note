@@ -22,6 +22,7 @@ Questions:
 verb form: stumble, ==stumbled==, ==stumbled==
 
 I got up in the middle of the night and ==stumbled out of bed== to get some water.
+<!--SR:!2023-12-29,1,230-->
 
 我半夜起床，跌跌撞撞地下床去拿水。:::I got up in the middle of the night and stumbled out of bed to get some water.
 

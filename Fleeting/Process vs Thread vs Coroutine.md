@@ -1,0 +1,11 @@
+
+-  Process (CPU allocate resource unit) 
+	- also called Main thread
+	- own the mm_sturct
+	- mm_struct describes the virtual address space owned by the process.
+	- the stack that belongs to it is called the kernel stack
+- Thread 
+	- also called child thread
+	- share the mm_struct
+	- It will create a stack within heap or mmap to avoid conflicting with the parent's stack.
+	- the stack which it owns is called the user stack
