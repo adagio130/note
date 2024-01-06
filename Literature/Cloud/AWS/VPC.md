@@ -1,8 +1,13 @@
-## VPC
+![[截圖 2024-01-06 上午9.48.41.png]]
 1. VPC
 	- manage the internet traffic
 	- subnets
-		- like the real subnets
+		- like the real subnets, put resources inside to manage them.
+		- public subnet
+		- private subnet
+			- close ne
+	- Routing table
+		- each subnet would has a routing table
 1. DHCP options
 2. EIPs
 3. ENIs
