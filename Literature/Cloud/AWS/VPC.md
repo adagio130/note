@@ -15,7 +15,7 @@
 			- ![[截圖 2024-01-06 上午9.58.15.png]]
 	- Routing table
 		- each subnet would has a routing table
-	- conclude
+	- conclusion
 		- ![[截圖 2024-01-06 上午10.03.05.png]]
 1. DHCP options
 2. EIPs
