@@ -15,10 +15,13 @@
 			- ![[截圖 2024-01-06 上午9.58.15.png]]
 	- Routing table
 		- each subnet would has a routing table
+	- conclude
+		- ![[截圖 2024-01-06 上午10.03.05.png]]
 1. DHCP options
 2. EIPs
 3. ENIs
-4. 
+	-  **NAT gw** (NAT Gateway)
+	- ![[截圖 2024-01-06 上午10.01.50.png]]
 5. VPC Peering
    - connects one vpc to another
    - can't transitive
