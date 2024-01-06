@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md",
+                "file": "Fleeting/Bit Mask.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md",
+                "file": "Fleeting/Bit Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md",
+                "file": "Fleeting/Bit Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md"
+                "file": "Fleeting/Bit Mask.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "384cc66563e66633",
   "lastOpenFiles": [
+    "Literature/Cloud/AWS/VPC.md",
+    "Fleeting/Bit Mask.md",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",
@@ -192,7 +194,6 @@
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.48.41.png",
     "Literature/Cloud/AWS/attachments",
     "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
-    "Literature/Cloud/AWS/VPC.md",
     "Fleeting/go green.md",
     "Fleeting/I-O.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
