@@ -9,13 +9,17 @@
 			- need routing table to route the internet gateway
 		- private subnet
 			- can't touch the internet
-			- if you want to touch the internet, need to use the publi
+			- if you want to touch the internet, need to use the public subnet's **NAT gw** (NAT Gateway), routing table is need as well.
+			-  ```Private Subnet EC2 -> Route Table (Private Subnet) -> Public Subnet NAT gw -> Route Table (Public Subnet) -> IGW -> Route Table (IGW) -> Internet```
+			- security:
+			- ![[截圖 2024-01-06 上午9.58.15.png]]
 	- Routing table
 		- each subnet would has a routing table
 1. DHCP options
 2. EIPs
 3. ENIs
-4. VPC Peering
+4. 
+5. VPC Peering
    - connects one vpc to another
    - can't transitive
    - creating vpc peers
@@ -24,20 +28,20 @@
      - VPC do not use the same IP CIDR
      - each VPC needs a defined route to the other VPC
      - security group rules
-5. Security group (like firewall)
+6. Security group (like firewall)
      - assigned to an instance in a VPC
      - applied to instances not to subnets
      - Ingress (entrance、incoming)
      - Egress (exit、outgoing)
      - only Allow
-6. Network Access Control Lists(NACLs)
+7. Network Access Control Lists(NACLs)
      - Applied on subnets
      - Both Allow/deny
      - Lowest numbered rules first
      - First match applies
      - like routers ACL
-7. NAT
+8. NAT
      - translates between Private IP address and Public Address 
-8. VPG
+9. VPG
      - connects local networks to the vpc
      - VPG is the VPN concentrator
