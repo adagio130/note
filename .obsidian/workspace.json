@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Cloud/AWS/VPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Cloud/AWS/VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Cloud/AWS/VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md"
+                "file": "Literature/Cloud/AWS/VPC.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "384cc66563e66633",
   "lastOpenFiles": [
+    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+    "Literature/Cloud/AWS/VPC.md",
     "Fleeting/go green.md",
     "Fleeting/I-O.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
@@ -194,7 +196,6 @@
     "Fleeting/Socket.md",
     "Literature/Data structure/Generate All combination.md",
     "Literature/Data structure/Data Structure.md",
-    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
     "Literature/Cloud/AWS/SAA-C03.md",
     "Fleeting/Negative inversion.md",
     "Fleeting/Leetcode.md",
@@ -210,7 +211,6 @@
     "Fleeting/Overlap.md",
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/From scratch.md",
-    "Fleeting/Strip out.md",
-    "Fleeting/Vue.md"
+    "Fleeting/Strip out.md"
   ]
 }

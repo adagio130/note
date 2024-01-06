@@ -122,37 +122,7 @@ very good use of S3 buckets is static websites
 1. four type file systems: Windows File Server，Lustre (high-performance file system)。NetApp ONTAP。OpenZFS
 
 
-## VPC
-1. VPC
-2. DHCP options
-3. EIPs
-4. ENIs
-5. VPC Peering
-   - connects one vpc to another
-   - can't transitive
-   - creating vpc peers
-     - owner role required
-     - IP CIDR blocks in each VPC must not overlap
-     - VPC do not use the same IP CIDR
-     - each VPC needs a defined route to the other VPC
-     - security group rules
-6. Security group (like firewall)
-     - assigned to an instance in a VPC
-     - applied to instances not to subnets
-     - Ingress (entrance、incoming)
-     - Egress (exit、outgoing)
-     - only Allow
-7. Network Access Control Lists(NACLs)
-     - Applied on subnets
-     - Both Allow/deny
-     - Lowest numbered rules first
-     - First match applies
-     - like routers ACL
-8. NAT
-     - translates between Private IP address and Public Address 
-9. VPG
-     - connects local networks to the vpc
-     - VPG is the VPN concentrator
+
 ## Compute Services
 
 1. Type
