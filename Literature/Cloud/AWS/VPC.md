@@ -1,4 +1,4 @@
-![[截圖 2024-01-06 上午9.48.41.png]]
+![[截圖 2024-01-06 上午10.13.41.png]]
 1. VPC
 	- manage the internet traffic
 	- subnets
