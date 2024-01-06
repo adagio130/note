@@ -4,8 +4,12 @@
 	- subnets
 		- like the real subnets, put resources inside to manage them.
 		- public subnet
+			- can touch the internet
+			- need internet gateway to communicate with the internet
+			- need routing table to route the internet gateway
 		- private subnet
-			- close ne
+			- can't touch the internet
+			- if you want to touch the internet, need to use the publi
 	- Routing table
 		- each subnet would has a routing table
 1. DHCP options
