@@ -19,8 +19,9 @@
 		- ![[截圖 2024-01-06 上午10.03.05.png]]
 1. DHCP options
 2. EIPs
-3. ENIs
-	-  **NAT gw** (NAT Gateway)
+3. ENIs (Elastic Network Interface)
+	- virtual network interface
+	- SG(security group) is acting on the ENI
 	- ![[截圖 2024-01-06 上午10.01.50.png]]
 5. VPC Peering
    - connects one vpc to another
