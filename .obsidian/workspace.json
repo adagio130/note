@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md",
+                "file": "Literature/Docker/Docker install (AMI install).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md",
+                "file": "Literature/Docker/Docker install (AMI install).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md",
+                "file": "Literature/Docker/Docker install (AMI install).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/AWS/VPC.md"
+                "file": "Literature/Docker/Docker install (AMI install).md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "384cc66563e66633",
   "lastOpenFiles": [
-    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+    "Literature/Docker",
     "Literature/Cloud/AWS/VPC.md",
+    "Literature/Docker/Docker install (AMI install).md",
+    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
     "Fleeting/Bit Mask.md",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
@@ -215,8 +217,6 @@
     "Fleeting/refer to sb,sth.md",
     "Fleeting/Redis.md",
     "Fleeting/RDBMS short note.md",
-    "Fleeting/Overlap.md",
-    "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/From scratch.md"
+    "Fleeting/Overlap.md"
   ]
 }
