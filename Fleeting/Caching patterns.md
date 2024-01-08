@@ -22,4 +22,3 @@
 			2. The performance of your database is optimal because fewer database reads are performed.
 		2. cons:
 			1. infrequently-requested data is also written to the cache, resulting in a larger and more expensive cache.
-			2. 
