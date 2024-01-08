@@ -14,3 +14,12 @@
 2. write-through
 	1. a proactive approach
 	2. updated immediately when the primary database is updated
+		1. The application, batch, or backend process updates the primary database.
+		2. Immediately afterward, the data is also updated in the cache.
+	3. pros and cons
+		1. pros:
+			1. Because the cache is up-to-date with the primary database, there is a much greater likelihood that the data will be found in the cache. This, in turn, results in better overall application performance and user experience.
+			2. The performance of your database is optimal because fewer database reads are performed.
+		2. cons:
+			1. infrequently-requested data is also written to the cache, resulting in a larger and more expensive cache.
+			2. 
