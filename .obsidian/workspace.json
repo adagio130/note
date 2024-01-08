@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Data structure/Heap.md",
+                "file": "Fleeting/Caching patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Data structure/Heap.md",
+                "file": "Fleeting/Caching patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Data structure/Heap.md",
+                "file": "Fleeting/Caching patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Data structure/Heap.md"
+                "file": "Fleeting/Caching patterns.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "384cc66563e66633",
   "lastOpenFiles": [
+    "Literature/Data structure/Heap.md",
+    "Fleeting/Caching patterns.md",
     "Literature/Data structure/Generate All combination.md",
     "Literature/Data structure/Data Structure.md",
     "Literature/Distribute System/Consensus Algorithm.md",
@@ -209,7 +211,6 @@
     "Fleeting/go green.md",
     "Fleeting/I-O.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
-    "Literature/Data structure/Heap.md",
     "Fleeting/Process vs Thread vs Coroutine.md",
     "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Socket.md",
@@ -217,7 +218,6 @@
     "Fleeting/Negative inversion.md",
     "Fleeting/Leetcode.md",
     "Fleeting/Golang.md",
-    "Fleeting/Finding your way in space.md",
-    "Fleeting/投資.md"
+    "Fleeting/Finding your way in space.md"
   ]
 }
