@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Caching patterns.md",
+                "file": "Literature/Cloud/AWS/network/VPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Caching patterns.md",
+                "file": "Literature/Cloud/AWS/network/VPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Caching patterns.md",
+                "file": "Literature/Cloud/AWS/network/VPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Caching patterns.md"
+                "file": "Literature/Cloud/AWS/network/VPC.md"
               }
             }
           },
@@ -183,10 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "384cc66563e66633",
+  "active": "29b3ce9d5b45e0f1",
   "lastOpenFiles": [
-    "Literature/Docker/Docker install (AMI install).md",
+    "Literature/Cloud/AWS/network",
+    "Literature/Cloud/AWS/SAA-C03.md",
+    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
     "Fleeting/Caching patterns.md",
+    "Fleeting/Cache.md",
+    "Fleeting/Bit Mask.md",
+    "Fleeting/Process vs Thread vs Coroutine.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Redis.md",
+    "Fleeting/Socket.md",
+    "IELTS/homework/passion map.md",
+    "IELTS/homework/Hank中文.pdf",
+    "IELTS/6min/Can you change your sleep schedule.md",
+    "Literature/Docker/Docker install (AMI install).md",
     "Literature/Data structure/Heap.md",
     "Literature/Data structure/Generate All combination.md",
     "Literature/Data structure/Data Structure.md",
@@ -196,12 +208,8 @@
     "Literature/System Design/Authentication.md",
     "Literature/System Design/HttpOnly.md",
     "Literature/System Design/System interview.md",
-    "Fleeting/Redis.md",
-    "Fleeting/Cache.md",
     "Literature/Docker",
-    "Literature/Cloud/AWS/VPC.md",
-    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
-    "Fleeting/Bit Mask.md",
+    "Literature/Cloud/AWS/network/VPC.md",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",
@@ -211,13 +219,6 @@
     "Fleeting/go green.md",
     "Fleeting/I-O.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
-    "Fleeting/Process vs Thread vs Coroutine.md",
-    "Fleeting/Manacher's Algorithm.md",
-    "Fleeting/Socket.md",
-    "Literature/Cloud/AWS/SAA-C03.md",
-    "Fleeting/Negative inversion.md",
-    "Fleeting/Leetcode.md",
-    "Fleeting/Golang.md",
-    "Fleeting/Finding your way in space.md"
+    "Fleeting/Manacher's Algorithm.md"
   ]
 }
