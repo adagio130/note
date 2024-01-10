@@ -11,8 +11,12 @@
             "id": "91d9793423aee25d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/I-O.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting/I-O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fleeting/I-O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fleeting/I-O.md"
+              }
             }
           },
           {
@@ -183,8 +191,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d565e0fbeb3f3135",
+  "active": "91d9793423aee25d",
   "lastOpenFiles": [
+    "Fleeting/Golang.md",
+    "Fleeting/Downgrade.md",
+    "Fleeting/Caching patterns.md",
+    "Fleeting/attachments/Pasted image 20231221214544.png",
+    "Fleeting/投資.md",
+    "Fleeting/分詞構句.md",
+    "VocabularyBank/Cast.md",
+    "VocabularyBank/Abuzz.md",
     "IELTS/Practice tips.md",
     "Fleeting/Bit Mask.md",
     "Literature/Cloud/AWS/network/VPC.md",
@@ -203,10 +219,8 @@
     "Literature/Cloud/AWS/img_1.png",
     "Literature/Cloud/AWS/img_2.png",
     "Literature/Cloud/AWS/img_3.png",
-    "Literature/Cloud/AWS/img_4.png",
     "Literature/Cloud/AWS/SAA-C03.md",
     "Literature/Cloud/AWS/network",
-    "Fleeting/Caching patterns.md",
     "Fleeting/Cache.md",
     "Fleeting/Process vs Thread vs Coroutine.md",
     "Fleeting/RDBMS short note.md",
@@ -221,13 +235,7 @@
     "Literature/Data structure/Data Structure.md",
     "Literature/Distribute System/Consensus Algorithm.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/java/ConcurrentPart2.md",
-    "Literature/System Design/Authentication.md",
-    "Literature/System Design/HttpOnly.md",
-    "Literature/System Design/System interview.md",
     "Literature/Docker",
-    "Literature/Cloud/AWS/attachments",
-    "Fleeting/go green.md",
-    "Fleeting/I-O.md"
+    "Literature/Cloud/AWS/attachments"
   ]
 }
