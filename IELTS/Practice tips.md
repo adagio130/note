@@ -15,3 +15,5 @@
 		- 錄起來自己聽跟比對
 - reading
 - writing
+	- collocation
+	- make your sentences
