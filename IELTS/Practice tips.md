@@ -16,5 +16,8 @@
 - reading
 	- 
 - writing
+	- 抄寫
+		- 「你喜歡的」、「長度適中」、「程度沒有過難」
+		- 反省
 	- collocation
 	- make your sentences
