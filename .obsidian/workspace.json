@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "83915ccdd6e7ff6a",
+    "id": "15c68c91de12bb8c",
     "type": "split",
     "children": [
       {
-        "id": "aa89d4b52edfebc2",
+        "id": "e5a2c40bc4c7094a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a114750d48fb7e5",
+            "id": "384cc66563e66633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Process vs Thread vs Coroutine.md",
+                "file": "IELTS/Practice tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,16 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e566c557e8b9e518",
+    "id": "a447fb844b6370e2",
     "type": "split",
     "children": [
       {
-        "id": "4a3d7e4dbe7406bf",
+        "id": "ce2873c754524d42",
         "type": "tabs",
-        "dimension": 49.85380116959064,
         "children": [
           {
-            "id": "320826a8d723a7a9",
+            "id": "29b3ce9d5b45e0f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,43 +43,7 @@
             }
           },
           {
-            "id": "231d7dda3cbe1b30",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8c4df84b401fd15f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "0c3717c252e998a8",
-        "type": "tabs",
-        "dimension": 50.14619883040936,
-        "children": [
-          {
-            "id": "4c151ec578264e02",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Fleeting/Process vs Thread vs Coroutine.md"
-              }
-            }
-          },
-          {
-            "id": "5d793ba3a8b2ec8f",
+            "id": "031e23533bac9261",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,99 +56,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 320.5
-  },
-  "right": {
-    "id": "fd87293d8765f0c3",
-    "type": "split",
-    "children": [
-      {
-        "id": "ba91a39d26cc832a",
-        "type": "tabs",
-        "dimension": 41.23711340206185,
-        "children": [
-          {
-            "id": "d613b9dca5b1b2e5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Fleeting/Process vs Thread vs Coroutine.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           },
           {
-            "id": "9b510479a0c63490",
+            "id": "a6fd5da198f96294",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Fleeting/Process vs Thread vs Coroutine.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "ae260365c6183299",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb435b1ac8c43b04",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b260d5add4c8e708",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c174b51aa453a6f",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "34d8c104424d5401",
-        "type": "tabs",
-        "dimension": 58.76288659793814,
-        "children": [
-          {
-            "id": "072b76ac16890f03",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -193,70 +69,165 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
+  },
+  "right": {
+    "id": "98286ee58c63722b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f4363fa781fdddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ebb5b36e341966",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ddf1a20ef43066f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IELTS/Practice tips.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d68ada98027fc26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IELTS/Practice tips.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fca2aa5f9f2d7ebd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d0e12c014ca2c85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "9af177687d1add24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IELTS/Practice tips.md"
+              }
+            }
+          },
+          {
+            "id": "c41621c6c21e8b13",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "537aba2e02de0b67",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8a114750d48fb7e5",
+  "active": "384cc66563e66633",
   "lastOpenFiles": [
-    "Literature/Docker/Docker install (AMI install).md",
-    "Literature/Docker",
+    "Fleeting/Bit Mask.md",
+    "IELTS/Practice tips.md",
     "Literature/Cloud/AWS/network/VPC.md",
-    "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.58.15.png",
+    "Literature/Cloud/AWS/monitor",
+    "Literature/Cloud/AWS/storage",
+    "Literature/Cloud/AWS/security",
+    "Literature/Cloud/AWS/Untitled.md",
+    "Literature/Cloud/AWS/compute",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
-    "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.48.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",
-    "Literature/Cloud/AWS/SAA-C03.xmind",
+    "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.58.15.png",
+    "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.48.41.png",
+    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+    "Literature/Cloud/AWS/img.png",
+    "Literature/Cloud/AWS/img_1.png",
+    "Literature/Cloud/AWS/img_2.png",
+    "Literature/Cloud/AWS/img_3.png",
+    "Literature/Cloud/AWS/img_4.png",
     "Literature/Cloud/AWS/SAA-C03.md",
     "Literature/Cloud/AWS/network",
-    "Literature/Cloud/AWS/img_6.png",
-    "Literature/Cloud/AWS/img_5.png",
-    "Literature/Cloud/AWS/img_4.png",
-    "Literature/Cloud/AWS/img_3.png",
-    "Literature/Cloud/AWS/img_2.png",
-    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
-    "Literature/Cloud/AWS/attachments",
-    "Literature/Cloud/AWS",
-    "Fleeting/go green.md",
-    "Fleeting/I-O.md",
     "Fleeting/Caching patterns.md",
-    "Fleeting/Bit Mask.md",
+    "Fleeting/Cache.md",
     "Fleeting/Process vs Thread vs Coroutine.md",
-    "Fleeting/Runway.md",
-    "IELTS/6min/Can you change your sleep schedule.md",
-    "VocabularyBank/Abuzz.md",
-    "Fleeting/From scratch.md",
-    "Fleeting/Carry out.md",
-    "Fleeting/Vue.md",
-    "Fleeting/Strip out.md",
-    "Fleeting/Socket.md",
-    "Fleeting/Small talk with chatgpt.md",
-    "Fleeting/refer to sb,sth.md",
-    "Fleeting/Redis.md",
     "Fleeting/RDBMS short note.md",
-    "Fleeting/Overlap.md",
-    "Fleeting/Negative inversion.md",
-    "Fleeting/Manacher's Algorithm.md",
-    "Fleeting/Leetcode.md",
-    "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/attachments",
+    "Fleeting/Redis.md",
+    "Fleeting/Socket.md",
+    "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf",
-    "IELTS/homework/Hank.pdf",
-    "IELTS/homework/Hank-Imap.pdf",
-    "Literature/Algorithm",
-    "未命名.canvas",
-    "RDBS/未命名.canvas"
+    "IELTS/6min/Can you change your sleep schedule.md",
+    "Literature/Docker/Docker install (AMI install).md",
+    "Literature/Data structure/Heap.md",
+    "Literature/Data structure/Generate All combination.md",
+    "Literature/Data structure/Data Structure.md",
+    "Literature/Distribute System/Consensus Algorithm.md",
+    "Literature/java/ArrayList-v.s.-Vector.md",
+    "Literature/java/ConcurrentPart2.md",
+    "Literature/System Design/Authentication.md",
+    "Literature/System Design/HttpOnly.md",
+    "Literature/System Design/System interview.md",
+    "Literature/Docker",
+    "Literature/Cloud/AWS/attachments",
+    "Fleeting/go green.md",
+    "Fleeting/I-O.md"
   ]
 }
