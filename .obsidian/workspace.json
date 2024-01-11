@@ -11,8 +11,12 @@
             "id": "903eb2d79a840a83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/dump-init.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting/dump-init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fleeting/dump-init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fleeting/dump-init.md"
+              }
             }
           },
           {
@@ -183,8 +191,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29b3ce9d5b45e0f1",
+  "active": "903eb2d79a840a83",
   "lastOpenFiles": [
+    "Fleeting/dump-init.md",
     "Fleeting/Vue.md",
     "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
@@ -229,7 +238,6 @@
     "Fleeting/Cache.md",
     "Fleeting/Process vs Thread vs Coroutine.md",
     "IELTS/homework/passion map.md",
-    "IELTS/homework/Hank中文.pdf",
-    "IELTS/6min/Can you change your sleep schedule.md"
+    "IELTS/homework/Hank中文.pdf"
   ]
 }
