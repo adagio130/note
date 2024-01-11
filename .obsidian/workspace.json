@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/I-O.md",
+                "file": "Fleeting/Vue.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/I-O.md",
+                "file": "Fleeting/Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/I-O.md",
+                "file": "Fleeting/Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/I-O.md"
+                "file": "Fleeting/Vue.md"
               }
             }
           },
@@ -193,6 +193,18 @@
   },
   "active": "91d9793423aee25d",
   "lastOpenFiles": [
+    "Fleeting/Strip out.md",
+    "Fleeting/Socket.md",
+    "Fleeting/Small talk with chatgpt.md",
+    "Fleeting/refer to sb,sth.md",
+    "Fleeting/Redis.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Leetcode.md",
+    "Fleeting/I-O.md",
+    "Leetcode/useful-tips",
+    "Leetcode/dynamic program",
+    "Leetcode/two-pointer",
+    "Leetcode",
     "Fleeting/Golang.md",
     "Fleeting/Downgrade.md",
     "Fleeting/Caching patterns.md",
@@ -223,19 +235,9 @@
     "Literature/Cloud/AWS/network",
     "Fleeting/Cache.md",
     "Fleeting/Process vs Thread vs Coroutine.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Redis.md",
-    "Fleeting/Socket.md",
     "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/6min/Can you change your sleep schedule.md",
-    "Literature/Docker/Docker install (AMI install).md",
-    "Literature/Data structure/Heap.md",
-    "Literature/Data structure/Generate All combination.md",
-    "Literature/Data structure/Data Structure.md",
-    "Literature/Distribute System/Consensus Algorithm.md",
-    "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/Docker",
-    "Literature/Cloud/AWS/attachments"
+    "Literature/Docker/Docker install (AMI install).md"
   ]
 }
