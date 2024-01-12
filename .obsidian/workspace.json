@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/Practice tips.md",
+                "file": "Leetcode/Q. Num.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/Practice tips.md",
+                "file": "Leetcode/Q. Num.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/Practice tips.md",
+                "file": "Leetcode/Q. Num.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/Practice tips.md"
+                "file": "Leetcode/Q. Num.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "903eb2d79a840a83",
   "lastOpenFiles": [
+    "IELTS/Practice tips.md",
+    "Leetcode/Q. Num.md",
     "Fleeting/dump-init.md",
     "Fleeting/Vue.md",
     "Fleeting/Strip out.md",
@@ -215,7 +217,6 @@
     "Fleeting/分詞構句.md",
     "VocabularyBank/Cast.md",
     "VocabularyBank/Abuzz.md",
-    "IELTS/Practice tips.md",
     "Fleeting/Bit Mask.md",
     "Literature/Cloud/AWS/network/VPC.md",
     "Literature/Cloud/AWS/monitor",
@@ -237,7 +238,6 @@
     "Literature/Cloud/AWS/network",
     "Fleeting/Cache.md",
     "Fleeting/Process vs Thread vs Coroutine.md",
-    "IELTS/homework/passion map.md",
     "IELTS/homework/Hank中文.pdf"
   ]
 }
