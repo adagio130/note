@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Q. Num.md",
+                "file": "Leetcode/dynamic program/tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Q. Num.md",
+                "file": "Leetcode/dynamic program/tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Q. Num.md",
+                "file": "Leetcode/dynamic program/tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Q. Num.md"
+                "file": "Leetcode/dynamic program/tips.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "903eb2d79a840a83",
   "lastOpenFiles": [
-    "IELTS/Practice tips.md",
+    "Fleeting/Leetcode.md",
+    "Leetcode/dynamic program/tips.md",
     "Leetcode/Q. Num.md",
+    "IELTS/Practice tips.md",
     "Fleeting/dump-init.md",
     "Fleeting/Vue.md",
     "Fleeting/Strip out.md",
@@ -203,7 +205,6 @@
     "Fleeting/refer to sb,sth.md",
     "Fleeting/Redis.md",
     "Fleeting/RDBMS short note.md",
-    "Fleeting/Leetcode.md",
     "Fleeting/I-O.md",
     "Leetcode/useful-tips",
     "Leetcode/dynamic program",
@@ -237,7 +238,6 @@
     "Literature/Cloud/AWS/SAA-C03.md",
     "Literature/Cloud/AWS/network",
     "Fleeting/Cache.md",
-    "Fleeting/Process vs Thread vs Coroutine.md",
     "IELTS/homework/Hank中文.pdf"
   ]
 }
