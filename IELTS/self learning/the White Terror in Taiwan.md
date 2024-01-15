@@ -20,7 +20,7 @@ civil war
 ---------
 
 1. aside from that, the nationalist government also encouraged taiwanese to rat each other out
-2. 
+2. under a period of time with no democracy, it wasn't  only water cannons, tear gas, and armed police that stood in the way of freedom
 
 -------
 
