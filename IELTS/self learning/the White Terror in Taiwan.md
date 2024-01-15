@@ -14,6 +14,8 @@ protest
 rebel
 white terror
 constitution
+oblivion
+civil war
 
 ---------
 
