@@ -11,6 +11,9 @@ nationalist government
 imposition of the taiwan martial law
 demonstrate 
 protest
+rebel
+white terror
+constitution
 
 ---------
 
@@ -29,4 +32,4 @@ act for the control and punishment of rebellion
 espionage act of the republic of china
 	檢肅匪諜條例
 
-
+temporary provisions effective during the period of  communist rebellion
