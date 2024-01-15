@@ -7,5 +7,12 @@ hard-fought
 easy-peasy
 smooth transition
 get  a sense of all this
+nationalist government
+imposition of the tw
+
 
 -------
+
+single-party-state
+	黨國體制
+
