@@ -8,11 +8,15 @@ easy-peasy
 smooth transition
 get  a sense of all this
 nationalist government
-imposition of the tw
+imposition of the taiwan martial law
+demonstrate 
+protest
 
 
 -------
 
 single-party-state
 	黨國體制
+act for the control and punishment of rebellion
+	逞帙叛亂條例
 
