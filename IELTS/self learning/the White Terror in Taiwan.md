@@ -12,11 +12,21 @@ imposition of the taiwan martial law
 demonstrate 
 protest
 
+---------
+
+1. aside from that, the nationalist government also encouraged taiwanese to rat each other out
+2. 
 
 -------
 
 single-party-state
 	黨國體制
+
+the criminal code of the republic of china article 100
+	刑法一百條
 act for the control and punishment of rebellion
-	逞帙叛亂條例
+	懲治叛亂條例
+espionage act of the republic of china
+	檢肅匪諜條例
+
 
