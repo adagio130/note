@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/self learning/the White Terror in Taiwan.md",
+                "file": "Literature/DBMS/Partition.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/self learning/the White Terror in Taiwan.md",
+                "file": "Literature/DBMS/Partition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/self learning/the White Terror in Taiwan.md",
+                "file": "Literature/DBMS/Partition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/self learning/the White Terror in Taiwan.md"
+                "file": "Literature/DBMS/Partition.md"
               }
             }
           },
@@ -193,8 +193,11 @@
   },
   "active": "903eb2d79a840a83",
   "lastOpenFiles": [
-    "IELTS/Practice tips.md",
+    "Literature/DBMS/Sharding.md",
+    "Literature/DBMS/Replication.md",
+    "Literature/DBMS/Partition.md",
     "IELTS/self learning/the White Terror in Taiwan.md",
+    "IELTS/Practice tips.md",
     "Leetcode/dynamic program/tips.md",
     "Fleeting/Leetcode.md",
     "Leetcode/Q. Num.md",
@@ -224,19 +227,16 @@
     "Literature/Cloud/AWS/monitor",
     "Literature/Cloud/AWS/storage",
     "Literature/Cloud/AWS/security",
-    "Literature/Cloud/AWS/Untitled.md",
     "Literature/Cloud/AWS/compute",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.58.15.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.48.41.png",
-    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
     "Literature/Cloud/AWS/img.png",
     "Literature/Cloud/AWS/img_1.png",
     "Literature/Cloud/AWS/img_2.png",
     "Literature/Cloud/AWS/img_3.png",
-    "Literature/Cloud/AWS/SAA-C03.md",
     "Literature/Cloud/AWS/network",
     "IELTS/homework/Hank中文.pdf"
   ]
