@@ -4,8 +4,12 @@
 
 social movement
 de facto
-
-
+rule
+sweep through 蔓延開來
+auntie
+gramp; gramps
+granny; grannies
+democracy
 
 ------
 
