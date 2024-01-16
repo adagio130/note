@@ -6,3 +6,10 @@
 5. If there are many indexes that can be used for a given query, query optimization may take longer.
 
 i**ndex data is in the memory** and the **non-index data will be on the disk.**
+
+
+explain statement:
+- important fields:
+	- type
+	- rows
+	- possible_keys
