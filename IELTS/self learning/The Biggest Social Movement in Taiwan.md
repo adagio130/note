@@ -27,7 +27,11 @@ engaged in ...
 heated discussions overseas
 diagnosed
 culturally malnourished brainless jellyfish
-
+naivety
+along with
+miserable
+Taiwanese cultural association
+dedicated
 
 ------
 
