@@ -15,11 +15,15 @@ self-determination
 assimilate
 Petition Movement
 establishment
+parliament
+pantsy
+plea to
+intellectual
 
 ------
 
- the story wasn't as easy as that.
-
+the story wasn't "as easy as" that.
+"Instead of" being assimilated, the Taiwanese pled to set up its own parliament to rule on their own.
 
 ------
 
