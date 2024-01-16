@@ -19,6 +19,9 @@ parliament
 pantsy
 plea to
 intellectual
+always one step ahead
+political elite
+cultivated
 
 ------
 
