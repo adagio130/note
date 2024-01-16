@@ -10,10 +10,15 @@ auntie
 gramp; gramps
 granny; grannies
 democracy
+modernized
+self-determination
+assimilate
+Petition Movement
+establishment
 
 ------
 
-
+ the story wasn't as easy as that.
 
 
 ------
