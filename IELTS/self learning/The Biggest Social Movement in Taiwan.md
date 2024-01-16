@@ -21,7 +21,13 @@ plea to
 intellectual
 always one step ahead
 political elite
-cultivated
+cultivated and raised the public awareness
+compare to
+engaged in ...
+heated discussions overseas
+diagnosed
+culturally malnourished brainless jellyfish
+
 
 ------
 
