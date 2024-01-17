@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Volatile key word in java.md",
+                "file": "Leetcode/Q. Num.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leetcode/Q. Num.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leetcode/Q. Num.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leetcode/Q. Num.md"
+              }
             }
           },
           {
@@ -187,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d565e0fbeb3f3135",
+  "active": "903eb2d79a840a83",
   "lastOpenFiles": [
     "Literature/Data structure/Heap.md",
     "Fleeting/Volatile key word in java.md",
