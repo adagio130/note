@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/self learning/The Biggest Social Movement in Taiwan.md",
+                "file": "Fleeting/Volatile key word in java.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/self learning/The Biggest Social Movement in Taiwan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/self learning/The Biggest Social Movement in Taiwan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IELTS/self learning/The Biggest Social Movement in Taiwan.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,20 +187,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "903eb2d79a840a83",
+  "active": "d565e0fbeb3f3135",
   "lastOpenFiles": [
-    "IELTS/self learning/The White Terror in Taiwan.md",
-    "IELTS/self learning/The Biggest Social Movement in Taiwan.md",
-    "IELTS/self learning/Can you change your sleep schedule.md",
-    "Literature/DBMS/Index.md",
-    "Literature/DBMS/Partition.md",
-    "Literature/DBMS/Sharding.md",
-    "Literature/DBMS/Replication.md",
-    "IELTS/Practice tips.md",
-    "Leetcode/dynamic program/tips.md",
-    "Fleeting/Leetcode.md",
-    "Leetcode/Q. Num.md",
-    "Fleeting/dump-init.md",
+    "Literature/Data structure/Heap.md",
+    "Fleeting/Volatile key word in java.md",
+    "Literature/OpenBMC/OpenBMC Note.md",
+    "Fleeting/Caching patterns.md",
+    "Fleeting/Cache.md",
+    "Fleeting/Bit Mask.md",
+    "Fleeting/投資.md",
     "Fleeting/Vue.md",
     "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
@@ -212,18 +203,23 @@
     "Fleeting/refer to sb,sth.md",
     "Fleeting/Redis.md",
     "Fleeting/RDBMS short note.md",
-    "Fleeting/I-O.md",
+    "Fleeting/Process vs Thread vs Coroutine.md",
+    "Fleeting/Overlap.md",
+    "Fleeting/Negative inversion.md",
+    "IELTS/self learning/The Biggest Social Movement in Taiwan.md",
+    "Fleeting/Leetcode.md",
+    "IELTS/self learning/The White Terror in Taiwan.md",
+    "IELTS/self learning/Can you change your sleep schedule.md",
+    "Literature/DBMS/Index.md",
+    "Literature/DBMS/Partition.md",
+    "Literature/DBMS/Sharding.md",
+    "Literature/DBMS/Replication.md",
+    "IELTS/Practice tips.md",
     "Leetcode/useful-tips",
     "Leetcode/dynamic program",
     "Leetcode/two-pointer",
     "Leetcode",
-    "Fleeting/Golang.md",
-    "Fleeting/Downgrade.md",
-    "Fleeting/Caching patterns.md",
     "Fleeting/attachments/Pasted image 20231221214544.png",
-    "Fleeting/投資.md",
-    "Fleeting/分詞構句.md",
-    "VocabularyBank/Cast.md",
     "Literature/Cloud/AWS/monitor",
     "Literature/Cloud/AWS/storage",
     "Literature/Cloud/AWS/security",
