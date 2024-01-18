@@ -2,7 +2,13 @@
 
 ---------
 
-
+revolving door
+walk right in
+walk up
+minor detail
+full-on
+detain in
+interrogating someone
 
 -----------
 
