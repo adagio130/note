@@ -9,6 +9,13 @@ minor detail
 full-on
 detain in
 interrogating someone
+lie about
+knee-jerk reaction
+deport you
+that ship has sailed
+every bit American
+recite
+
 
 -----------
 
