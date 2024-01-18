@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Q. Num.md",
+                "file": "IELTS/self learning/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/Q. Num.md",
+                "file": "IELTS/self learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/Q. Num.md",
+                "file": "IELTS/self learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Q. Num.md"
+                "file": "IELTS/self learning/Untitled.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "903eb2d79a840a83",
   "lastOpenFiles": [
+    "Leetcode/Q. Num.md",
+    "IELTS/self learning/Untitled.md",
     "Literature/Data structure/Heap.md",
     "Fleeting/Volatile key word in java.md",
     "Literature/OpenBMC/OpenBMC Note.md",
@@ -217,8 +219,6 @@
     "Literature/DBMS/Index.md",
     "Literature/DBMS/Partition.md",
     "Literature/DBMS/Sharding.md",
-    "Literature/DBMS/Replication.md",
-    "IELTS/Practice tips.md",
     "Leetcode/useful-tips",
     "Leetcode/dynamic program",
     "Leetcode/two-pointer",
