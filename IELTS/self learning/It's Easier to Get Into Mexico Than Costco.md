@@ -15,7 +15,8 @@ deport you
 that ship has sailed
 every bit American
 recite
-
+throw me under the bus
+sobering
 
 -----------
 
