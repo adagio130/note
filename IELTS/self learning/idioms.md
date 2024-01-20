@@ -10,4 +10,8 @@
 	5. All you hard work has really paid of
 		1. the effort put into a task has resulted in a successful outcome
 	6. It turned out great
-		1. it was sec
+		1. it was successful, better than expected
+	7. Don't worry. I'm on top of it
+		1. I am fully in control of  the.situation
+	8. I don't want to pull rank, but....
+		1. polite way of showing their authority
