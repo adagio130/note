@@ -17,7 +17,10 @@ every bit American
 recite
 throw me under the bus
 sobering
-
+clap
+nobody in any part of the world
+come up to me
+patriotic
 
 
 -----------
