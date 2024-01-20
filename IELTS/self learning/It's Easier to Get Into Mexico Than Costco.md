@@ -6,8 +6,10 @@ revolving door: 旋轉門 noun countable
 walk right in: 直接走進去
 walk up
 minor detail
+ - there's a minor problem. I forgot I wan't.
 full-on
 detain in
+ -   
 interrogating someone
 lie about
 knee-jerk reaction
