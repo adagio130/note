@@ -2,7 +2,7 @@
 
 ---------
 
-revolving door
+revolving door: 旋轉門 noun countable
 walk right in
 walk up
 minor detail
