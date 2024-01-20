@@ -28,7 +28,7 @@ racist
 
 -----------
 
-It's easier to do sth. than sth.
+It's easier to do sth. than to do sth.
 
 
 -------
