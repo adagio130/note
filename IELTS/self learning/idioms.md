@@ -24,4 +24,9 @@
 	12. to boss me about
 		1. to give me orders to control me
 	13. I've had a lot on (my. plate)
-		1. I have al
+		1. I have to deal with a lot of works 
+	14. I will run everything by you first
+		1. I will seek your approval or input before making decisions
+
+- Disagree
+	1. 
