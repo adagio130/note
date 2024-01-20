@@ -29,6 +29,8 @@ racist
 -----------
 
 It's easier to do sth. than to do sth.
+Easy for you to say
+Actions speak louder than words.
 
 
 -------
