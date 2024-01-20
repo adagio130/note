@@ -14,4 +14,14 @@
 	7. Don't worry. I'm on top of it
 		1. I am fully in control of  the.situation
 	8. I don't want to pull rank, but....
-		1. polite way of showing their authority
+		1. polite way of showing their authority to control this situation
+	9. I handed in my notice
+		1. I resigned from my job
+	10. she has put blood, sweat and tears into this place
+		1. she invested a lot of hard work into this task
+	11. Every.thing went pear-shared
+		1. it all went wrong or badly, often unexpectedly
+	12. to boss me about
+		1. to give me orders to control me
+	13. I've had a lot on (my. plate)
+		1. I have al
