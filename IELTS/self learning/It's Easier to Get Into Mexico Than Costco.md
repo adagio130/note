@@ -3,7 +3,7 @@
 ---------
 
 revolving door: 旋轉門 noun countable
-walk right in
+walk right in: 直接走進去
 walk up
 minor detail
 full-on
@@ -27,4 +27,9 @@ I have Mexican friends back home just like you
 racist
 
 -----------
+
+It's easier to do sth. than sth.
+
+
+-------
 
