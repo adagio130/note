@@ -23,9 +23,8 @@ come up to me
 patriotic
 cheer for team USA
 he managed to insult me with the only three english words he knew
-I have mexican friends back home just like you
+I have Mexican friends back home just like you
 racist
-
 
 -----------
 
