@@ -18,7 +18,8 @@ that ship has sailed
 every bit American
 recite
 throw me under the bus
-sobering
+sobering experience
+	驚嚇的經驗
 clap
 nobody in any part of the world
 come up to me
