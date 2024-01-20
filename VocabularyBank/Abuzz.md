@@ -23,6 +23,8 @@ Sentences:
 Questions:
 
 The early bird rises with the sun, springing out of bed ==abuzz with== energy.
+<!--SR:!2024-01-21,1,230-->
 
 由於疾病的大流行，市場充斥著衰退的傳聞:::The market was abuzz with rumors of recession due to the pandemic.
+<!--SR:!2024-01-21,1,230!2024-01-21,1,230-->
 

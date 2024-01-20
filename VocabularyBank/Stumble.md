@@ -20,9 +20,11 @@ Sentences:
 Questions:
 
 verb form: stumble, ==stumbled==, ==stumbled==
+<!--SR:!2024-01-21,1,228!2024-01-21,1,228-->
 
 I got up in the middle of the night and ==stumbled out of bed== to get some water.
-<!--SR:!2023-12-29,1,230-->
+<!--SR:!2024-01-23,3,210-->
 
 我半夜起床，跌跌撞撞地下床去拿水。:::I got up in the middle of the night and stumbled out of bed to get some water.
+<!--SR:!2024-01-21,1,228!2024-01-21,1,228-->
 

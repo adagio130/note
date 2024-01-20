@@ -17,7 +17,8 @@ Sentences:
 Questions:
 
 Here we see an early bird and a night owl in their ==natural habitats==.
+<!--SR:!2024-01-21,1,230-->
 
 由於人類的活動，越來越多的野生動物正在失去牠們的棲地:::More and more wildlife has been losing their ==habitats== because of human activities.
-<!--SR:!2023-12-29,3,250!2023-12-29,3,250-->
+<!--SR:!2024-01-24,4,230!2024-02-24,35,250-->
 
