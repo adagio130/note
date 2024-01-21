@@ -9,7 +9,7 @@ minor detail
  - there's a minor problem. I forgot I wan't.
 full-on
 detain in
- -   
+ -   拘留
 interrogating someone
 lie about
 knee-jerk reaction
