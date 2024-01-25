@@ -8,6 +8,7 @@ grep -Rnw '/path/to/somewhere/' -e 'pattern'
 - `-w` stands for match the whole word.
 - `-l` (lower-case L) can be added to just give the file name of matching files.
 - `-e` is the pattern used during the search
+
 Along with these, `--exclude`, `--include`, `--exclude-dir` flags could be used for efficient searching:
 
 - This will only search through those files which have .c or .h extensions:
