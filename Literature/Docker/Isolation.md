@@ -1,9 +1,7 @@
 Name spaces:
-- Mount
-- PID
-- Network
-- Cgroup
-- IPC
-- Time
-- UTS
-- User
+- mnt
+- uts
+- ipc
+- pid
+- net
+- user
