@@ -1,7 +1,13 @@
 Name spaces:
-- mnt
-- uts
-- ipc
-- pid
-- net
-- user
+- Mnt
+- Uts
+- Ipc
+- Pid
+- Net
+- User
+
+Cgroup:
+- Resource Limiting
+- Prioritization
+- Accounting
+- Controrl
