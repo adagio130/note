@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/work note.md",
+                "file": "Fleeting/Finding your way in space.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/work note.md",
+                "file": "Fleeting/Finding your way in space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/work note.md",
+                "file": "Fleeting/Finding your way in space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/work note.md"
+                "file": "Fleeting/Finding your way in space.md"
               }
             }
           },
@@ -193,35 +193,35 @@
   },
   "active": "903eb2d79a840a83",
   "lastOpenFiles": [
-    "Literature/Network/Network tools.md",
+    "Fleeting/dump-init.md",
+    "Fleeting/Downgrade.md",
+    "Fleeting/Carry out.md",
+    "Fleeting/Caching patterns.md",
+    "Fleeting/Cache.md",
+    "Literature/Docker/Docker network.md",
+    "Literature/Docker/Docker install (AMI install).md",
     "Fleeting/work note.md",
+    "Fleeting/Vue.md",
+    "Fleeting/Volatile key word in java.md",
+    "Fleeting/Socket.md",
+    "Fleeting/Small talk with chatgpt.md",
+    "Fleeting/refer to sb,sth.md",
+    "Fleeting/Redis.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Process vs Thread vs Coroutine.md",
+    "Fleeting/Overlap.md",
+    "Fleeting/Negative inversion.md",
+    "Fleeting/Kadane's Algorithm.md",
+    "Fleeting/I-O.md",
+    "Fleeting/Golang.md",
+    "Fleeting/go green.md",
+    "Fleeting/From scratch.md",
+    "Fleeting/Finding your way in space.md",
+    "Literature/Network/Network tools.md",
     "Literature/System Design/HttpOnly.md",
-    "Literature/System Design/System interview.md",
-    "IELTS/self learning/It's Easier to Get Into Mexico Than Costco.md",
-    "IELTS/homework/Week1.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
-    "Fleeting/Carry out.md",
-    "Fleeting/Docker network.md",
-    "Fleeting/Downgrade.md",
-    "Fleeting/dump-init.md",
-    "Fleeting/Finding your way in space.md",
-    "Fleeting/From scratch.md",
-    "Fleeting/Golang.md",
-    "Fleeting/I-O.md",
-    "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/Manacher's Algorithm.md",
-    "Fleeting/Negative inversion.md",
-    "Fleeting/Overlap.md",
-    "Fleeting/Process vs Thread vs Coroutine.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Redis.md",
-    "Fleeting/refer to sb,sth.md",
-    "Fleeting/Small talk with chatgpt.md",
-    "Fleeting/Socket.md",
-    "Fleeting/Vue.md",
-    "Fleeting/Strip out.md",
     "Leetcode/useful-tips",
     "Leetcode/dynamic program",
     "Leetcode/two-pointer",
