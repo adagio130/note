@@ -27,11 +27,16 @@ Go routine
 2. 等待一執行緒結束後再接續工作
 	1. sync.WaitGroup
 		1. **是一個計數器**，啟動一條Goroutine 計數器 +1; 反之結束一條 -1
+		2. sync.WaitGroup.Add(int num)
+		3. sync.WaitGroup.Wait()
+		4. sync.WaitGroup.Done() < for go routine report their status
 	2. channel
 		1. 利用**等待提取**
 		2. 
 3. 多執行緒共用同一個變數
+	1. sync.lock, sync.unlock
 4. 不同執行緒產出影響後續邏輯
+	1. select多路複用，決定要用哪一個cha
 5. 兄弟執行緒間不求同生只求同死
 
 溝通
