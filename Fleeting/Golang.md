@@ -18,7 +18,7 @@
 |float64|IEEE-754 64 位元|最多 15 位數|10 的 308 次方|
 
 
-Go routine
+## Go routine
 
 1. 執行緒相互溝通 
 	1. channel
@@ -36,9 +36,17 @@ Go routine
 3. 多執行緒共用同一個變數
 	1. sync.lock, sync.unlock
 4. 不同執行緒產出影響後續邏輯
-	1. select多路複用，決定要用哪一個cha
+	1. select多路複用，決定要用哪一個channel作處理
 5. 兄弟執行緒間不求同生只求同死
-
+	1. context，管理go routine 生命週期
+		1. WithCancel
+			1. **當parent呼叫cancel方法之後**，所有相依的Goroutine 都會透過context接收parent要所有子執行序結束的訊息。
+		2. WithDeadline
+			1. **當所設定的日期到時**所有相依的Goroutine 都會透過context接收parent要所有子執行序結束的訊息。
+		3. WithTimeout
+			1. ***當所設定的時間到時**所有相依的Goroutine 都會透過context接收parent要所有子執行序結束的訊息。
+		4. WithValue
+			1. **parent可透過訊息的方式**與所有相依的Goroutine進行溝通。
 溝通
 
 
