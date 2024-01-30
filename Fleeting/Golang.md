@@ -20,6 +20,8 @@
 
 ## Go routine
 
+context, sync.WaitGroup, Select, sync.Mutex等方式解決
+
 1. 執行緒相互溝通 
 	1. channel
 		1. chan <- 放元素,  <-chan 取元素
@@ -47,9 +49,9 @@
 			1. ***當所設定的時間到時**所有相依的Goroutine 都會透過context接收parent要所有子執行序結束的訊息。
 		4. WithValue
 			1. **parent可透過訊息的方式**與所有相依的Goroutine進行溝通。
-溝通
 
 
-等待
-context, sync.WaitGroup, Select, sync.Mutex等方式解決
+Debug Tools
 
+- Golang tool pprof
+- Monitor Tools
