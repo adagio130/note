@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Golang.md"
+                "file": "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "903eb2d79a840a83",
   "lastOpenFiles": [
+    "Fleeting/Golang.md",
+    "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
     "Literature/Docker/Isolation.md",
     "Fleeting/work note.md",
     "Fleeting/Vue.md",
@@ -206,7 +208,6 @@
     "Fleeting/Process vs Thread vs Coroutine.md",
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/I-O.md",
-    "Fleeting/Golang.md",
     "Fleeting/go green.md",
     "Fleeting/From scratch.md",
     "Fleeting/dump-init.md",
@@ -218,7 +219,6 @@
     "Fleeting/投資.md",
     "Fleeting/分詞構句.md",
     "IELTS/self learning/Finding your way in space.md",
-    "Literature/Docker/Docker network.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
