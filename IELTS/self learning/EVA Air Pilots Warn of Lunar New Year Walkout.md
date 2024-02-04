@@ -13,5 +13,9 @@ come up with a solution
 sake of striking
 resolve the dispute
 pay raises
+dismiss as ...
+tactic
+disrupt
+long-haul flights
 
 --------
