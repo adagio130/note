@@ -23,9 +23,11 @@
             "id": "3bda6cf4b1d7f46b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Literature/Time management.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/self learning/Dr. House.md",
+                "file": "Literature/Time management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/self learning/Dr. House.md",
+                "file": "Literature/Time management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/self learning/Dr. House.md"
+                "file": "Literature/Time management.md"
               }
             }
           },
@@ -206,6 +208,7 @@
   },
   "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
+    "Literature/Time management.md",
     "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
     "IELTS/self learning/Dr. House.md",
     "Fleeting/Golang.md",
@@ -231,7 +234,6 @@
     "Fleeting/Cache.md",
     "Fleeting/Bit Mask.md",
     "Fleeting/投資.md",
-    "Fleeting/分詞構句.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
