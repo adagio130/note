@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Docker/Docker network.md",
+                "file": "IELTS/self learning/228 incident.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Docker/Docker network.md",
+                "file": "IELTS/self learning/228 incident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Docker/Docker network.md",
+                "file": "IELTS/self learning/228 incident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Docker/Docker network.md"
+                "file": "IELTS/self learning/228 incident.md"
               }
             }
           },
@@ -208,6 +208,8 @@
   },
   "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
+    "Literature/Docker/Docker network.md",
+    "IELTS/self learning/228 incident.md",
     "Literature/Docker/Docker install (AMI install).md",
     "Literature/Time management.md",
     "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
@@ -232,8 +234,6 @@
     "Fleeting/Downgrade.md",
     "Fleeting/Carry out.md",
     "Fleeting/Caching patterns.md",
-    "Fleeting/Cache.md",
-    "Fleeting/Bit Mask.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
