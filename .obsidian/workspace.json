@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "092aae196157e1c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/self learning/How to make your best coffee ever.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/self learning/228 incident.md",
+                "file": "IELTS/self learning/How to make your best coffee ever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/self learning/228 incident.md",
+                "file": "IELTS/self learning/How to make your best coffee ever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/self learning/228 incident.md"
+                "file": "IELTS/self learning/How to make your best coffee ever.md"
               }
             }
           },
@@ -206,8 +218,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bda6cf4b1d7f46b",
+  "active": "092aae196157e1c1",
   "lastOpenFiles": [
+    "IELTS/self learning/How to make your best coffee ever.md",
     "Literature/Docker/Docker network.md",
     "IELTS/self learning/228 incident.md",
     "Literature/Docker/Docker install (AMI install).md",
@@ -233,7 +246,6 @@
     "Fleeting/dump-init.md",
     "Fleeting/Downgrade.md",
     "Fleeting/Carry out.md",
-    "Fleeting/Caching patterns.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
