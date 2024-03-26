@@ -17,3 +17,4 @@ prepare data:
 
 transformer
 1. input word embedding and positional vector to generate query, key, value for each word.
+2. 
