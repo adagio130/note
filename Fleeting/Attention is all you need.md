@@ -11,4 +11,5 @@ steps:
 
 1. tokenize (斷詞)
 2. using pre-train model to convert to vector
-3. add special annotation such as \[CLS\]、\[SEP\]
+3. add special annotation such as \[CLS\]、\[SEP\]( for start、end)
+4. 
