@@ -17,9 +17,9 @@ prepare data:
 
 transformer
 1. input word embedding and positional vector to generate query, key, value for each word.
-	1. Q =  $W^QI$
-	2. K =  $W^KI$
-	3. V =  $W^VI$
+	1. Q =  $W^Q \cdot I$
+	2. K =  $W^K \cdot I$
+	3. V =  $W^V \cdot I$
 2. calculate the attention score
 	1. dot the Q and K
 		1. show the Q how important is for each K
