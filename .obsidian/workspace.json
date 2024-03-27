@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Attention is all you need.md",
+                "file": "Fleeting/Cuda.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Attention is all you need.md",
+                "file": "Fleeting/Cuda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Attention is all you need.md",
+                "file": "Fleeting/Cuda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Attention is all you need.md"
+                "file": "Fleeting/Cuda.md"
               }
             }
           },
@@ -220,9 +220,10 @@
   },
   "active": "092aae196157e1c1",
   "lastOpenFiles": [
+    "Fleeting/Attention is all you need.md",
+    "Fleeting/Cuda.md",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "IELTS/self learning/How to make your best coffee ever.md",
-    "Fleeting/Attention is all you need.md",
     "Literature/Docker/Docker network.md",
     "IELTS/self learning/228 incident.md",
     "Literature/Docker/Docker install (AMI install).md",
@@ -264,7 +265,6 @@
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午9.48.41.png",
     "Literature/Cloud/AWS/img.png",
     "Literature/Cloud/AWS/img_1.png",
-    "Literature/Cloud/AWS/img_2.png",
-    "Literature/Cloud/AWS/img_3.png"
+    "Literature/Cloud/AWS/img_2.png"
   ]
 }
