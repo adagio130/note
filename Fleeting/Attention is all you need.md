@@ -27,4 +27,4 @@ transformer
 3. 把attention score跟value做加權求和
 4. above is called head attention
 5. it would do multiple times parallelize which called multi-head attention
-6. 
+6. encoder output key and value as decoder's key and value
