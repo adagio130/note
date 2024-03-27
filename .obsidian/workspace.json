@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Cuda.md",
+                "file": "Fleeting/Attention is all you need.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/self learning/Dr. House.md",
+                "file": "Fleeting/Attention is all you need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/self learning/Dr. House.md",
+                "file": "Fleeting/Attention is all you need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/self learning/Dr. House.md"
+                "file": "Fleeting/Attention is all you need.md"
               }
             }
           },
@@ -217,10 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "903eb2d79a840a83",
+  "active": "092aae196157e1c1",
   "lastOpenFiles": [
-    "IELTS/self learning/228 incident.md",
+    "Fleeting/投資.md",
+    "Fleeting/分詞構句.md",
     "Fleeting/Cuda.md",
+    "IELTS/self learning/Dr. House.md",
+    "IELTS/self learning/228 incident.md",
     "Fleeting/Attention is all you need.md",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "IELTS/self learning/How to make your best coffee ever.md",
@@ -228,7 +232,6 @@
     "Literature/Docker/Docker install (AMI install).md",
     "Literature/Time management.md",
     "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
-    "IELTS/self learning/Dr. House.md",
     "Fleeting/Golang.md",
     "Literature/Docker/Isolation.md",
     "Fleeting/work note.md",
@@ -244,8 +247,6 @@
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/I-O.md",
     "Fleeting/go green.md",
-    "Fleeting/From scratch.md",
-    "Fleeting/dump-init.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
