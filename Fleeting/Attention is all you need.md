@@ -23,4 +23,4 @@ transformer
 2. calculate the attention score
 	1. dot the Q and K
 		1. show the Q how important is for each K
-		2. divide $\sqrt{d}$
+		2. divide $\sqrt{d}<sub>k</sub>$
