@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Cuda.md",
+                "file": "IELTS/self learning/Dr. House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Cuda.md",
+                "file": "IELTS/self learning/Dr. House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Cuda.md"
+                "file": "IELTS/self learning/Dr. House.md"
               }
             }
           },
@@ -218,14 +217,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "092aae196157e1c1",
+  "active": "903eb2d79a840a83",
   "lastOpenFiles": [
-    "Fleeting/Attention is all you need.md",
+    "IELTS/self learning/228 incident.md",
     "Fleeting/Cuda.md",
+    "Fleeting/Attention is all you need.md",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "IELTS/self learning/How to make your best coffee ever.md",
     "Literature/Docker/Docker network.md",
-    "IELTS/self learning/228 incident.md",
     "Literature/Docker/Docker install (AMI install).md",
     "Literature/Time management.md",
     "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
