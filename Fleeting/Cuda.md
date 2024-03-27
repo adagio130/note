@@ -4,5 +4,10 @@ torch.cuda.is_available()
 command > nvidia-smi
 	can see the gpu information and the supported cuda version
 
-check pytorch could support cuda version
 
+
+command > nvcc --version
+	can check the cuda's version
+
+check pytorch supported cuda's version
+check python supported pytorch's  version
