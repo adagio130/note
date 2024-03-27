@@ -25,4 +25,6 @@ transformer
 		1. show the Q how important is for each K
 		2. divide $\sqrt{d}$<sub>k</sub>
 3. 把attention score跟value做加權求和
-4. 
+4. above is called head attention
+5. it would do multiple times parallelize which called multi-head attention
+6. 
