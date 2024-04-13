@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -218,10 +218,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "092aae196157e1c1",
+  "active": "29b3ce9d5b45e0f1",
   "lastOpenFiles": [
-    "Fleeting/Attention is all you need.md",
+    "Literature/java/ConcurrentPart2.md",
+    "Literature/java/ArrayList-v.s.-Vector.md",
+    "Literature/Docker/Docker network.md",
+    "Literature/Docker/Isolation.md",
+    "Literature/Docker/Docker install (AMI install).md",
     "Literature/Cloud/GCP.md",
+    "Fleeting/Attention is all you need.md",
     "Fleeting/投資.md",
     "Fleeting/分詞構句.md",
     "Fleeting/Cuda.md",
@@ -229,12 +234,9 @@
     "IELTS/self learning/228 incident.md",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "IELTS/self learning/How to make your best coffee ever.md",
-    "Literature/Docker/Docker network.md",
-    "Literature/Docker/Docker install (AMI install).md",
     "Literature/Time management.md",
     "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
     "Fleeting/Golang.md",
-    "Literature/Docker/Isolation.md",
     "Fleeting/work note.md",
     "Fleeting/Vue.md",
     "Fleeting/Volatile key word in java.md",
@@ -245,8 +247,6 @@
     "Fleeting/Redis.md",
     "Fleeting/RDBMS short note.md",
     "Fleeting/Process vs Thread vs Coroutine.md",
-    "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/I-O.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
