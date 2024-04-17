@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e9dace7f952776d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29b3ce9d5b45e0f1",
+  "active": "0e9dace7f952776d",
   "lastOpenFiles": [
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
