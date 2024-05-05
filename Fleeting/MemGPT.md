@@ -1,8 +1,8 @@
 
 
 input: prompt tokens (main context):
-	system instructions
-	working context
+	system instructions (read only)
+	working context (fixed-size of unstructured )
 	FIFO queue
 
 external context:
