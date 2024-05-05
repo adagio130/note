@@ -6,4 +6,7 @@ input: prompt tokens (main context):
 	FIFO queue
 
 output: completion tokens (function call):
-	using function
+	using function to move data between main context and external context
+	external context:
+		archival and recall storage databases
+
