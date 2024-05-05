@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Cloud/GCP.md",
+                "file": "Fleeting/MemGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/GCP.md",
+                "file": "Fleeting/MemGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/GCP.md",
+                "file": "Fleeting/MemGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/GCP.md"
+                "file": "Fleeting/MemGPT.md"
               }
             }
           },
@@ -220,12 +220,18 @@
   },
   "active": "092aae196157e1c1",
   "lastOpenFiles": [
+    "Fleeting/Golang.md",
+    "Fleeting/MemGPT.md",
+    "Fleeting/go green.md",
+    "Fleeting/I-O.md",
+    "Fleeting/refer to sb,sth.md",
+    "Fleeting/Socket.md",
+    "Literature/Cloud/GCP.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
     "Literature/Docker/Docker network.md",
     "Literature/Docker/Isolation.md",
     "Literature/Docker/Docker install (AMI install).md",
-    "Literature/Cloud/GCP.md",
     "Fleeting/Attention is all you need.md",
     "Fleeting/投資.md",
     "Fleeting/分詞構句.md",
@@ -236,17 +242,11 @@
     "IELTS/self learning/How to make your best coffee ever.md",
     "Literature/Time management.md",
     "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
-    "Fleeting/Golang.md",
     "Fleeting/work note.md",
     "Fleeting/Vue.md",
     "Fleeting/Volatile key word in java.md",
     "Fleeting/Strip out.md",
-    "Fleeting/Socket.md",
     "Fleeting/Small talk with chatgpt.md",
-    "Fleeting/refer to sb,sth.md",
-    "Fleeting/Redis.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Process vs Thread vs Coroutine.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
