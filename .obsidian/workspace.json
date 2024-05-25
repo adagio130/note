@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/MemGPT.md",
+                "file": "Literature/System Design/System interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "replica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/MemGPT.md",
+                "file": "Literature/System Design/System interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/MemGPT.md",
+                "file": "Literature/System Design/System interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/MemGPT.md"
+                "file": "Literature/System Design/System interview.md"
               }
             }
           },
@@ -220,8 +221,10 @@
   },
   "active": "092aae196157e1c1",
   "lastOpenFiles": [
-    "Fleeting/Golang.md",
+    "Literature/DBMS/Replication.md",
+    "Literature/DBMS/Sharding.md",
     "Fleeting/MemGPT.md",
+    "Fleeting/Golang.md",
     "Fleeting/go green.md",
     "Fleeting/I-O.md",
     "Fleeting/refer to sb,sth.md",
@@ -245,8 +248,6 @@
     "Fleeting/work note.md",
     "Fleeting/Vue.md",
     "Fleeting/Volatile key word in java.md",
-    "Fleeting/Strip out.md",
-    "Fleeting/Small talk with chatgpt.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
