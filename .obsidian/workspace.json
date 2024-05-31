@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Fleeting/Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replica",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Fleeting/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Replication.md",
+                "file": "Fleeting/Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Replication.md"
+                "file": "Fleeting/Vim.md"
               }
             }
           },
@@ -221,10 +220,12 @@
   },
   "active": "092aae196157e1c1",
   "lastOpenFiles": [
-    "Literature/System Design/System interview.md",
-    "Literature/DBMS/Replication.md",
-    "Literature/DBMS/Sharding.md",
+    "Leetcode/dynamic program/tips.md",
+    "Fleeting/Vim.md",
     "Fleeting/MemGPT.md",
+    "Literature/DBMS/Replication.md",
+    "Literature/System Design/System interview.md",
+    "Literature/DBMS/Sharding.md",
     "Fleeting/Golang.md",
     "Fleeting/go green.md",
     "Fleeting/I-O.md",
@@ -246,8 +247,6 @@
     "IELTS/self learning/How to make your best coffee ever.md",
     "Literature/Time management.md",
     "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
-    "Fleeting/work note.md",
-    "Fleeting/Vue.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
