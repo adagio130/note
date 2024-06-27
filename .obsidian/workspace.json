@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "744bc8a0fa7fc27a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "092aae196157e1c1",
+  "active": "744bc8a0fa7fc27a",
   "lastOpenFiles": [
     "Leetcode/dynamic program/tips.md",
     "Fleeting/Vim.md",
