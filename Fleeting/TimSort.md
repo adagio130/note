@@ -1,3 +1,5 @@
+- Timsort is a hybrid of Mergesort and Insertion sort
+
 Time complexity
 
 | Algorithm | Best       | Average    | Worst      |
@@ -11,3 +13,5 @@ Space complexity
 | Quicksort | Timsort |
 | --------- | ------- |
 | O(log n)  | O(n)    |
+
+
