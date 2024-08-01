@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "903eb2d79a840a83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELTS/self learning/Dr. House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3bda6cf4b1d7f46b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IELTS/self learning/228 incident.md",
+                "file": "Fleeting/Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Bit Mask.md",
+                "file": "Fleeting/Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Bit Mask.md",
+                "file": "Fleeting/Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Bit Mask.md"
+                "file": "Fleeting/Sort.md"
               }
             }
           },
@@ -230,14 +217,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "744bc8a0fa7fc27a",
+  "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
+    "Fleeting/Socket.md",
+    "Fleeting/Sort.md",
+    "Fleeting/Bit Mask.md",
     "Fleeting/Attention is all you need.md",
     "Fleeting/投資.md",
     "Fleeting/分詞構句.md",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
-    "Fleeting/Bit Mask.md",
     "Fleeting/Cache.md",
     "Fleeting/Caching patterns.md",
     "Fleeting/Carry out.md",
@@ -258,7 +247,6 @@
     "Leetcode/dynamic program/tips.md",
     "Fleeting/Vim.md",
     "Fleeting/MemGPT.md",
-    "Literature/DBMS/Replication.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
