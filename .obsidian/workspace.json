@@ -47,9 +47,11 @@
             "id": "744bc8a0fa7fc27a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Fleeting/Bit Mask.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Vim.md",
+                "file": "Fleeting/Bit Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Vim.md",
+                "file": "Fleeting/Bit Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Vim.md"
+                "file": "Fleeting/Bit Mask.md"
               }
             }
           },
@@ -230,33 +232,33 @@
   },
   "active": "744bc8a0fa7fc27a",
   "lastOpenFiles": [
+    "Fleeting/Attention is all you need.md",
+    "Fleeting/投資.md",
+    "Fleeting/分詞構句.md",
+    "Fleeting/attachments/Pasted image 20240326135310.png",
+    "Fleeting/attachments/Pasted image 20231221214544.png",
+    "Fleeting/Bit Mask.md",
+    "Fleeting/Cache.md",
+    "Fleeting/Caching patterns.md",
+    "Fleeting/Carry out.md",
+    "Fleeting/Cuda.md",
+    "Fleeting/Downgrade.md",
+    "Fleeting/dump-init.md",
+    "Fleeting/From scratch.md",
+    "Fleeting/Golang.md",
+    "Fleeting/go green.md",
+    "url.md",
+    "README.md",
+    "Link.md",
+    "VocabularyBank/End up.md",
+    "VocabularyBank/Coast.md",
+    "VocabularyBank/Cast.md",
+    "VocabularyBank/Abuzz.md",
+    "Leetcode/Q. Num.md",
     "Leetcode/dynamic program/tips.md",
     "Fleeting/Vim.md",
     "Fleeting/MemGPT.md",
     "Literature/DBMS/Replication.md",
-    "Literature/System Design/System interview.md",
-    "Literature/DBMS/Sharding.md",
-    "Fleeting/Golang.md",
-    "Fleeting/go green.md",
-    "Fleeting/I-O.md",
-    "Fleeting/refer to sb,sth.md",
-    "Fleeting/Socket.md",
-    "Literature/Cloud/GCP.md",
-    "Literature/java/ConcurrentPart2.md",
-    "Literature/java/ArrayList-v.s.-Vector.md",
-    "Literature/Docker/Docker network.md",
-    "Literature/Docker/Isolation.md",
-    "Literature/Docker/Docker install (AMI install).md",
-    "Fleeting/Attention is all you need.md",
-    "Fleeting/投資.md",
-    "Fleeting/分詞構句.md",
-    "Fleeting/Cuda.md",
-    "IELTS/self learning/Dr. House.md",
-    "IELTS/self learning/228 incident.md",
-    "Fleeting/attachments/Pasted image 20240326135310.png",
-    "IELTS/self learning/How to make your best coffee ever.md",
-    "Literature/Time management.md",
-    "IELTS/self learning/EVA Air Pilots Warn of Lunar New Year Walkout.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
@@ -264,7 +266,6 @@
     "Leetcode/dynamic program",
     "Leetcode/two-pointer",
     "Leetcode",
-    "Fleeting/attachments/Pasted image 20231221214544.png",
     "Literature/Cloud/AWS/monitor",
     "Literature/Cloud/AWS/storage",
     "Literature/Cloud/AWS/security",
