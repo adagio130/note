@@ -49,3 +49,14 @@ Steps:
 	1. identify the  tight resources(cpu, network bandwidth...)
 	2. measure the tighten resources
 10. think it big
+
+
+tips:
+- 【3分钟】理解需求 （询问系统的商业目的 + 询问系统的功能和技术需求 + 定义成功）
+- 【0-5分钟】资源估算（optional)（计算需要多少台机器，需要多少内存硬盘和CPU的能力）
+- 【5分钟】High-level diagram
+- 【5分钟】数据结构与存储
+- 【10分钟】核心子服务设计
+- 【5分钟】接口设计
+- 【5分钟】扩展性，容错性，延迟要求
+- 【2-7分钟】专题 deep dive
