@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Fleeting/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Fleeting/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Fleeting/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Cache.md"
+                "file": "Fleeting/Redis.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
+    "Fleeting/Cache.md",
     "Literature/System Design/System interview.md",
     "Leetcode/dynamic program/tips.md",
     "Leetcode/Q. Num.md",
@@ -231,7 +232,6 @@
     "Fleeting/分詞構句.md",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
-    "Fleeting/Cache.md",
     "Fleeting/Caching patterns.md",
     "Fleeting/Carry out.md",
     "Fleeting/Cuda.md",
