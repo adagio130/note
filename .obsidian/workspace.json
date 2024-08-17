@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/System Design/System interview.md",
+                "file": "Fleeting/Cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/System Design/System interview.md",
+                "file": "Fleeting/Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/System Design/System interview.md",
+                "file": "Fleeting/Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/System Design/System interview.md"
+                "file": "Fleeting/Cache.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
+    "Literature/System Design/System interview.md",
     "Leetcode/dynamic program/tips.md",
     "Leetcode/Q. Num.md",
     "Fleeting/TimSort.md",
@@ -246,7 +247,6 @@
     "VocabularyBank/Coast.md",
     "VocabularyBank/Cast.md",
     "VocabularyBank/Abuzz.md",
-    "Fleeting/MemGPT.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
