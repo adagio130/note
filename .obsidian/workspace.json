@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "092aae196157e1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting/Vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "744bc8a0fa7fc27a",
             "type": "leaf",
             "state": {
@@ -219,13 +207,13 @@
   },
   "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
-    "Fleeting/Redis.md",
+    "Fleeting/Vim.md",
     "Fleeting/Cache.md",
+    "Fleeting/Redis.md",
     "Literature/System Design/System interview.md",
     "Leetcode/dynamic program/tips.md",
     "Leetcode/Q. Num.md",
     "Fleeting/TimSort.md",
-    "Fleeting/Vim.md",
     "Fleeting/Socket.md",
     "Fleeting/Bit Mask.md",
     "Fleeting/Attention is all you need.md",
