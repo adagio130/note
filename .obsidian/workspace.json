@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/work note.md",
+                "file": "Literature/Data structure/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/work note.md",
+                "file": "Literature/Data structure/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/work note.md",
+                "file": "Literature/Data structure/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/work note.md"
+                "file": "Literature/Data structure/Heap.md"
               }
             }
           },
@@ -207,9 +207,15 @@
   },
   "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
+    "Literature/Data structure/Generate All combination.md",
+    "Literature/Data structure/Data Structure.md",
+    "Literature/Cloud/GCP.md",
+    "Leetcode/Q. Num.md",
+    "Leetcode/dynamic program/tips.md",
+    "Fleeting/Vim.md",
+    "Fleeting/work note.md",
     "Fleeting/Vue.md",
     "Fleeting/Volatile key word in java.md",
-    "Fleeting/Vim.md",
     "Fleeting/TimSort.md",
     "Fleeting/Strip out.md",
     "Fleeting/Socket.md",
@@ -227,12 +233,6 @@
     "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Golang.md",
     "Fleeting/go green.md",
-    "Fleeting/From scratch.md",
-    "Fleeting/dump-init.md",
-    "Fleeting/Downgrade.md",
-    "Fleeting/Cuda.md",
-    "Fleeting/Carry out.md",
-    "Fleeting/Caching patterns.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
