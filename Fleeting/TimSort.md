@@ -1,3 +1,4 @@
+#algorithm
 - Timsort is a hybrid of Mergesort and Insertion sort
 
 Time complexity
