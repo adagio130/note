@@ -53,6 +53,10 @@ context, sync.WaitGroup, Select, sync.Mutex等方式解決
 			1. **parent可透過訊息的方式**與所有相依的Goroutine進行溝通。
 
 
+patterns:
+1. 
+
+
 Debug Tools
 
 - Golang tool pprof
