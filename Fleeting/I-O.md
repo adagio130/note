@@ -1,3 +1,4 @@
+#operation-system 
 1. Blocking I/O
 	1. system call and wait the I/O complete.
 2. Non-blocking I/O

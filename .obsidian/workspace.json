@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/TimSort.md",
+                "file": "Fleeting/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/TimSort.md",
+                "file": "Fleeting/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/TimSort.md",
+                "file": "Fleeting/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/TimSort.md"
+                "file": "Fleeting/Redis.md"
               }
             }
           },
@@ -206,16 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e23533bac9261",
+  "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
-    "Fleeting/Cache.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Process vs Thread vs Coroutine.md",
+    "Fleeting/Overlap.md",
+    "Fleeting/Negative inversion.md",
+    "Fleeting/I-O.md",
+    "Fleeting/MemGPT.md",
+    "Fleeting/Kadane's Algorithm.md",
     "Fleeting/Bit Mask.md",
-    "Fleeting/投資.md",
-    "Fleeting/分詞構句.md",
-    "Literature/System Design/System interview.md",
-    "Literature/Time management.md",
-    "Literature/System Design/HttpOnly.md",
-    "Literature/System Design/Authentication.md",
+    "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Golang.md",
     "Fleeting/go green.md",
     "Fleeting/From scratch.md",
@@ -224,18 +224,18 @@
     "Fleeting/Cuda.md",
     "Fleeting/Carry out.md",
     "Fleeting/Caching patterns.md",
-    "Fleeting/Vim.md",
-    "Fleeting/Redis.md",
-    "Leetcode/dynamic program/tips.md",
-    "Leetcode/Q. Num.md",
-    "Fleeting/TimSort.md",
-    "Fleeting/Socket.md",
+    "Fleeting/Cache.md",
     "Fleeting/Attention is all you need.md",
+    "Fleeting/分詞構句.md",
+    "Fleeting/投資.md",
+    "Excalidraw/Drawing 2024-08-20 09.59.26.excalidraw.md",
+    "Fleeting/TimSort.md",
+    "Excalidraw",
+    "Literature/System Design/System interview.md",
+    "Literature/Time management.md",
+    "Literature/System Design/HttpOnly.md",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
-    "url.md",
-    "README.md",
-    "Link.md",
     "IELTS/homework/Hank中文.pdf",
     "IELTS/homework/Hank-Imap.pdf",
     "IELTS/homework/Hank.pdf",
@@ -245,7 +245,6 @@
     "Leetcode",
     "Literature/Cloud/AWS/monitor",
     "Literature/Cloud/AWS/storage",
-    "Literature/Cloud/AWS/security",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",

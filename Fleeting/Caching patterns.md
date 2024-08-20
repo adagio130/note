@@ -1,4 +1,4 @@
-
+#system-design
 1. cache-aside (lazy loading) 
 	1. a reactive approach
 	2. updated after the data is requested

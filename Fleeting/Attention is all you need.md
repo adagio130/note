@@ -1,3 +1,5 @@
+#machine-learning
+
 ![[Pasted image 20240326135310.png]]
 1. Self Attention
 2. Multi-Head Attention
