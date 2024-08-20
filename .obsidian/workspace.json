@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "Fleeting/I-O.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "Fleeting/I-O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "Fleeting/I-O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Golang.md"
+                "file": "Fleeting/I-O.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
+    "Fleeting/Golang.md",
     "Literature/Data structure/Heap.md",
     "Literature/Data structure/Generate All combination.md",
     "Literature/Data structure/Data Structure.md",
@@ -232,7 +233,6 @@
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/Bit Mask.md",
     "Fleeting/Manacher's Algorithm.md",
-    "Fleeting/Golang.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
