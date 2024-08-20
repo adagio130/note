@@ -1,4 +1,4 @@
-
+#note #grep
 ```bash
 grep -Rnw '/path/to/somewhere/' -e 'pattern'
 ```

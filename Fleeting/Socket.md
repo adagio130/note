@@ -1,3 +1,4 @@
+#operation-system 
 **Types of Sockets**:
 
 - **Stream Sockets (TCP Sockets)**: These provide reliable, two-way, connection-oriented byte streams. They guarantee that data will be delivered in the order it was sent and without duplication.
