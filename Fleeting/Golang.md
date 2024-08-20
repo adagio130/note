@@ -54,7 +54,8 @@ context, sync.WaitGroup, Select, sync.Mutex等方式解決
 
 
 patterns:
-1. Don't communicate by sharing memory, share memory by communicating.
+Don't communicate by sharing memory, share memory by communicating.
+1. Generator: function that returns a channel
 2. 
 
 
