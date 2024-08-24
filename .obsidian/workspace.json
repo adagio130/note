@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/分詞構句.md",
+                "file": "Literature/DBMS/ACID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4c2ae74cdd06a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/DBMS/Locks.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/分詞構句.md",
+                "file": "Literature/DBMS/Locks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/分詞構句.md",
+                "file": "Literature/DBMS/Locks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/分詞構句.md"
+                "file": "Literature/DBMS/Locks.md"
               }
             }
           },
@@ -205,8 +218,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bda6cf4b1d7f46b",
+  "active": "c4c2ae74cdd06a16",
   "lastOpenFiles": [
+    "Literature/DBMS/Partition.md",
+    "Fleeting/分詞構句.md",
     "Fleeting/投資.md",
     "Fleeting/Attention is all you need.md",
     "Fleeting/Cache.md",
@@ -231,8 +246,6 @@
     "Fleeting/Small talk with chatgpt.md",
     "Fleeting/refer to sb,sth.md",
     "Fleeting/Socket.md",
-    "Fleeting/Strip out.md",
-    "Fleeting/TimSort.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
