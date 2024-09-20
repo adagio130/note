@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/bitwise.md",
+                "file": "Fleeting/Kahn's algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/bitwise.md",
+                "file": "Fleeting/Kahn's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/bitwise.md",
+                "file": "Fleeting/Kahn's algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/bitwise.md"
+                "file": "Fleeting/Kahn's algorithm.md"
               }
             }
           },
@@ -220,32 +220,32 @@
   },
   "active": "c4c2ae74cdd06a16",
   "lastOpenFiles": [
-    "Literature/DBMS/Locks.md",
     "Leetcode/bitwise.md",
+    "Fleeting/Kahn's algorithm.md",
+    "Leetcode/dynamic program/tips.md",
+    "Fleeting/work note.md",
+    "Fleeting/Vue.md",
+    "Fleeting/Volatile key word in java.md",
+    "Fleeting/Vim.md",
+    "Fleeting/TimSort.md",
+    "Fleeting/Strip out.md",
+    "Fleeting/Socket.md",
+    "Fleeting/Small talk with chatgpt.md",
+    "Fleeting/refer to sb,sth.md",
+    "Fleeting/Redis.md",
+    "Fleeting/RDBMS short note.md",
+    "Fleeting/Process vs Thread vs Coroutine.md",
+    "Fleeting/Overlap.md",
+    "Fleeting/Negative inversion.md",
+    "Fleeting/MemGPT.md",
+    "Fleeting/Manacher's Algorithm.md",
+    "Fleeting/Kadane's Algorithm.md",
+    "Fleeting/I-O.md",
+    "Fleeting/Golang.md",
+    "Fleeting/go green.md",
+    "Literature/DBMS/Locks.md",
     "Literature/DBMS/Partition.md",
     "Fleeting/分詞構句.md",
-    "Fleeting/投資.md",
-    "Fleeting/Attention is all you need.md",
-    "Fleeting/Cache.md",
-    "Fleeting/Bit Mask.md",
-    "Fleeting/Caching patterns.md",
-    "Fleeting/Carry out.md",
-    "Fleeting/Cuda.md",
-    "Fleeting/Downgrade.md",
-    "Fleeting/dump-init.md",
-    "Fleeting/From scratch.md",
-    "Fleeting/go green.md",
-    "Fleeting/Golang.md",
-    "Fleeting/I-O.md",
-    "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/Manacher's Algorithm.md",
-    "Fleeting/MemGPT.md",
-    "Fleeting/Negative inversion.md",
-    "Fleeting/Overlap.md",
-    "Fleeting/Process vs Thread vs Coroutine.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Redis.md",
-    "Fleeting/Small talk with chatgpt.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
