@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Fleeting/Golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Fleeting/Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Fleeting/Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Cache.md"
+                "file": "Fleeting/Golang.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "c4c2ae74cdd06a16",
   "lastOpenFiles": [
+    "Fleeting/Cache.md",
     "Fleeting/Caching patterns.md",
     "Fleeting/Carry out.md",
     "Fleeting/Kahn's algorithm.md",
@@ -245,7 +246,6 @@
     "Fleeting/I-O.md",
     "Fleeting/Golang.md",
     "Fleeting/go green.md",
-    "Literature/DBMS/Locks.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
