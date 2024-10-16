@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "744bc8a0fa7fc27a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting/Bit Mask.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/DBMS/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/DBMS/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md"
+                "file": "Literature/DBMS/ACID.md"
               }
             }
           },
@@ -202,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,10 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4c2ae74cdd06a16",
+  "active": "3bda6cf4b1d7f46b",
   "lastOpenFiles": [
-    "Literature/Cloud/AWS/SAA-C03.md",
     "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+    "Fleeting/Bit Mask.md",
+    "Literature/DBMS/ACID.md",
+    "Literature/Cloud/AWS/SAA-C03.md",
     "Fleeting/Golang.md",
     "Fleeting/Cache.md",
     "Fleeting/Caching patterns.md",
@@ -243,8 +233,6 @@
     "Fleeting/Overlap.md",
     "Fleeting/Negative inversion.md",
     "Fleeting/MemGPT.md",
-    "Fleeting/Manacher's Algorithm.md",
-    "Fleeting/Kadane's Algorithm.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
