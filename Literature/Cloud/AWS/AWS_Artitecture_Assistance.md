@@ -18,18 +18,17 @@ files stored in s3 can be encrypted
 object in S3 buckets have eventual consistency
 object in Elastic Block Stores are consistent
 very good use of S3 buckets is static websites
-1. object storage
-- 
+1. object storage\
 2. getting data into s3
-- API
-- Amazon direct connect
-- Storage gateway
-- Kinesis Firehose
-- Transfer Acceleration
-3. Snow Family
-- Snowball (Petabyte-scale)
-- Snowball Edge (100 TB local storage)
-- Snowmobile (Exabyte-scale)
+	- API
+	- Amazon direct connect
+	- Storage gateway
+	- Kinesis Firehose
+	- Transfer Acceleration
+1. Snow Family
+	- Snowball (Petabyte-scale)
+	- Snowball Edge (100 TB local storage)
+	- Snowmobile (Exabyte-scale)
 ### S3 operations:
 1. creating and deleting buckets
 2. writing objects
@@ -51,7 +50,7 @@ very good use of S3 buckets is static websites
 2. Storage Classes
 3. Object lifecycle management
 4. Encryption
-   - not transit security, but store security(because it decrypts before transits)
+	- not transit security, but store security(because it decrypts before transits)
 5. Versioning
 6. MFA Authentication delete
 7. Multipart upload
@@ -61,7 +60,7 @@ very good use of S3 buckets is static websites
 11. Event Notification
 
 ### Storage Class
-1. Amazon S3 standard $$$$$
+1. Amazon S3 standard $$$$
 2. Amazon S3 Infrequent Access Storage(IA) $$$$
 3. Amazon S3 Reduced Redundancy Storage(RRS) $$
 4. Glacier $

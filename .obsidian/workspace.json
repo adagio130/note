@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bda6cf4b1d7f46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/DBMS/ACID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c4c2ae74cdd06a16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Golang.md",
-                "mode": "source",
+                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Golang.md",
+                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +165,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Golang.md"
+                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md"
+              }
+            }
+          },
+          {
+            "id": "3bda6cf4b1d7f46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/DBMS/ACID.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -199,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -220,6 +219,9 @@
   },
   "active": "c4c2ae74cdd06a16",
   "lastOpenFiles": [
+    "Literature/Cloud/AWS/SAA-C03.md",
+    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+    "Fleeting/Golang.md",
     "Fleeting/Cache.md",
     "Fleeting/Caching patterns.md",
     "Fleeting/Carry out.md",
@@ -243,9 +245,6 @@
     "Fleeting/MemGPT.md",
     "Fleeting/Manacher's Algorithm.md",
     "Fleeting/Kadane's Algorithm.md",
-    "Fleeting/I-O.md",
-    "Fleeting/Golang.md",
-    "Fleeting/go green.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
