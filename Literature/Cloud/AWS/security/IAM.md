@@ -17,4 +17,12 @@ Policy:
 				- an identifier for the statement(optional)
 			- Effect:
 				- Allow/Deny
-			- 
+			- Principal:
+				- account/user/role to which this policy applied to 
+			- Action:
+				- list of actions this policy allows or denies
+			- Resource:
+				- list of resources to which the actions applied to
+			- Condition:(optional)
+				- conditions for when this policy is in effect
+		- 
