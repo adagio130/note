@@ -8,3 +8,5 @@ Groups:
 
 Policy:
 	a json file to manage users' and groups' permissions
+		- version number
+		- 
