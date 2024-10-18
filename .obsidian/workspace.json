@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Cloud/AWS/security/IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Cloud/AWS/security/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+                "file": "Literature/Cloud/AWS/security/IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md"
+                "file": "Literature/Cloud/AWS/security/IAM.md"
               }
             }
           },
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 552.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +208,9 @@
   },
   "active": "c4c2ae74cdd06a16",
   "lastOpenFiles": [
-    "Literature/DBMS/ACID.md",
     "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
+    "Literature/Cloud/AWS/security/IAM.md",
+    "Literature/DBMS/ACID.md",
     "Fleeting/Bit Mask.md",
     "Literature/Cloud/AWS/SAA-C03.md",
     "Fleeting/Golang.md",
@@ -232,7 +234,6 @@
     "Fleeting/Process vs Thread vs Coroutine.md",
     "Fleeting/Overlap.md",
     "Fleeting/Negative inversion.md",
-    "Fleeting/MemGPT.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
