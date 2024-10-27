@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f33212fddd2cda9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS/security/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS/security/IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Literature/Cloud/AWS/security/IAM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,12 +191,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 552.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4c2ae74cdd06a16",
+  "active": "f33212fddd2cda9c",
   "lastOpenFiles": [
-    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
     "Literature/Cloud/AWS/security/IAM.md",
+    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
     "Literature/DBMS/ACID.md",
     "Fleeting/Bit Mask.md",
     "Literature/Cloud/AWS/SAA-C03.md",
