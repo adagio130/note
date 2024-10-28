@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prefix_product",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +209,7 @@
   "active": "3e69d9508f3438af",
   "lastOpenFiles": [
     "Leetcode/bitwise.md",
+    "2024-10-28.md",
     "Leetcode/List.md",
     "Leetcode/Q. Num.md",
     "Literature/Cloud/AWS/security/IAM.md",
