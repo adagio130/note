@@ -1,4 +1,4 @@
 
-| Title | Note | Type | status  | recall date | complete date |
-| ----- | ---- | ---- | ------- | ----------- | ------------- |
-|       |      |      | #byself |             |               |
+| Title                                                                                                                                                                                                                     | Note | Type | status  | recall date | complete date |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- | ------- | ----------- | ------------- |
+| [[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150) |      |      | #byself |             |               |
