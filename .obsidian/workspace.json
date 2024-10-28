@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97e49ead5abd9f54",
+        "id": "f012b62ad31c3ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "c4c2ae74cdd06a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/Cloud/AWS/security/IAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f33212fddd2cda9c",
+            "id": "3e69d9508f3438af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#byself",
+                "query": "tag:#prefix_product",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "98286ee58c63722b",
@@ -219,13 +206,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f33212fddd2cda9c",
+  "active": "3e69d9508f3438af",
   "lastOpenFiles": [
-    "Leetcode/Q. Num.md",
-    "Leetcode/List.md",
     "Leetcode/bitwise.md",
-    "Leetcode/dynamic program/tips.md",
+    "Leetcode/List.md",
+    "Leetcode/Q. Num.md",
     "Literature/Cloud/AWS/security/IAM.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-10-28 14.30.43.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-28 14.30.38.excalidraw.md",
+    "Leetcode/dynamic program/tips.md",
     "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
     "Literature/DBMS/ACID.md",
     "Fleeting/Bit Mask.md",
@@ -244,9 +234,6 @@
     "Fleeting/Socket.md",
     "Fleeting/Small talk with chatgpt.md",
     "Fleeting/refer to sb,sth.md",
-    "Fleeting/Redis.md",
-    "Fleeting/RDBMS short note.md",
-    "Fleeting/Process vs Thread vs Coroutine.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
