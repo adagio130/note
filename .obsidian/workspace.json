@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Cloud/AWS/compute/EC2.md",
+                "file": "Literature/Cloud/AWS/compute/Security group.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Cloud/AWS/compute/EC2.md",
+                "file": "Literature/Cloud/AWS/compute/Security group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Cloud/AWS/compute/EC2.md",
+                "file": "Literature/Cloud/AWS/compute/Security group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Cloud/AWS/compute/EC2.md"
+                "file": "Literature/Cloud/AWS/compute/Security group.md"
               }
             }
           },
@@ -208,12 +208,14 @@
   },
   "active": "3e69d9508f3438af",
   "lastOpenFiles": [
-    "Leetcode/List.md",
+    "Literature/Cloud/AWS/network/VPC.md",
+    "Literature/Cloud/AWS/security/IAM.md",
+    "Literature/Cloud/AWS/compute/Security group.md",
     "Literature/Cloud/AWS/compute/EC2.md",
+    "Leetcode/List.md",
     "Leetcode/bitwise.md",
     "2024-10-28.md",
     "Leetcode/Q. Num.md",
-    "Literature/Cloud/AWS/security/IAM.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-10-28 14.30.43.excalidraw.md",
     "Excalidraw/Drawing 2024-10-28 14.30.38.excalidraw.md",
@@ -233,8 +235,6 @@
     "Fleeting/Vim.md",
     "Fleeting/TimSort.md",
     "Fleeting/Strip out.md",
-    "Fleeting/Socket.md",
-    "Fleeting/Small talk with chatgpt.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
