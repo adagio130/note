@@ -6,4 +6,6 @@
 - Control inbound traffic (others to the instance)
 - Control outbound traffic (the instance to others)
 - Only allow rules
-- De
+- All inbound traffic is blocked by default
+- All outbound traffic is authorised by default
+- It can allow traffic by security group
