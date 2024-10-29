@@ -9,3 +9,5 @@
 - All inbound traffic is blocked by default
 - All outbound traffic is authorised by default
 - It can allow traffic by security group
+- Service Timeout may be blocked by security group
+- 
