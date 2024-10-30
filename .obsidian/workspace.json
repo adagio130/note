@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Literature/Cloud/AWS/compute/EC2.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Literature/Cloud/AWS/compute/EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Literature/Cloud/AWS/compute/EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/List.md"
+                "file": "Literature/Cloud/AWS/compute/EC2.md"
               }
             }
           },
@@ -209,11 +208,11 @@
   },
   "active": "3e69d9508f3438af",
   "lastOpenFiles": [
+    "Leetcode/List.md",
     "Literature/Cloud/AWS/compute/Security group.md",
     "Literature/Cloud/AWS/network/VPC.md",
     "Literature/Cloud/AWS/security/IAM.md",
     "Literature/Cloud/AWS/compute/EC2.md",
-    "Leetcode/List.md",
     "Leetcode/bitwise.md",
     "2024-10-28.md",
     "Leetcode/Q. Num.md",
