@@ -8,3 +8,8 @@ Instance type factor
 	- X1
 	- High-memory
 - Networking
+
+？？
+spot instance
+dedicated hosts
+convertible reverse instance
