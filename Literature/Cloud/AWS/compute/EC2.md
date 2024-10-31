@@ -13,3 +13,4 @@ Instance type factor
 spot instance
 dedicated hosts
 convertible reverse instance
+on-demand instances
