@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/questions/48. Rotate Image.md",
+                "file": "Leetcode/questions/48-Rotate-Image.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/questions/48. Rotate Image.md",
+                "file": "Leetcode/questions/48-Rotate-Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/questions/48. Rotate Image.md",
+                "file": "Leetcode/questions/48-Rotate-Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/questions/48. Rotate Image.md"
+                "file": "Leetcode/questions/48-Rotate-Image.md"
               }
             }
           },
@@ -222,9 +222,12 @@
   "active": "9b0b7e66014cee83",
   "lastOpenFiles": [
     "Leetcode/List.md",
-    "Leetcode/questions/48. Rotate Image.md",
-    "Leetcode/questions",
+    "Leetcode/questions/48-Rotate-Image.md",
+    "questions/48-Rotate.md",
+    "questions/48..md",
+    "questions",
     "Leetcode/bitwise.md",
+    "Leetcode/questions",
     "Leetcode/Q. Num.md",
     "Literature/Cloud/AWS/compute/EC2.md",
     "Literature/Cloud/AWS/compute/Security group.md",
@@ -247,7 +250,6 @@
     "Fleeting/work note.md",
     "Fleeting/Vue.md",
     "Fleeting/Volatile key word in java.md",
-    "Fleeting/Vim.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
@@ -258,7 +260,6 @@
     "Leetcode/dynamic program",
     "Leetcode/two-pointer",
     "Leetcode",
-    "Literature/Cloud/AWS/monitor",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",
