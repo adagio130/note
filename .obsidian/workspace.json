@@ -35,8 +35,7 @@
               "title": "48-Rotate-Image"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/questions/48-Rotate-Image.md",
+                "file": "Leetcode/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 48-Rotate-Image"
+              "title": "Backlinks for List"
             }
           },
           {
@@ -137,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/questions/48-Rotate-Image.md",
+                "file": "Leetcode/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 48-Rotate-Image"
+              "title": "Outgoing links from List"
             }
           },
           {
@@ -188,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/questions/48-Rotate-Image.md"
+                "file": "Leetcode/List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 48-Rotate-Image"
+              "title": "Outline of List"
             }
           },
           {
@@ -259,10 +258,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b0b7e66014cee83",
+  "active": "3e69d9508f3438af",
   "lastOpenFiles": [
-    "Leetcode/List.md",
     "Leetcode/questions/48-Rotate-Image.md",
+    "Leetcode/List.md",
     "questions/48-Rotate.md",
     "questions/48..md",
     "questions",
