@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Leetcode/questions/274-H-Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "274-H-Index"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Leetcode/questions/274-H-Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for List"
+              "title": "Backlinks for 274-H-Index"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Leetcode/questions/274-H-Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from List"
+              "title": "Outgoing links from 274-H-Index"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/List.md"
+                "file": "Leetcode/questions/274-H-Index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of List"
+              "title": "Outline of 274-H-Index"
             }
           },
           {
@@ -246,8 +246,9 @@
   },
   "active": "3e69d9508f3438af",
   "lastOpenFiles": [
-    "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
     "Leetcode/List.md",
+    "Leetcode/questions/274-H-Index.md",
+    "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
     "Leetcode/questions/48-Rotate-Image.md",
     "questions/48-Rotate.md",
     "questions/48..md",
@@ -274,7 +275,6 @@
     "Fleeting/Carry out.md",
     "Fleeting/Kahn's algorithm.md",
     "Fleeting/work note.md",
-    "Fleeting/Vue.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
