@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/DBMS/Locks.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locks"
+              "title": "Kadane's Algorithm"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/DBMS/Locks.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Locks"
+              "title": "Backlinks for Kadane's Algorithm"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/DBMS/Locks.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Locks"
+              "title": "Outgoing links from Kadane's Algorithm"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/DBMS/Locks.md"
+                "file": "Fleeting/Kadane's Algorithm.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Locks"
+              "title": "Outline of Kadane's Algorithm"
             }
           },
           {
@@ -246,6 +246,7 @@
   },
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
+    "Literature/DBMS/Locks.md",
     "Literature/DBMS/Index.md",
     "Literature/DBMS/Sharding.md",
     "Literature/Network/Network tools.md",
@@ -273,7 +274,6 @@
     "Fleeting/Bit Mask.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Saga Pattern.md",
-    "Literature/DBMS/Replication.md",
     "questions",
     "Leetcode/questions",
     "Untitled.canvas",
