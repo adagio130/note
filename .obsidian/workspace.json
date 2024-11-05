@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/questions/48-Rotate-Image.md",
+                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "48-Rotate-Image"
+              "title": "323-Number-of-Connected-Components-in-an-Undirected-Graph"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/Leetcode/questions",
+                "query": "tag:#flashcards/questions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/questions/48-Rotate-Image.md",
+                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 48-Rotate-Image"
+              "title": "Backlinks for 323-Number-of-Connected-Components-in-an-Undirected-Graph"
             }
           },
           {
@@ -122,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/questions/48-Rotate-Image.md",
+                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 48-Rotate-Image"
+              "title": "Outgoing links from 323-Number-of-Connected-Components-in-an-Undirected-Graph"
             }
           },
           {
@@ -173,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/questions/48-Rotate-Image.md"
+                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 48-Rotate-Image"
+              "title": "Outline of 323-Number-of-Connected-Components-in-an-Undirected-Graph"
             }
           },
           {
@@ -244,9 +245,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c777a266e4764de6",
+  "active": "031e23533bac9261",
   "lastOpenFiles": [
     "Leetcode/questions/274-H-Index.md",
+    "VocabularyBank/Cast.md",
+    "VocabularyBank/Abuzz.md",
+    "VocabularyBank/Tag and Code.md",
+    "VocabularyBank/Turn out.md",
     "Leetcode/questions/48-Rotate-Image.md",
     "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
     "Leetcode/List.md",
@@ -254,7 +259,6 @@
     "Untitled 1.canvas",
     "Fleeting/Kadane's Algorithm.md",
     "Fleeting/I-O.md",
-    "VocabularyBank/Abuzz.md",
     "Fleeting/Downgrade.md",
     "Leetcode/bitwise.md",
     "Fleeting/Carry out.md",
@@ -271,8 +275,6 @@
     "Literature/DBMS/Partition.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/Index.md",
-    "Literature/DBMS/DBMS.md",
-    "Literature/DBMS/Consistency.md",
     "questions",
     "Leetcode/questions",
     "Untitled.canvas",
