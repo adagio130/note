@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Fleeting/Bit Mask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Bit Mask"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Fleeting/Bit Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for List"
+              "title": "Backlinks for Bit Mask"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Fleeting/Bit Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from List"
+              "title": "Outgoing links from Bit Mask"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/List.md"
+                "file": "Fleeting/Bit Mask.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of List"
+              "title": "Outline of Bit Mask"
             }
           },
           {
@@ -246,8 +246,18 @@
   },
   "active": "3e69d9508f3438af",
   "lastOpenFiles": [
-    "Leetcode/questions/274-H-Index.md",
+    "Literature/DBMS/Transaction.md",
+    "Literature/DBMS/Sharding.md",
+    "Literature/DBMS/Saga Pattern.md",
+    "Literature/DBMS/Replication.md",
+    "Literature/DBMS/Relational DB Transaction steps.md",
+    "Literature/DBMS/Partition.md",
+    "Literature/DBMS/Locks.md",
+    "Literature/DBMS/Index.md",
+    "Literature/DBMS/DBMS.md",
+    "Literature/DBMS/Consistency.md",
     "Leetcode/List.md",
+    "Leetcode/questions/274-H-Index.md",
     "Leetcode/questions/48-Rotate-Image.md",
     "Leetcode/Q. Num.md",
     "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
@@ -265,16 +275,6 @@
     "Excalidraw/Drawing 2024-10-28 14.30.43.excalidraw.md",
     "Excalidraw/Drawing 2024-10-28 14.30.38.excalidraw.md",
     "Leetcode/dynamic program/tips.md",
-    "Literature/Cloud/AWS/AWS_Artitecture_Assistance.md",
-    "Literature/DBMS/ACID.md",
-    "Fleeting/Bit Mask.md",
-    "Literature/Cloud/AWS/SAA-C03.md",
-    "Fleeting/Golang.md",
-    "Fleeting/Cache.md",
-    "Fleeting/Caching patterns.md",
-    "Fleeting/Carry out.md",
-    "Fleeting/Kahn's algorithm.md",
-    "Fleeting/work note.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
