@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Bit Mask.md",
+                "file": "Leetcode/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bit Mask"
+              "title": "List"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DFS",
+                "query": "tag:#flashcards/VocabularyBank",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Bit Mask.md",
+                "file": "Leetcode/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bit Mask"
+              "title": "Backlinks for List"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Bit Mask.md",
+                "file": "Leetcode/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bit Mask"
+              "title": "Outgoing links from List"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Bit Mask.md"
+                "file": "Leetcode/List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bit Mask"
+              "title": "Outline of List"
             }
           },
           {
@@ -246,6 +246,13 @@
   },
   "active": "3e69d9508f3438af",
   "lastOpenFiles": [
+    "VocabularyBank/Abuzz.md",
+    "Fleeting/Carry out.md",
+    "Fleeting/Cuda.md",
+    "Fleeting/投資.md",
+    "Fleeting/分詞構句.md",
+    "Fleeting/Attention is all you need.md",
+    "Fleeting/Bit Mask.md",
     "Literature/DBMS/Transaction.md",
     "Literature/DBMS/Sharding.md",
     "Literature/DBMS/Saga Pattern.md",
@@ -267,14 +274,7 @@
     "Leetcode/bitwise.md",
     "Leetcode/questions",
     "Literature/Cloud/AWS/compute/EC2.md",
-    "Literature/Cloud/AWS/compute/Security group.md",
-    "Literature/Cloud/AWS/network/VPC.md",
-    "Literature/Cloud/AWS/security/IAM.md",
-    "2024-10-28.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-10-28 14.30.43.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-28 14.30.38.excalidraw.md",
-    "Leetcode/dynamic program/tips.md",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
     "Fleeting/attachments/Pasted image 20231221214544.png",
