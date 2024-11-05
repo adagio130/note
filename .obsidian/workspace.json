@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "Kadane's Algorithm"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/VocabularyBank",
+                "query": "tag:#flashcards/Leetcode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for List"
+              "title": "Backlinks for Kadane's Algorithm"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from List"
+              "title": "Outgoing links from Kadane's Algorithm"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/List.md"
+                "file": "Fleeting/Kadane's Algorithm.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of List"
+              "title": "Outline of Kadane's Algorithm"
             }
           },
           {
@@ -246,7 +246,11 @@
   },
   "active": "3e69d9508f3438af",
   "lastOpenFiles": [
+    "Fleeting/I-O.md",
     "VocabularyBank/Abuzz.md",
+    "Fleeting/Downgrade.md",
+    "Leetcode/List.md",
+    "Leetcode/bitwise.md",
     "Fleeting/Carry out.md",
     "Fleeting/Cuda.md",
     "Fleeting/投資.md",
@@ -263,17 +267,13 @@
     "Literature/DBMS/Index.md",
     "Literature/DBMS/DBMS.md",
     "Literature/DBMS/Consistency.md",
-    "Leetcode/List.md",
     "Leetcode/questions/274-H-Index.md",
     "Leetcode/questions/48-Rotate-Image.md",
     "Leetcode/Q. Num.md",
     "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
     "questions/48-Rotate.md",
-    "questions/48..md",
     "questions",
-    "Leetcode/bitwise.md",
     "Leetcode/questions",
-    "Literature/Cloud/AWS/compute/EC2.md",
     "Untitled.canvas",
     "Excalidraw",
     "Fleeting/attachments/Pasted image 20240326135310.png",
