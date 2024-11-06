@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
+                "file": "Leetcode/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "323-Number-of-Connected-Components-in-an-Undirected-Graph"
+              "title": "List"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
+                "file": "Leetcode/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 323-Number-of-Connected-Components-in-an-Undirected-Graph"
+              "title": "Backlinks for List"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
+                "file": "Leetcode/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 323-Number-of-Connected-Components-in-an-Undirected-Graph"
+              "title": "Outgoing links from List"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md"
+                "file": "Leetcode/List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 323-Number-of-Connected-Components-in-an-Undirected-Graph"
+              "title": "Outline of List"
             }
           },
           {
@@ -246,6 +246,9 @@
   },
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
+    "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
+    "Leetcode/List.md",
+    "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
     "Leetcode/questions/274-H-Index.md",
     "Leetcode/questions/48-Rotate-Image.md",
     "Fleeting/Kadane's Algorithm.md",
@@ -255,12 +258,10 @@
     "Literature/Network/Network tools.md",
     "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/System Design/System interview.md",
-    "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
     "VocabularyBank/Cast.md",
     "VocabularyBank/Abuzz.md",
     "VocabularyBank/Tag and Code.md",
     "VocabularyBank/Turn out.md",
-    "Leetcode/List.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Fleeting/I-O.md",
@@ -273,7 +274,6 @@
     "Fleeting/Attention is all you need.md",
     "Fleeting/Bit Mask.md",
     "Literature/DBMS/Transaction.md",
-    "Literature/DBMS/Saga Pattern.md",
     "questions",
     "Leetcode/questions",
     "Untitled.canvas",
