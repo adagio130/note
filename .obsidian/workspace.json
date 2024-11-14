@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "15-3Sum"
             }
+          },
+          {
+            "id": "535ecb6946fe2364",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,12 +232,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "45750543bef52e53",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -244,7 +267,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c777a266e4764de6",
+  "active": "45750543bef52e53",
   "lastOpenFiles": [
     "Leetcode/List.md",
     "Leetcode/questions/15-3Sum.md",
