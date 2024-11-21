@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/tips.md",
+                "file": "Leetcode/questions/909-Snakes-and-Ladders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tips"
+              "title": "909-Snakes-and-Ladders"
             }
           },
           {
@@ -271,10 +271,12 @@
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
     "Leetcode/List.md",
+    "Leetcode/bitwise.md",
+    "Leetcode/Q. Num.md",
     "Leetcode/tips.md",
+    "Leetcode/questions/909-Snakes-and-Ladders.md",
     "Leetcode/questions/211-Design-Add-and-Search-Words-Data-Structure.md",
     "Leetcode/questions/208-Implement-Trie-(Prefix-Tree).md",
-    "Leetcode/bitwise.md",
     "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
     "Leetcode/questions/15-3Sum.md",
     "Leetcode/questions/48-Rotate-Image.md",
@@ -288,14 +290,12 @@
     "Literature/Data structure/Heap.md",
     "Literature/Data structure/Data Structure.md",
     "Literature/Data structure/Generate All combination.md",
-    "Leetcode/Q. Num.md",
     "Fleeting/Kadane's Algorithm.md",
     "Literature/DBMS/Locks.md",
     "Literature/DBMS/Index.md",
     "Literature/DBMS/Sharding.md",
     "Literature/Network/Network tools.md",
     "Literature/OpenBMC/OpenBMC Note.md",
-    "Literature/System Design/System interview.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
