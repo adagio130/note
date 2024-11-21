@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Leetcode/questions/433-Minimum-Genetic-Mutation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "433-Minimum-Genetic-Mutation"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,11 +254,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e23533bac9261",
+  "active": "c777a266e4764de6",
   "lastOpenFiles": [
+    "Leetcode/List.md",
+    "Leetcode/questions/433-Minimum-Genetic-Mutation.md",
     "Leetcode/questions/909-Snakes-and-Ladders.md",
     "Leetcode/questions/211-Design-Add-and-Search-Words-Data-Structure.md",
-    "Leetcode/List.md",
     "Leetcode/bitwise.md",
     "Leetcode/Q. Num.md",
     "Leetcode/tips.md",
@@ -282,7 +282,6 @@
     "Literature/DBMS/Index.md",
     "Literature/DBMS/Sharding.md",
     "Literature/Network/Network tools.md",
-    "Literature/OpenBMC/OpenBMC Note.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
