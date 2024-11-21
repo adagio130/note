@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards/questions",
+                "query": "tag:#BFS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,7 +255,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c777a266e4764de6",
+  "active": "031e23533bac9261",
   "lastOpenFiles": [
     "Leetcode/questions/909-Snakes-and-Ladders.md",
     "Leetcode/questions/211-Design-Add-and-Search-Words-Data-Structure.md",
