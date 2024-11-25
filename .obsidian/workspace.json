@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Cache.md",
+                "file": "Literature/System Design/cache/Cache.md",
                 "mode": "source",
                 "source": false
               },
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e23533bac9261",
+  "active": "c777a266e4764de6",
   "lastOpenFiles": [
+    "Literature/Data structure/Generate All combination.md",
+    "Literature/System Design/cache/Cache.md",
+    "Literature/System Design/cache",
+    "Literature/Data structure/Data Structure.md",
+    "Literature/Data structure/Heap.md",
+    "Fleeting/Caching patterns.md",
+    "Literature/Data structure/Trie.md",
+    "Fleeting/Cache.md",
     "Leetcode/questions/433-Minimum-Genetic-Mutation.md",
     "Leetcode/List.md",
     "Leetcode/questions/909-Snakes-and-Ladders.md",
@@ -274,15 +281,8 @@
     "Leetcode/questions/274-H-Index.md",
     "Leetcode/questions/286-Walls-and-Gates.md",
     "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
-    "Literature/Data structure/Trie.md",
-    "Literature/Data structure/Heap.md",
-    "Literature/Data structure/Data Structure.md",
-    "Literature/Data structure/Generate All combination.md",
     "Fleeting/Kadane's Algorithm.md",
     "Literature/DBMS/Locks.md",
-    "Literature/DBMS/Index.md",
-    "Literature/DBMS/Sharding.md",
-    "Literature/Network/Network tools.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
@@ -297,7 +297,6 @@
     "Leetcode/useful-tips",
     "Leetcode/dynamic program",
     "Leetcode/two-pointer",
-    "Leetcode",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",
