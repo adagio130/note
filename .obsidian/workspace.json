@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/System Design/cache/Cache.md",
+                "file": "Literature/System Design/message queue/Message queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache"
+              "title": "Message queue"
             }
           }
         ]
@@ -256,8 +256,10 @@
   },
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
-    "Literature/Data structure/Generate All combination.md",
     "Literature/System Design/cache/Cache.md",
+    "Literature/System Design/message queue/Message queue.md",
+    "Literature/System Design/message queue",
+    "Literature/Data structure/Generate All combination.md",
     "Literature/System Design/cache",
     "Literature/Data structure/Data Structure.md",
     "Literature/Data structure/Heap.md",
@@ -282,7 +284,6 @@
     "Leetcode/questions/286-Walls-and-Gates.md",
     "Leetcode/questions/323-Number-of-Connected-Components-in-an-Undirected-Graph.md",
     "Fleeting/Kadane's Algorithm.md",
-    "Literature/DBMS/Locks.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
@@ -296,7 +297,6 @@
     "IELTS/homework/Hank.pdf",
     "Leetcode/useful-tips",
     "Leetcode/dynamic program",
-    "Leetcode/two-pointer",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.13.41.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.03.05.png",
     "Literature/Cloud/AWS/attachments/截圖 2024-01-06 上午10.01.50.png",
