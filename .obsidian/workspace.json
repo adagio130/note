@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/questions/433-Minimum-Genetic-Mutation.md",
+                "file": "Fleeting/Cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "433-Minimum-Genetic-Mutation"
+              "title": "Cache"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BFS",
+                "query": "line:(read)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "right": {
     "id": "98286ee58c63722b",
@@ -254,10 +255,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c777a266e4764de6",
+  "active": "031e23533bac9261",
   "lastOpenFiles": [
-    "Leetcode/List.md",
     "Leetcode/questions/433-Minimum-Genetic-Mutation.md",
+    "Leetcode/List.md",
     "Leetcode/questions/909-Snakes-and-Ladders.md",
     "Leetcode/questions/211-Design-Add-and-Search-Words-Data-Structure.md",
     "Leetcode/bitwise.md",
