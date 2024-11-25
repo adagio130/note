@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(read)",
+                "query": "line:(through)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
