@@ -1,3 +1,4 @@
 #distribute-system 
 
-1. 
+1. Goal: to solve the available problems (redistribute the workload evenly)
+2. 
