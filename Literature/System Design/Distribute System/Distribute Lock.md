@@ -1,4 +1,4 @@
-
+#distribute-system 
 Redis:
 1. 指令：setnx key val (set if not exists)
 	1. 當key不存在的時候，將key設定成value。
