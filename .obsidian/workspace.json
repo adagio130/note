@@ -274,8 +274,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "626471a4c8e3a956",
+  "active": "c777a266e4764de6",
   "lastOpenFiles": [
+    "Leetcode/questions/238-Product-of-Array-Except-Self.md",
     "Leetcode/List.md",
     "Leetcode/questions/77-Combinations.md",
     "Literature/System Design/Distribute System/Consistency Hash.md",
@@ -303,7 +304,6 @@
     "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
     "Leetcode/questions/15-3Sum.md",
     "Leetcode/questions/48-Rotate-Image.md",
-    "Leetcode/questions/98-Validate-Binary-Search-Tree.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
