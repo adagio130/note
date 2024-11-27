@@ -1,3 +1,3 @@
 #flashcards/questions 
 ==a==
-separately count left product and right product for each element.
+1. separately count left product and right product for each element.
