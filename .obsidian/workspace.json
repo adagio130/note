@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
+                "file": "Leetcode/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "918-Maximum-Sum-Circular-Subarray"
+              "title": "List"
             }
           }
         ]
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kadanes-algorithm",
+                "query": "tag:#DFS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,6 +277,7 @@
   },
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
+    "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
     "Leetcode/List.md",
     "Literature/Database/Update.md",
     "Leetcode/questions/286-Walls-and-Gates.md",
@@ -304,7 +305,6 @@
     "Leetcode/Q. Num.md",
     "Leetcode/tips.md",
     "Leetcode/questions/208-Implement-Trie-(Prefix-Tree).md",
-    "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
