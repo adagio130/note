@@ -6,6 +6,7 @@
       {
         "id": "103991f6f6f23f23",
         "type": "tabs",
+        "dimension": 71.875,
         "children": [
           {
             "id": "c777a266e4764de6",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/List.md",
+                "file": "Leetcode/questions/79-Word-Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "79-Word-Search"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "81963773edbfc888",
         "type": "tabs",
+        "dimension": 28.125,
         "children": [
           {
             "id": "626471a4c8e3a956",
@@ -93,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,8 +278,9 @@
   },
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
-    "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
     "Leetcode/List.md",
+    "Leetcode/questions/79-Word-Search.md",
+    "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
     "Literature/Database/Update.md",
     "Leetcode/questions/286-Walls-and-Gates.md",
     "Leetcode/questions/77-Combinations.md",
@@ -304,7 +306,6 @@
     "Leetcode/bitwise.md",
     "Leetcode/Q. Num.md",
     "Leetcode/tips.md",
-    "Leetcode/questions/208-Implement-Trie-(Prefix-Tree).md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
