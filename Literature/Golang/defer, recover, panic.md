@@ -4,5 +4,5 @@
 	- Deferred functions may read and assign to the returning function’s named return values
 	- A deferred function’s arguments are evaluated when the defer statement is evaluated.
 	- even panic, still execute
+- ### panic:
 	- 
-- 
