@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Golang/Golang設計哲學.md",
+                "file": "Literature/Golang/defer, recover,.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golang設計哲學"
+              "title": "defer, recover,"
             }
           },
           {
@@ -292,8 +292,9 @@
   },
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
-    "Literature/Golang/Goroutine 調用流程.md",
     "Literature/Golang/Golang設計哲學.md",
+    "Literature/Golang/defer, recover,.md",
+    "Literature/Golang/Goroutine 調用流程.md",
     "Literature/Golang/attachments/output.png",
     "Literature/Golang/attachments/flow.png",
     "Literature/Golang/attachments/截圖 2024-12-04 中午12.58.55 1.png",
@@ -326,7 +327,6 @@
     "Leetcode/questions/433-Minimum-Genetic-Mutation.md",
     "Leetcode/questions/909-Snakes-and-Ladders.md",
     "Leetcode/questions/211-Design-Add-and-Search-Words-Data-Structure.md",
-    "Leetcode/bitwise.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
