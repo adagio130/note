@@ -7,7 +7,7 @@ G: Groutine
 P: Processor
 M: Machine (mapping to kernel thread)
 
-priority: local queue -> global queue (also look up nte) -> others local queue
+priority: local queue -> global queue (also look up netpoller) -> others local queue
 
 Suspended timing:
 1. Blocking Operations (netpoller would notify M to handle G)
