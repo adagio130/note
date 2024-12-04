@@ -12,12 +12,14 @@
             "id": "c777a266e4764de6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Literature/Golang/attachments/output.png"
+                "file": "Literature/Golang/Goroutine 調用流程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "output"
+              "icon": "lucide-file",
+              "title": "Goroutine 調用流程"
             }
           },
           {
@@ -290,10 +292,10 @@
   },
   "active": "c777a266e4764de6",
   "lastOpenFiles": [
-    "Literature/Golang/attachments/截圖 2024-12-04 中午12.58.55.png",
-    "Literature/Golang/attachments/截圖 2024-12-04 中午12.58.55 1.png",
-    "Literature/Golang/Goroutine 調用流程.md",
     "Literature/Golang/attachments/output.png",
+    "Literature/Golang/Goroutine 調用流程.md",
+    "Literature/Golang/attachments/flow.png",
+    "Literature/Golang/attachments/截圖 2024-12-04 中午12.58.55 1.png",
     "Literature/Golang/attachments",
     "Literature/Golang/attach",
     "Literature/Golang/未命名檔案夾",

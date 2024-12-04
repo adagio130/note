@@ -1,6 +1,7 @@
-
+Goroutine status
+![[output.png]]
 GMP 
-![[截圖 2024-12-04 中午12.58.55.png]]
+![[flow.png]]
 G: Groutine
 P: Processor
-M: Machine
+M: Machine (kernel thread)
