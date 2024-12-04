@@ -3,6 +3,10 @@
 	- Deferred function calls are executed in Last In First Out order after the surrounding function returns.
 	- Deferred functions may read and assign to the returning function’s named return values
 	- A deferred function’s arguments are evaluated when the defer statement is evaluated.
-	- even panic, still execute
 - ### panic:
+	- 當panic發生時，發生panic的function會停在呼叫panic的地方
+	- 從panic的function開始依序往caller端(此goroutine)執行每個function中已紀錄的deferred functions, 因為是stack所以會是後進先出的順序，直到呼叫頂端(main或goroutine的起始function)
+	- 如果過程中都沒有遇到recover，則印出error的訊息（傳進panic的參數）及印出發生panic的stack trace
+	- 回傳錯誤碼2
+- ### recover:
 	- 
