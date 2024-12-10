@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "f970e70363484c65",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "55b13956291268b4",
             "type": "leaf",
             "state": {
@@ -36,7 +48,8 @@
               "title": "77-Combinations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "81963773edbfc888",
@@ -265,12 +278,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "edf29ab69dee2558",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -290,7 +313,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c777a266e4764de6",
+  "active": "edf29ab69dee2558",
   "lastOpenFiles": [
     "Literature/Golang/defer, recover, panic.md",
     "Literature/Golang/Slice, Array.md",
