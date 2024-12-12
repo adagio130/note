@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hashmap",
+                "query": "man",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -313,7 +314,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edf29ab69dee2558",
+  "active": "031e23533bac9261",
   "lastOpenFiles": [
     "Literature/Golang/defer, recover, panic.md",
     "Literature/Golang/Slice, Array.md",
