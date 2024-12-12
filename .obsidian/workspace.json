@@ -6,7 +6,7 @@
       {
         "id": "103991f6f6f23f23",
         "type": "tabs",
-        "dimension": 71.875,
+        "dimension": 64.95327102803739,
         "children": [
           {
             "id": "c777a266e4764de6",
@@ -26,12 +26,14 @@
             "id": "f970e70363484c65",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Fleeting/Manacher's Algorithm.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Manacher's Algorithm"
             }
           },
           {
@@ -54,7 +56,7 @@
       {
         "id": "81963773edbfc888",
         "type": "tabs",
-        "dimension": 28.125,
+        "dimension": 35.046728971962615,
         "children": [
           {
             "id": "626471a4c8e3a956",
@@ -101,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "man",
+                "query": "Manacher's",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,7 +316,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "031e23533bac9261",
+  "active": "f970e70363484c65",
   "lastOpenFiles": [
     "Literature/Golang/defer, recover, panic.md",
     "Literature/Golang/Slice, Array.md",
