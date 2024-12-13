@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Database/Index.md",
+                "file": "Fleeting/Kadane's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Kadane's Algorithm"
             }
           },
           {
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Manacher's",
+                "query": "Kadane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -327,6 +328,7 @@
   },
   "active": "f970e70363484c65",
   "lastOpenFiles": [
+    "Literature/Database/Index.md",
     "Fleeting/Manacher's Algorithm.md",
     "Literature/Golang/defer, recover, panic.md",
     "Literature/Golang/Slice, Array.md",
@@ -361,7 +363,6 @@
     "Fleeting/Caching patterns.md",
     "Literature/Data structure/Trie.md",
     "Fleeting/Cache.md",
-    "Leetcode/questions/433-Minimum-Genetic-Mutation.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "questions",
