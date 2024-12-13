@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kadane",
+                "query": "heap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -326,7 +326,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f970e70363484c65",
+  "active": "031e23533bac9261",
   "lastOpenFiles": [
     "Literature/Database/Index.md",
     "Fleeting/Manacher's Algorithm.md",
