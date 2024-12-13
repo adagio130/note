@@ -13,3 +13,9 @@ explain statement:
 	- type
 	- rows
 	- possible_keys
+
+
+
+SELECTIVITY = DISTINCT_VALUES / TOTAL_ROWS
+- 如果 `true` 和 `false` 的比例接近 50:50，選擇性很低，索引幾乎無效。
+- 如果 `true` 只佔少量記錄（如 1%），選擇性很高，索引效果會非常好
