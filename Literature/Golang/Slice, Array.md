@@ -1,7 +1,9 @@
 #flashcards/DataStructure 
 #golang
-different betwe
+
+different between Slice and array ? a
 Array:
+
 
 Slice:
 ```
