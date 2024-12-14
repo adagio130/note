@@ -50,8 +50,7 @@
               "title": "77-Combinations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "81963773edbfc888",
@@ -64,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/questions/238-Product-of-Array-Except-Self.md",
+                "file": "Literature/System Design/Distribute System/Quorum System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "238-Product-of-Array-Except-Self"
+              "title": "Quorum System"
             }
           }
         ]
@@ -103,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isolation",
+                "query": "tag:#flashcards/questions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -325,13 +324,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f970e70363484c65",
+  "active": "c777a266e4764de6",
   "lastOpenFiles": [
+    "Literature/System Design/Distribute System/Consistency Hash.md",
+    "Literature/Golang/Slice, Array.md",
+    "Leetcode/questions/77-Combinations.md",
     "Literature/System Design/Distribute System/Consensus Algorithm.md",
+    "Literature/System Design/Distribute System/Quorum System.md",
+    "Literature/System Design/Distribute System/Distribute Lock.md",
+    "Leetcode/questions/238-Product-of-Array-Except-Self.md",
     "Literature/System Design/Cache/Cache.md",
     "VocabularyBank/Cast.md",
     "VocabularyBank/Abuzz.md",
-    "Literature/System Design/Distribute System/Quorum System.md",
     "Literature/Database/ACID.md",
     "Literature/Database/Locks.md",
     "Literature/Database/Partition.md",
@@ -340,7 +344,6 @@
     "Literature/Database/Index.md",
     "Fleeting/Manacher's Algorithm.md",
     "Literature/Golang/defer, recover, panic.md",
-    "Literature/Golang/Slice, Array.md",
     "Literature/Golang/Golang設計哲學.md",
     "Literature/Golang/Goroutine 調用流程.md",
     "Literature/Golang/attachments/output.png",
@@ -351,14 +354,10 @@
     "Literature/Golang/未命名檔案夾",
     "Leetcode/List.md",
     "Literature/Golang",
-    "Leetcode/questions/77-Combinations.md",
     "Leetcode/questions/79-Word-Search.md",
     "Leetcode/questions/918-Maximum-Sum-Circular-Subarray.md",
     "Literature/Database/Update.md",
     "Leetcode/questions/286-Walls-and-Gates.md",
-    "Leetcode/questions/238-Product-of-Array-Except-Self.md",
-    "Literature/System Design/Distribute System/Consistency Hash.md",
-    "Literature/System Design/Distribute System/Distribute Lock.md",
     "Literature/Database/Sharding.md",
     "Literature/System Design/Message queue",
     "Literature/System Design/Cache",

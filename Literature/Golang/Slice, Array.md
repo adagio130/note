@@ -1,6 +1,8 @@
+#flashcards/DataStructure 
+#golang
 
+==a==
 Array:
-
 
 
 Slice:
