@@ -1,13 +1,9 @@
 #flashcards/DataStructure 
 #golang
-
-
-::
+different betwe
 Array:
 
-
 Slice:
-
 ```
 {
 	pointer: address of array

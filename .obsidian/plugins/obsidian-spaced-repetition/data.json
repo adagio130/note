@@ -16,7 +16,7 @@
     ],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
-    "multilineCardSeparator": "---",
+    "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
