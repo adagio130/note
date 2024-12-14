@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/System Design/Authentication.md",
+                "file": "Literature/System Design/Distribute System/Consistency Hash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication"
+              "title": "Consistency Hash"
             }
           }
         ]
@@ -258,13 +258,16 @@
   },
   "active": "55b13956291268b4",
   "lastOpenFiles": [
-    "Literature/System Design/HttpOnly.md",
-    "Literature/System Design/Authentication.md",
-    "Literature/System Design/Message queue/Message queue.md",
-    "Literature/System Design/Logging, Metrics, Automation.md",
-    "Literature/System Design/Distribute System/Quorum System.md",
-    "Literature/System Design/Distribute System/Distribute Lock.md",
     "Literature/System Design/Distribute System/Consensus Algorithm.md",
+    "Literature/System Design/Distribute System/Consistency Hash.md",
+    "Literature/System Design/Distribute System/Distribute Lock.md",
+    "Literature/System Design/Distribute System/Quorum System.md",
+    "Literature/System Design/Message queue/Message queue.md",
+    "Literature/System Design/Authentication.md",
+    "Literature/System Design/HttpOnly.md",
+    "Literature/System Design/Logging, Metrics, Automation.md",
+    "Literature/Time management.md",
+    "Literature/System Design/System interview.md",
     "Literature/System Design/Cache/Cache.md",
     "Literature/OpenBMC/OpenBMC Note.md",
     "Literature/Network/Network tools.md",
@@ -274,8 +277,6 @@
     "Leetcode/tips.md",
     "Leetcode/Q. Num.md",
     "Leetcode/dynamic program/tips.md",
-    "Literature/System Design/Distribute System/Consistency Hash.md",
-    "Literature/System Design/System interview.md",
     "url.md",
     "2024-10-28.md",
     "Link.md",
@@ -285,7 +286,6 @@
     "questions/48..md",
     "questions/48-Rotate.md",
     "VocabularyBank/Stumble.md",
-    "Literature/Golang/Slice, Array.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Literature/Golang/attachments/output.png",
