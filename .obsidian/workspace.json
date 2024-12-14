@@ -244,16 +244,6 @@
             }
           },
           {
-            "id": "c41621c6c21e8b13",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "537aba2e02de0b67",
             "type": "leaf",
             "state": {
@@ -264,37 +254,7 @@
             }
           },
           {
-            "id": "58e7fae23ac26f46",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "45750543bef52e53",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "edf29ab69dee2558",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7dddbc4429427e81",
+            "id": "8a294c8f7b1091dd",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -304,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -324,7 +284,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c777a266e4764de6",
+  "active": "8a294c8f7b1091dd",
   "lastOpenFiles": [
     "Literature/System Design/Distribute System/Consistency Hash.md",
     "Literature/Golang/Slice, Array.md",

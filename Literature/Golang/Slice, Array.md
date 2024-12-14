@@ -1,7 +1,8 @@
 #flashcards/DataStructure 
 #golang
 
-==a==
+
+::
 Array:
 
 
@@ -14,4 +15,3 @@ Slice:
 	cap: how many elements can be stored
 }
 ```
-
