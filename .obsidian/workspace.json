@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/System Design/Distribute System/Consistency Hash.md",
+                "file": "Leetcode/questions/239-Sliding-Window-Maximum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consistency Hash"
+              "title": "239-Sliding-Window-Maximum"
             }
           }
         ]
@@ -258,8 +258,10 @@
   },
   "active": "55b13956291268b4",
   "lastOpenFiles": [
-    "Literature/System Design/Distribute System/Consensus Algorithm.md",
+    "Leetcode/List.md",
+    "Leetcode/questions/239-Sliding-Window-Maximum.md",
     "Literature/System Design/Distribute System/Consistency Hash.md",
+    "Literature/System Design/Distribute System/Consensus Algorithm.md",
     "Literature/System Design/Distribute System/Distribute Lock.md",
     "Literature/System Design/Distribute System/Quorum System.md",
     "Literature/System Design/Message queue/Message queue.md",
@@ -273,7 +275,6 @@
     "Literature/Network/Network tools.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Leetcode/List.md",
     "Leetcode/tips.md",
     "Leetcode/Q. Num.md",
     "Leetcode/dynamic program/tips.md",
@@ -285,7 +286,6 @@
     "Untitled 1.canvas",
     "questions/48..md",
     "questions/48-Rotate.md",
-    "VocabularyBank/Stumble.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Literature/Golang/attachments/output.png",
