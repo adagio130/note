@@ -151,3 +151,25 @@
 7、分组背包最值问题
 8、分组背包存在问题
 9、分组背包组合问题
+
+分类解题模板
+背包问题大体的解题模板是两层循环，分别遍历物品nums和背包容量target，然后写转移方程，
+根据背包的分类我们确定物品和容量遍历的先后顺序，根据问题的分类我们确定状态转移方程的写法
+
+首先是背包分类的模板：
+1、0/1背包：外循环nums,内循环target,target倒序且target>=nums[i];
+2、完全背包：外循环nums,内循环target,target正序且target>=nums[i];
+3、组合背包(考虑顺序)：外循环target,内循环nums,target正序且target>=nums[i];
+4、分组背包：这个比较特殊，需要三重循环：外循环背包bags,内部两层循环根据题目的要求转化为1,2,3三种背包类型的模板
+
+然后是问题分类的模板：
+1、最值问题: dp[i] = max/min(dp[i], dp[i-nums]+1)或dp[i] = max/min(dp[i], dp[i-num]+nums);
+2、存在问题(bool)：dp[i]=dp[i]||dp[i-num];
+3、组合问题：dp[i]+=dp[i-num];
+
+
+
+作者：星晴pro
+链接：https://leetcode.cn/problems/coin-change/solutions/778891/yi-pian-wen-zhang-chi-tou-bei-bao-wen-ti-sq9n/
+来源：力扣（LeetCode）
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
