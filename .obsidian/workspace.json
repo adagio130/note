@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/tips.md",
+                "file": "Literature/Golang/defer, recover, panic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tips"
+              "title": "defer, recover, panic"
             }
           }
         ]
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "O(",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,6 +259,7 @@
   "active": "55b13956291268b4",
   "lastOpenFiles": [
     "Leetcode/tools.md",
+    "Leetcode/tips.md",
     "Literature/System Design/Distribute System/Consistency Hash.md",
     "Leetcode/questions/239-Sliding-Window-Maximum.md",
     "Leetcode/List.md",
@@ -276,7 +277,6 @@
     "Literature/Network/Network tools.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Leetcode/tips.md",
     "Leetcode/Q. Num.md",
     "Leetcode/dynamic program/tips.md",
     "url.md",
