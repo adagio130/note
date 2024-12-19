@@ -1,5 +1,5 @@
 Goroutine status
-![[output.png]]
+
 
 GMP 
 ![[flow.png]]

@@ -1,6 +1,6 @@
 
 
-###
+### Sort string 
 ```
 // sorted a string
 func sortString(s string) string {

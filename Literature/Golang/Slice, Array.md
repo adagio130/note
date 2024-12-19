@@ -2,7 +2,7 @@
 #golang
 
 different between Slice and array 
-??
+
 Array:
 ```
 

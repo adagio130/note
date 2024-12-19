@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Golang/defer, recover, panic.md",
+                "file": "Leetcode/bitwise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "defer, recover, panic"
+              "title": "bitwise"
             }
           }
         ]
@@ -258,11 +258,18 @@
   },
   "active": "55b13956291268b4",
   "lastOpenFiles": [
-    "Leetcode/tools.md",
+    "Leetcode/List.md",
     "Leetcode/tips.md",
+    "Leetcode/tools.md",
+    "Literature/Docker/Docker install (AMI install).md",
+    "Literature/Docker/Docker network.md",
+    "Literature/Docker/Isolation.md",
+    "Literature/Golang/Slice, Array.md",
+    "Literature/Golang/Goroutine 調用流程.md",
+    "Literature/Golang/Golang設計哲學.md",
+    "Literature/Golang/defer, recover, panic.md",
     "Literature/System Design/Distribute System/Consistency Hash.md",
     "Leetcode/questions/239-Sliding-Window-Maximum.md",
-    "Leetcode/List.md",
     "Literature/System Design/Distribute System/Consensus Algorithm.md",
     "Literature/System Design/Distribute System/Distribute Lock.md",
     "Literature/System Design/Distribute System/Quorum System.md",
@@ -277,15 +284,8 @@
     "Literature/Network/Network tools.md",
     "Literature/java/ConcurrentPart2.md",
     "Literature/java/ArrayList-v.s.-Vector.md",
-    "Leetcode/Q. Num.md",
-    "Leetcode/dynamic program/tips.md",
-    "url.md",
-    "2024-10-28.md",
-    "Link.md",
-    "README.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "questions/48..md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Literature/Golang/attachments/output.png",
