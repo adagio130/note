@@ -1,4 +1,9 @@
 
+### output byte string
+```
+binaryStr := fmt.Sprintf("%b", num)
+```
+
 
 ### Sort string 
 ```
