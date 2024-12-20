@@ -1,9 +1,15 @@
 ### binary search
 ```
+// nums accend sequence
 // [left,right)
 left := 0
 right := len(nums)
-while left < right
+for left < right {
+	mid := (left + right) / 2
+	if target == nums[mid]{
+		return target
+	}
+}
 ```
 ### output byte string
 ```
