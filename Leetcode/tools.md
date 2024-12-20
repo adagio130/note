@@ -1,4 +1,7 @@
+### binary search
+```
 
+```
 ### output byte string
 ```
 binaryStr := fmt.Sprintf("%b", num)
