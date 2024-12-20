@@ -3,6 +3,7 @@
 // [left,right)
 left := 0
 right := len(nums)
+while left < right
 ```
 ### output byte string
 ```
