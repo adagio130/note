@@ -1,6 +1,8 @@
 ### binary search
 ```
-
+// [left,right)
+left := 0
+right := len(nums)
 ```
 ### output byte string
 ```
