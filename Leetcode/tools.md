@@ -60,14 +60,16 @@ func (h *IntHeap) Push(x interface{}) {
 	} 
 	
 func (h *IntHeap) Pop() interface{} { 
-		old := *h n := len(old) 
+		old := *h 
+		n := len(old) 
 	// 先將要回傳的值暫存起來 
 		x := old[n-1] 
 	// 切片重切，因為 heap 套件在內部實作時是 
 	// 靠切片的長度在定位 
 	// 跟我們先前的方式不太一樣 
 	// 所以一定要重切 
-		*h = old[0 : n-1] return x 
+		*h = old[0 : n-1] 
+		return x 
 	} 
 
 // This example inserts several ints into an IntHeap, checks the minimum, // and removes them in order of priority. 
