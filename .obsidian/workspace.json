@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/tips.md",
+                "file": "Leetcode/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tips"
+              "title": "List"
             }
           }
         ]
@@ -237,13 +237,13 @@
   "active": "55b13956291268b4",
   "lastOpenFiles": [
     "Leetcode/tools.md",
+    "Leetcode/tips.md",
     "Leetcode/List.md",
     "Literature/System Design/Distribute System/Consistency Hash.md",
     "Literature/System Design/Distribute System/Consensus Algorithm.md",
     "Literature/System Design/Cache/Cache.md",
     "Literature/Golang/Slice, Array.md",
     "Leetcode/bitwise.md",
-    "Leetcode/tips.md",
     "Literature/Docker/Docker install (AMI install).md",
     "Literature/Docker/Docker network.md",
     "Literature/Docker/Isolation.md",
