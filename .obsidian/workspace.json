@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -234,7 +234,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55b13956291268b4",
+  "active": "8a294c8f7b1091dd",
   "lastOpenFiles": [
     "Leetcode/tools.md",
     "Leetcode/tips.md",
